@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 title = "Wasim Ullah"
 
-iconFont = "font-awesome"
+iconFont = "mono-social"
 socialIconStyle = ""
 
 [social]
