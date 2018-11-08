@@ -1,8 +1,8 @@
 # Site settings
-baseurl = "wasim.blog"
+baseurl = "https://wasim.blog"
 languageCode = "en"
 title = "Wasim Ullah"
-theme = "hugo-theme-cactus-plus"
+theme = "cactus"
 googleAnalytics = "your_google_analytics_id"
 # Set the value to true if your site include CJK (Chinese, Japanese, and Korean languages) characters
 hasCJKLanguage = false
