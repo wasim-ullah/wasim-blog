@@ -2,15 +2,6 @@ baseURL = "/"
 languageCode = "en-us"
 title = "Wasim Ullah"
 
-twitter = "mrwullah"
-enableTwitterCard = true
-
-enableRSS = true
-enableToc = true
-
-enableDisqus = true
-disqusShortname = "WasimU"
-
 iconFont = "mono-social"
 socialIconStyle = ""
 
