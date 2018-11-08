@@ -16,7 +16,7 @@ weight: 10
 ---
 
 
-### **Introduction**
+# Introduction
 
 This tutorial will show you how to create a simple theme in Hugo.
 
