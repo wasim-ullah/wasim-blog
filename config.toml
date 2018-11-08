@@ -6,4 +6,4 @@ iconFont = "font-awesome"
 socialIconStyle = ""
 
 [social]
-linkedin-in = "https://www.linkedin.com/in/mrwullah"
+fa fa-linkedin-square = "https://www.linkedin.com/in/mrwullah"
