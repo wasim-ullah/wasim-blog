@@ -2,5 +2,6 @@ baseURL = "/"
 languageCode = "en-us"
 title = "Wasim Ullah"
 
+iconFont = "font-awesome"
 [social]
-facebook-square = "https://www.facebook.com/nodejh"
+linkedin-square = "https://www.linkedin.com/in/mrwullah"
