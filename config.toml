@@ -3,5 +3,7 @@ languageCode = "en-us"
 title = "Wasim Ullah"
 
 iconFont = "font-awesome"
+socialIconStyle = ""
+
 [social]
-linkedin-square = "https://www.linkedin.com/in/mrwullah"
+linkedin = "https://www.linkedin.com/in/mrwullah"
