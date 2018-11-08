@@ -4,6 +4,7 @@ languageCode = "en"
 title = "Wasim Ullah"
 theme = "cactus"
 googleAnalytics = "your_google_analytics_id"
+HUGO_VERSION = 0.51
 # Set the value to true if your site include CJK (Chinese, Japanese, and Korean languages) characters
 hasCJKLanguage = false
 
