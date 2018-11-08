@@ -2,8 +2,8 @@ baseURL = "/"
 languageCode = "en-us"
 title = "Wasim Ullah"
 
-iconFont = "font-awesome"
+iconFont = "mono-social"
 socialIconStyle = ""
 
 [social]
-fa-linkedin-square = "https://www.linkedin.com/in/mrwullah"
+circlelinkedin = "https://www.linkedin.com/in/mrwullah"
