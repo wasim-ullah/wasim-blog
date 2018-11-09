@@ -60,6 +60,11 @@ googleAnalytics = "UA-129037953-1"
 	# 404 page
 	title404 = ""
 	subtitle404 = ""
+	
+	# Sharing options and author information in posts
+	aboutAuthor = "I'm an blogger."
+	tweet = ""
+	share = ""
 
 iconFont = "mono-social"
 socialIconStyle = ""
