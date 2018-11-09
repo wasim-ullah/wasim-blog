@@ -35,9 +35,17 @@
                 </section>
             </article>
 
-            {{ if .Site.Params.enableShare }}
-                {{ partial "share.html" . }}
-            {{ end }}
+            <footer id="post-meta" class="clearfix">
+    {{ with .Site.Params.twitter }}<a href="https://twitter.com/{{ . }}">{{ end }}
+    <img class="avatar" src="{{ "images/avatar.png" | absURL }}">
+    <div>
+        <span class="dark">{{ .Site.Params.name }}</span>
+        <span>{{ .Site.Params.aboutAuthor }}</span>
+    </div>
+    {{ with .Site.Params.twitter }}</a>{{ end }}
+    <section id="sharing">
+        {{ partial "share.html" . }}
+    </section>
 
             {{ if .Site.Params.enableDisqus }}
                 {{ partial "disqus.html" . }}
