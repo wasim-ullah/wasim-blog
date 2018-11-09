@@ -20,7 +20,7 @@ You no longer need a human support to do the same work over and over. These tech
 
 When used in moderate environment, these technologies are flawless and handsome enough to inspire a large scale human growth.
 
-1. AI Writer
+## 1. AI Writer
 
 A free tool to write any article on any topic or rephrase those articles. You can also adjust the uniqueness for different sentences.
 
@@ -30,13 +30,13 @@ Examples of this tool are how to write a good blog post? and how to determine th
 
 While Spin Rewriter is another great tool using ENL Semantic Spinning Technology to automate writing articles.
 
-2. Many Chat
+## 2. Many Chat
 
 Ever wanted to engage your Facebook fan page audience on daily basis without having to send inbox messages to each and every one of them? This is possible through Manychat. After a user shows their consent to subscribe to your daily Facebook messages, they will receive a series of notifications and new feed from you.
 
 Hubspot chatbot is second suitable option here.
 
-3. IFTTT
+## 3. IFTTT
 
 Ifttt helps your apps and devices work together in new ways. From your daily home chores, to special events, occasions, blog posts, your mobile phone functions to news information and even social media sharing without requiring complex coding knowledge. You can even edit the content shared from one platform to another, then leave it to automation — even when you’re sleeping — it’ll work on its own.
 
