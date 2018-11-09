@@ -34,7 +34,8 @@
                     {{ .Content }}
                 </section>
             </article>
-
+            
+<footer id="post-meta" class="clearfix">
             {{ with .Site.Params.twitter }}<a href="https://twitter.com/{{ . }}">{{ end }}
     <img class="avatar" src="{{ "images/avatar.png" | absURL }}">
     <div>
@@ -45,6 +46,7 @@
     <section id="sharing">
         {{ partial "share.html" . }}
     </section>
+    </footer>
 
             {{ if .Site.Params.enableShare }}
                 {{ partial "share.html" . }}
