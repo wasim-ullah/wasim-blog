@@ -36,24 +36,21 @@
             </article>
 
 
-            <footer id="post-meta" class="clearfix">
-    {{ with .Site.Params.twitter }}<a href="https://twitter.com/{{ . }}">{{ end }}
-    <img class="avatar" src="{{ "images/avatar.png" | absURL }}">
-    <div>
-        <span class="dark">{{ .Site.Params.name }}</span>
-        <span>{{ .Site.Params.aboutAuthor }}</span>
-    </div>
-    {{ with .Site.Params.twitter }}</a>{{ end }}
-    <section id="sharing">
-        {{ partial "share.html" . }}
-    </section>
-</footer>
+            {{ if .Site.Params.enableShare }}
+                {{ partial "share.html" . }}
+            {{ end }}
 
-{{ template "_internal/disqus.html" . }}
+            {{ if .Site.Params.enableDisqus }}
+                {{ partial "disqus.html" . }}
+            {{ end }}
 
-{{ partial "latest-posts.html" . }}
-{{ end }}
+            {{ if .Site.Params.showLatestPosts }}
+                {{ partial "latest-posts.html" . }}
+            {{ end }}
 
-                    {{ partial "js.html" . }}
+            {{ partial "footer.html" . }}
+        </section>
+
+        {{ partial "js.html" . }}
     </body>
 </html>
