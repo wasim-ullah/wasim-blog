@@ -13,7 +13,7 @@ description: How can you automate your online growth in three simple ways.
 weight: 10
 ---
 
-<iframe src="https://giphy.com/embed/VV2g1RsyoSOpq" width="100%" height="350" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+![Growth Tools](/static/growthtools)
 
 Your business growth can be tedious process. After some minutes, when the tasks are repetitive in nature, we mostly feel bored and aggressive — to finish the repetitive tasks faster.
 
