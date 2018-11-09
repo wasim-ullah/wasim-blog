@@ -5,8 +5,8 @@ googleAnalytics = "UA-129037953-1"
 
 [params]
 	author = "Wasim Ullah"
-	description = "Site Description"
-	bio = "Marketing. Design."
+	description = "New media marketing "
+	bio = "Sell. Code. Draw."
 
 	twitter = "mrwullah"
 	facebook = "mrwullah"
@@ -14,7 +14,7 @@ googleAnalytics = "UA-129037953-1"
 	enableRSS = true
 	enableToc = true
 
-	enableDisqus = true
+	enableDisqus = false
 	disqusShortname = "WasimU"
 
 
