@@ -53,7 +53,7 @@ googleAnalytics = "UA-129037953-1"
 	readMore = ""
 
 	# Share
-	enableShare = true
+	enableShare = false
 	tweet = ""
 	share = ""
 
