@@ -15,6 +15,8 @@ weight: 10
 
 <iframe src="https://giphy.com/embed/3o7aCScwdMAohPCq76" width="100%" height="100%" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
+![Example image](https://giphy.com/embed/3o7aCScwdMAohPCq76)
+
 Your business growth can be tedious process. After some minutes, when the tasks are repetitive in nature, we mostly feel bored and aggressive — to finish the repetitive tasks faster.
 
 You no longer need a human support to do the same work over and over. These technologies in customer support, content sharing, article writing, and many more can help you relax your muscles.
