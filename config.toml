@@ -4,7 +4,7 @@ title = "Wasim Ullah"
 googleAnalytics = "UA-129037953-1"
 
 [params]
-	author = "Wasim Ullah"
+	name = "Wasim Ullah"
 	description = "Read opinion based articles and curated content on anything related to marketing, design, and coding."
 
 	twitter = "mrwullah"
@@ -62,7 +62,7 @@ googleAnalytics = "UA-129037953-1"
 	subtitle404 = ""
 	
 	# Sharing options and author information in posts
-	aboutAuthor = "I'm an blogger."
+	aboutAuthor = "Seller."
 
 iconFont = "mono-social"
 socialIconStyle = ""
