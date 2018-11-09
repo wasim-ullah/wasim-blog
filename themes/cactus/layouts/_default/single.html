@@ -32,11 +32,8 @@
                 {{ end }}
                 <section id="post-body">
                     {{ .Content }}
-                </section>
-            </article>
-
-
-    {{ with .Site.Params.twitter }}<a href="https://twitter.com/{{ . }}">{{ end }}
+                    
+                        {{ with .Site.Params.twitter }}<a href="https://twitter.com/{{ . }}">{{ end }}
     <img class="avatar" src="{{ "images/avatar.png" | absURL }}">
     <div>
         <span class="dark">{{ .Site.Params.name }}</span>
@@ -46,7 +43,12 @@
     <section id="sharing">
         {{ partial "share.html" . }}
     </section>
+                    
+                </section>
+            </article>
 
+
+            <footer id="post-meta" class="clearfix">
             {{ if .Site.Params.enableDisqus }}
                 {{ partial "disqus.html" . }}
             {{ end }}
@@ -54,8 +56,7 @@
             {{ if .Site.Params.showLatestPosts }}
                 {{ partial "latest-posts.html" . }}
             {{ end }}
-
-                        <footer id="post-meta" class="clearfix">
+            
             {{ partial "footer.html" . }}
         </section>
 
