@@ -4,18 +4,18 @@ title = "Wasim Ullah"
 googleAnalytics = "UA-129037953-1"
 
 [params]
-	author = "site_author"
+	author = "Wasim Ullah"
 	description = "Site Description"
-	bio = "author biography"
+	bio = "Marketing. Design."
 
-	twitter = "your_twitter_id"
-	facebook = "your_facebook_id"
+	twitter = "mrwullah"
+	facebook = "mrwullah"
 
 	enableRSS = true
 	enableToc = true
 
 	enableDisqus = true
-	disqusShortname = "your_disqus_short_name"
+	disqusShortname = "WasimU"
 
 
 	enableSummary = true
