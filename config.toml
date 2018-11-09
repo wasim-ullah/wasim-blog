@@ -63,8 +63,6 @@ googleAnalytics = "UA-129037953-1"
 	
 	# Sharing options and author information in posts
 	aboutAuthor = "I'm an blogger."
-	tweet = ""
-	share = ""
 
 iconFont = "mono-social"
 socialIconStyle = ""
