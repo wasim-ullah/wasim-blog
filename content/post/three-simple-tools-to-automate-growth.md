@@ -5,12 +5,8 @@ linktitle: Three Simple Tools To Automate Growth
 tags: [
     "growth",
 ]
-menu:
-  main:
-    parent: tutorials
 title: Three Simple Tools To Automate Growth
 description: How can you automate your online growth in three simple ways.
-weight: 10
 ---
 
 ![Growth Tools](/images/growthtools.jpg)
