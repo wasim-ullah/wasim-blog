@@ -1,19 +1,19 @@
 ---
 author: "Wasim Ullah"
 date: 2018-11-09
-linktitle: Three Simple Tools To Automate Online Growth
+linktitle: Three Simple Tools To Automate Growth
 tags: [
     "growth",
 ]
 menu:
   main:
     parent: tutorials
-title: Three Simple Tools To Automate Online Growth
+title: Three Simple Tools To Automate Growth
 description: How can you automate your online growth in three simple ways.
 weight: 10
 ---
 
-<iframe src="https://giphy.com/embed/VV2g1RsyoSOpq" width="100%" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe src="https://giphy.com/embed/VV2g1RsyoSOpq" width="100%" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 Your business growth can be tedious process. After some minutes, when the tasks are repetitive in nature, we mostly feel bored and aggressive — to finish the repetitive tasks faster.
 
