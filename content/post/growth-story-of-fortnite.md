@@ -30,7 +30,7 @@ The game rewards a user satisfying with their psychological needs, including eli
 After completing the first three components of Hooked Model, Eyal says that a user spending in something in order to improve it will return back. Money let us feel something is worthwhile, while in this case we can customize Fortnite characters that we are using which is even more thrilling. You will return back because you know its now your thing which you cared enough about and paid for it.
 
 
-# Subscribe for future updates
+### Subscribe for future updates
 
 <!-- Begin Mailchimp Signup Form -->
 
