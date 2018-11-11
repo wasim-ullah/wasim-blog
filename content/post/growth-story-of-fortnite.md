@@ -27,27 +27,4 @@ The initial trigger must be fulfilled, expected tastes should be satisfied other
 The game rewards a user satisfying with their psychological needs, including eliminating boredom, having fun with the friends who you already know, meeting strange people skilled at something you like, learning experience, unexpected scenes and characters, weapons of several types and more.
 
 ## Investment
-After completing the first three components of Hooked Model, Eyal says that a user spending in something in order to improve it will return back. Money let us feel something is worthwhile, while in this case we can customize Fortnite characters that we are using which is even more thrilling. You will return back because you know its now your thing which you cared enough about and paid for it. <br>
-
-I am starting my monthly newsletter on the topics similar to the one above. If you would like to hear those stories, subscribe below.
-
-<!-- Begin Mailchimp Signup Form -->
-
-<link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
-</style>
-<div id="mc_embed_signup">
-<form action="https://wasim.us19.list-manage.com/subscribe/post?u=be7fa968ad83145b90ecfd090&amp;id=10a3e47b2e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-   
-   <div id="mc_embed_signup_scroll">
-	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_be7fa968ad83145b90ecfd090_10a3e47b2e" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-    
-</form>
-</div>
-
-<!--End mc_embed_signup-->
+After completing the first three components of Hooked Model, Eyal says that a user spending in something in order to improve it will return back. Money let us feel something is worthwhile, while in this case we can customize Fortnite characters that we are using which is even more thrilling. You will return back because you know its now your thing which you cared enough about and paid for it.
