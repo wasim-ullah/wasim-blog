@@ -28,3 +28,33 @@ The game rewards a user satisfying with their psychological needs, including eli
 
 ## Investment
 After completing the first three components of Hooked Model, Eyal says that a user spending in something in order to improve it will return back. Money let us feel something is worthwhile, while in this case we can customize Fortnite characters that we are using which is even more thrilling. You will return back because you know its now your thing which you cared enough about and paid for it.
+
+<!-- Begin Mailchimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="https://wasim.us19.list-manage.com/subscribe/post?u=be7fa968ad83145b90ecfd090&amp;id=10a3e47b2e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	<h2>Subscribe to hear more from me</h2>
+<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+<div class="mc-field-group">
+	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+</label>
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+</div>
+<p><a href="https://us19.campaign-archive.com/home/?u=be7fa968ad83145b90ecfd090&id=10a3e47b2e" title="View previous campaigns">View previous campaigns.</a></p>
+	<div id="mce-responses" class="clear">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_be7fa968ad83145b90ecfd090_10a3e47b2e" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+
+<!--End mc_embed_signup-->
