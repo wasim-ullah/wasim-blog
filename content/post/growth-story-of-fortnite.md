@@ -27,9 +27,9 @@ The initial trigger must be fulfilled, expected tastes should be satisfied other
 The game rewards a user satisfying with their psychological needs, including eliminating boredom, having fun with the friends who you already know, meeting strange people skilled at something you like, learning experience, unexpected scenes and characters, weapons of several types and more.
 
 ## Investment
-After completing the first three components of Hooked Model, Eyal says that a user spending in something in order to improve it will return back. Money let us feel something is worthwhile, while in this case we can customize Fortnite characters that we are using which is even more thrilling. You will return back because you know its now your thing which you cared enough about and paid for it.<br>
+After completing the first three components of Hooked Model, Eyal says that a user spending in something in order to improve it will return back. Money let us feel something is worthwhile, while in this case we can customize Fortnite characters that we are using which is even more thrilling. You will return back because you know its now your thing which you cared enough about and paid for it. <br>
 
-If you would like to hear more from me, please subscribe to the future updates below.
+I am starting my monthly newsletter on the topics similar to the one above. If you would like to hear those stories, subscribe below.
 
 <!-- Begin Mailchimp Signup Form -->
 
