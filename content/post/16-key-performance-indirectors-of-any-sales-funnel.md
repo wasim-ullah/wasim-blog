@@ -1,12 +1,12 @@
 ---
 author: "Wasim Ullah"
 date: 2018-11-16
-linktitle: 16 Key Performance Indirectors Of Any Sales Funnel
+linktitle: 16 KPIs Of Any Sales Funnel
 tags: [
     "growth",
     "sales",
 ]
-title: 16 Key Performance Indirectors Of Any Sales Funnel
+title: 16 KPIs Of Any Sales Funnel
 description: How will you measure a sales funnel progress?
 
 ---
