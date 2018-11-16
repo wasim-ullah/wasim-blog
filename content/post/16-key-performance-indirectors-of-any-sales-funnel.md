@@ -6,7 +6,7 @@ tags: [
     "growth",
     "sales",
 ]
-title: 16bKey Performance Indirectors Of Any Sales Funnel
+title: 16 Key Performance Indirectors Of Any Sales Funnel
 description: How will you measure a sales funnel progress?
 
 ---
