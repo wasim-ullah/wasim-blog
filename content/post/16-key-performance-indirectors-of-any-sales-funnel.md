@@ -14,7 +14,7 @@ description: How will you measure a sales funnel progress?
 
 
 
-Key Performance Indicators (KPIs) can be tracked by some of the most commonly used metrics. However, variations of these metrics depends upon your business goals.
+Key Performance Indicators (KPIs) can be tracked by some of the most commonly used metrics. However, variations of these metrics depend upon your business goals.
 
 ## Awareness
 <ul>
