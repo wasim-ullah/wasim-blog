@@ -22,3 +22,6 @@ Forestry is built in elegant modern style. Both of them provide an extremely sim
 
 ## Security
 They are run in HTML deployed using API over CDN protected by Let's Encrpt Authority, therefore security is all time high.
+
+## Cost
+All you have to spend is buying a domain name, which by the way, you could also do for free from <a href="https://www.freenom.com/" target="_blank">FreeNom</a>. Then your files are hosted for free on Github and DNS can be either Netlify's or your own hosting provider. What's left? Emails? Use Zoho free for creating upto 25 emails using SPF and DKIM records.
