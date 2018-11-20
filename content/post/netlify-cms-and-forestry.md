@@ -20,9 +20,5 @@ JAM stands for javascript, API, and markup. While serving over content delivery 
 ## Simplicity
 Forestry is built in elegant modern style. Both of them provide an extremely simple layout which is also good for non-tech-savvy bloggers.
 
-
-## Simplicity
-Forestry is built in elegant modern style. Both of them provide an extremely simple layout which is also good for non-tech-savvy bloggers.
-
 ## Security
 They are run in HTML deployed using API over CDN protected by Let's Encrpt Authority, therefore security is all time high.
