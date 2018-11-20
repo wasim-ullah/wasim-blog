@@ -12,7 +12,7 @@ description: Great platforms for individual bloggers.
 
 ![Netlify CMS](/images/jamstack.jpg)
 
-A few weeks ago, I tried <a href="https://www.netlifycms.org/" target="_blank">Netlify CMS</a> <a href="https://forestry.io/" target="_blank">Forestry</a>, and here are the results that I found.
+A few weeks ago, I tried <a href="https://www.netlifycms.org/" target="_blank">Netlify CMS</a> and <a href="https://forestry.io/" target="_blank">Forestry</a>, and here are the results that I found.
 
 ## Speed
 JAM stands for javascript, API, and markup. While serving over content delivery network (CDN) with deployment, they're blazing fast. You don't have to setup database or .htaccess files anymore.
