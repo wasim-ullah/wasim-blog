@@ -1,0 +1,21 @@
+---
+author: "Wasim Ullah"
+date: 2018-11-25
+linktitle: Viral Content: 25k to 52k Organic Likes In Two Weeks
+tags: [
+    "growth",
+]
+title: Viral Content: 25k to 52k Organic Likes In Two Weeks
+description: An insights analysis of a video that went viral on Facebook.
+
+---
+
+![Viral Video](/images/viral.jpg)
+
+
+
+In 2017, I posted a short clip followed by similar other video clips.
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FBuddysFOY%2Fvideos%2F624278257764227%2F&show_text=1&width=476" width="476" height="588" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
+
+## Science
