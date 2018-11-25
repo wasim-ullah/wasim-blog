@@ -5,7 +5,7 @@ linktitle: Organic 25k to 52k In Two Weeks
 tags: [
     "growth",
 ]
-title: Organic 25k to 52k In Two Weeks
+title: Organic 27k to 52k In Two Weeks
 description: An insights analysis of a video that went viral on Facebook.
 
 ---
