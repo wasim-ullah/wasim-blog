@@ -28,3 +28,5 @@ The 3:17 minutes long video is composed of humans working hard to earn their bre
 
 ## Food
 Everyone has close attachment to food items, is also visible.
+
+This video clips generated 25k organic fanbase in a period of two weeks.
