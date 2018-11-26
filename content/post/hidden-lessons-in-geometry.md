@@ -15,10 +15,10 @@ description: How geometry is more than just a science?
 What can we learn from geometry?
 
 ## Order
-There is a specific order, one which our eyes miss to measure most often.
+There is a specific order, one which our eyes miss to measure.
 
 ## Shape
-Every has its beauty because there is a precision behind its formation.
+Everything has its beauty because there is a precision behind its formation.
 
 ## Area
 The empty or filled areas, objects are significant within their own existence.
