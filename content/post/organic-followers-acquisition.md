@@ -17,7 +17,7 @@ description: An insights analysis of a video that went viral on Facebook.
 In 2017, I posted a short clip followed by similar other video clips.
 
 <center>
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FBuddysFOY%2Fvideos%2F624278257764227%2F&show_text=1&width=476" width="476" height="588" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FBuddysFOY%2Fvideos%2F624278257764227%2F&show_text=1&width=476" width="100%" height="100%" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
 </center>
 
 ## Thumbnail
