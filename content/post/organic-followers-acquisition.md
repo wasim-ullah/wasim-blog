@@ -16,7 +16,7 @@ description: An insights analysis of a video that went viral on Facebook.
 
 In 2017, I posted a short clip followed by similar other video clips.
 
-<div class="fb-post" data-href="https://www.facebook.com/BuddysFOY/videos/624278257764227/"></div>
+<div class="fb-post" data-href="https://www.facebook.com/BuddysFOY/videos/624278257764227/"> data-width="500"></div>
 
 ## Thumbnail
 As human pyschology can easily be attracted by the visuals, the video thumbnail was intentionally kept unique.
