@@ -7,7 +7,7 @@ tags: [
 ]
 title: Open Source Netlify & Forestry CMS
 description: Great platforms for individual bloggers.
-
+weight: 10
 ---
 
 ![Netlify CMS](/images/jamstack.jpg)
