@@ -13,7 +13,7 @@ googleAnalytics = "UA-129037953-1"
 	enableRSS = true
 	enableToc = true
 
-	enableDisqus = false
+	enableDisqus = true
 	disqusShortname = "WasimU"
 
 
@@ -27,9 +27,9 @@ googleAnalytics = "UA-129037953-1"
 	# Set the value to your baidu analysis code if you want to use baidu analytics
 	baiduAnalytics = 'your_baidu_analysis_code'
 
-	enableTwitterCard = false
+	enableTwitterCard = true
 	# The url for twitter card image, default is avatar.png in static/images directory
-	twitterCardImage = ""
+	twitterCardImage = "https://wasim.blog/images/man.jpg"
 
 	# Add custom assets with their paths relative to the static folder
 	customCSS = []
