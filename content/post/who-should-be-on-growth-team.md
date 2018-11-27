@@ -7,7 +7,7 @@ tags: [
 ]
 title: What Makes An Ideal Growth Team?
 description: You don't have to hire full time professionals.
-
+weight: 10
 ---
 
 ![An Ideal Growth Team](/images/growth.jpg)
