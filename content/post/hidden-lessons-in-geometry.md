@@ -7,7 +7,7 @@ tags: [
 ]
 title: Hidden Lessons In Geometry
 description: How geometry is more than just a science?
-
+weight: 10
 ---
 
 ![Viral Video](/images/geometry.jpg)
