@@ -11,6 +11,7 @@ googleAnalytics = "UA-129037953-1"
 	facebook = "mrwullah"
 
 	enableRSS = true
+	home = [ "RSS" ]
 	enableToc = true
 
 	enableDisqus = false
