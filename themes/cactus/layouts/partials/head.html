@@ -22,7 +22,7 @@
 		{{ end }}
 		
 		{{ if .Site.Params.enableRSS }}
-		{{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+		<link href="{{ .Site.RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
 		{{ end }}
 
 		{{ range .Site.Params.customCSS }}
