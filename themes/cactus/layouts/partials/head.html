@@ -28,4 +28,6 @@
 		{{ range .Site.Params.customCSS }}
 		<link rel="stylesheet" href="{{ $.Site.BaseURL }}{{ . }}">
 		{{ end }}
+		
+		{{ template "_internal/schema.html" . }}
 	</head>
