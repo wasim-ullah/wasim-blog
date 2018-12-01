@@ -23,7 +23,7 @@
 		
 		{{ if .Site.Params.enableRSS }}
 		{{ if .RSSlink }}
-		<link href="{{ .Site.RSSlink }}" rel="home" type="application/atom+xml" title="{{ .Site.Title }}" />
+				<link href="{{ .Site.RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
 		{{ end }}
 
 
