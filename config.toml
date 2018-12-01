@@ -1,10 +1,7 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "Wasim Ullah"
-
-## Google Tag Manager
-gtmid = "GTM-K8ZHZC9"
-googleAnalytics = ""
+googleAnalytics = "UA-129037953-1"
 
 [params]
 	name = "Wasim Ullah"
