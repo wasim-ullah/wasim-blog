@@ -22,4 +22,4 @@ This single executive has caused an effect called, ripple effect.
 The office boy, who doesn't prepare a good tea and prepares the food without cleaning everything properly, will cause everyone eating or drinking in that office become ill. They will eventually either be ill or with the passage of time, get some disease. That will effect, many others who are relatives, friends, and families of others. The time that they could have consumed on positive activities, are now spending treating a sick individual.
 
 ## Free
-There are some individual who would think of themselves as they don't hurt anything because they are free. However, they are eating free food, wasting others time who might have been doing positive work, and above all, wasting their own skillset or resourcefulness towards a better tomorrow.
+There are people who would think of themselves as they don't hurt anything because they are free. However, they are eating free food, wasting others time who might have been doing positive work, and above all, wasting their own skillset or resourcefulness towards a better tomorrow.
