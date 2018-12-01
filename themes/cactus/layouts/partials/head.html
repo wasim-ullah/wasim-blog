@@ -14,6 +14,8 @@
 		<link rel="shortcut icon" href="{{ .Site.BaseURL }}images/favicon.ico">
 		<link rel="stylesheet" href="{{ .Site.BaseURL }}css/style.css">
 		<link rel="stylesheet" href="{{ .Site.BaseURL }}css/highlight.css">
+		
+		<link href="{{ .RSSLink }}" rel="alternate feed" type="application/rss+xml" title="{{ .Site.Title }}" />
 
 		{{ if eq .Site.Params.iconFont "font-awesome" }}
 		<link rel="stylesheet" href="{{ .Site.BaseURL }}css/font-awesome.min.css">
