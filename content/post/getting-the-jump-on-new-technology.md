@@ -1,6 +1,6 @@
 ---
 author: "Wasim Ullah"
-date: 2018-11-28
+date: 2018-11-28T10:20:00
 linktitle: Getting The Jump On New Technology
 tags: [
     "sales",
