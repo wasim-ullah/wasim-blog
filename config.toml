@@ -16,7 +16,6 @@ googleAnalytics = "UA-129037953-1"
 	enableDisqus = false
 	disqusShortname = "WasimU"
 
-	enableGitInfo = true
 	lastmod = [":git" "lastmod", "date","publishDate"]
 
 	enableSummary = true
