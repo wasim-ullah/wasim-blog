@@ -16,6 +16,7 @@ googleAnalytics = "UA-129037953-1"
 	enableDisqus = false
 	disqusShortname = "WasimU"
 
+	enableGitInfo = true
 
 	enableSummary = true
 	# Set the value to true if use description in post front matter replace content summary
