@@ -1,6 +1,6 @@
 ---
 author: "Wasim Ullah"
-date: 2018-11-20
+date: 2018-11-20T12:20:00
 linktitle: Open Source Netlify & Forestry CMS
 tags: [
     "coding",
