@@ -1,6 +1,6 @@
 ---
 author: "Wasim Ullah"
-date: 2018-11-24
+date: 2018-11-24T12:20:00
 linktitle: What Makes An Ideal Growth Team?
 tags: [
     "growth",
