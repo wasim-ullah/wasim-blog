@@ -1,6 +1,6 @@
 ---
 author: "Wasim Ullah"
-date: 2018-12-01
+date: Mon, Dec 03, 2018, 11:19
 linktitle: How Is Everyone Changing World?
 tags: [
     "opinion",
