@@ -17,6 +17,7 @@ googleAnalytics = "UA-129037953-1"
 	disqusShortname = "WasimU"
 
 	enableGitInfo = true
+	lastmod = [":git" "lastmod", "date","publishDate"]
 
 	enableSummary = true
 	# Set the value to true if use description in post front matter replace content summary
