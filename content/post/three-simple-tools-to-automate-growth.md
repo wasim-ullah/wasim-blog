@@ -1,6 +1,6 @@
 ---
 author: "Wasim Ullah"
-date: 2018-11-09
+date: 2018-11-09T12:20:00
 linktitle: Three Simple Tools To Automate Growth
 tags: [
     "growth",
