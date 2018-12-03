@@ -1,6 +1,6 @@
 ---
 author: "Wasim Ullah"
-date: 2018-11-25
+date: 2018-11-25T09:30:00
 linktitle: Hidden Lessons In Geometry
 tags: [
     "opinion",
