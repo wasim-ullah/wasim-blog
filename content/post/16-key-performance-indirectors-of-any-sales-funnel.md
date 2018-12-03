@@ -1,6 +1,6 @@
 ---
 author: "Wasim Ullah"
-date: 2018-11-16
+date: 2018-11-16T18:30:00
 linktitle: 16 KPIs Of Any Sales Funnel
 tags: [
     "sales",
