@@ -3,7 +3,7 @@
 	{{ if not .IsHome }}
 		<a href='{{ .Site.BaseURL }}'> <span class="arrow">←</span>{{ with .Site.Params.home }}{{ . }}{{ else }}Home{{ end }}</a>
 	{{ end }}
-	<a href='http://wasim.co'>{{ with .Site.Params.tags }}{{ . }}{{ else }}About{{ end }}</a>
+	<a href='http://wasim.co' target="_blank">{{ with .Site.Params.tags }}{{ . }}{{ else }}About{{ end }}</a>
 	<a href='{{ .Site.BaseURL }}tags'>{{ with .Site.Params.tags }}{{ . }}{{ else }}Topics{{ end }}</a>
 	{{ range $key, $val := .Site.Params.Links }}
 		<a href="{{ $val }}">{{ $key }}</a>
