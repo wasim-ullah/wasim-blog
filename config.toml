@@ -63,8 +63,8 @@ googleAnalytics = "UA-129037953-1"
 	# Sharing options and author information in posts
 	aboutAuthor = "Sell. Code. Draw."
 
-iconFont = "mono-social"
+iconFont = "font-awesome"
 socialIconStyle = ""
 
 [social]
-circlelinkedin = "https://www.linkedin.com/in/mrwullah"
+linkedin-square = "https://www.linkedin.com/in/mrwullah"
