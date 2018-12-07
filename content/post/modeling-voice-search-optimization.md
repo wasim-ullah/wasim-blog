@@ -16,8 +16,3 @@ Just like any other medium, voice search is already growing in numbers. It's now
 You now have the opportunity to start optimizing your content according to your listeners' favorite tools to explore the matter. Apple's Siri, Microsoft's Cortana, and Amazon's Alexa – use Bing for their searches.<br>
 Google voice search will bring down results according to Hummingbird's intent first method, which focuses on contextual meaning of search. People are obviously asking in the form of a sentence and not typing three to five words long phrases, when they're using these tools.<br>
 Semantic search importance, a mobile-first site, local businesses directories, need of long-tail keyword terms, the focus on precision and accuracy, not succinctness are highlights for your content calender.
-
-<script data-isso="https://comments.comment.sh/wasim"
-	src="https://comments.comment.sh/wasim/js/embed.min.js"></script>
-
-<section id="isso-thread"></section>
