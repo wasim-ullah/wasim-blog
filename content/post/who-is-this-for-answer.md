@@ -3,7 +3,7 @@ author: "Wasim Ullah"
 date: 2018-12-18T05:18:00
 linktitle: Who Is This For? Answer.
 tags: [
-    "growth",
+    "sales",
 ]
 title: Who Is This For? Answer.
 description: For your next business and marketing campaign.
