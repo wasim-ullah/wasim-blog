@@ -5,5 +5,5 @@ draft: false
 ---
 
 ![Newsletter](/images/nl.jpg)
-Get access to 85% of my best business hacks.<br>
+Get access to 85% of my best marketing hacks.<br>
 You will learn exactly how I have generated traffic numbers in million, outperformed the clients expectations in online marketing campaigns, and where to get the best biryani in the world.
