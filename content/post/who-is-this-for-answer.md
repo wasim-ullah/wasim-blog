@@ -20,5 +20,5 @@ A common perception is to have an ideal match between your current clients and t
 ## Optimization
 When you will start optimizing your content for one individual, rest of the society with fully or partially similar traits will follow by default. However, your consistency can only be ensured if you have an ideal persona on mind before creating your brand identity, business strategy, and marketing campaigns.<br>
 
-## Tool
+## Hubspot Tool
 If you need a simple tool, Hubspot's buyer persona <a href="https://www.hubspot.com/make-my-persona">template</a> is your deal.
