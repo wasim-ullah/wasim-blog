@@ -10,7 +10,7 @@ description: For your next business and marketing campaign.
 weight: 9
 ---
 
-![Buyer Persona](/images/buyer.jpg)
+![Buyer Persona](/images/per.jpg)
 
 Your buyer persona is the heart of your business strategy and marketing campaigns. An ideal buyer has to be defined from every angle, including their personality traits, psychological and behavioral interests, daily routine, motivations, and more.<br>
 
