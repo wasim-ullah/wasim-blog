@@ -3,7 +3,6 @@
 	{{ if not .IsHome }}
 		<a href='{{ .Site.BaseURL }}'> <span class="arrow">←</span>{{ with .Site.Params.home }}{{ . }}{{ else }}Home{{ end }}</a>
 	{{ end }}
-	<a href='http://wasim.co' target="_blank">{{ with .Site.Params.tags }}{{ . }}{{ else }}About{{ end }}</a>
 	<a href='{{ .Site.BaseURL }}tags'>{{ with .Site.Params.tags }}{{ . }}{{ else }}Topics{{ end }}</a>
 	{{ range $key, $val := .Site.Params.Links }}
 		<a href="{{ $val }}">{{ $key }}</a>
@@ -12,5 +11,5 @@
 	{{ if .Site.Params.enableRSS }}
 	<a href='{{ .Site.BaseURL }}post'>{{ with .Site.Params.about }}{{ . }}{{ else }}Archive{{ end }}</a>
 	{{ end }}
-	<a class="cta" href='{{ .Site.BaseURL }}newsletter'>{{ with .Site.Params.about }}{{ . }}{{ else }}Newsletter{{ end }}</a>
+	<a class="cta" href='http://wasim.co' target="_blank">{{ with .Site.Params.about }}{{ . }}{{ else }}About{{ end }}</a>
 </nav>
