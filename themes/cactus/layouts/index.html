@@ -1,15 +1,15 @@
-	{{ partial "head.html" . }}
-	<body>
-    {{ partial "nav.html" . }}
+{{ partial "head.html" . }}
+<body>
+{{ partial "nav.html" . }}
+{{ partial "profile.html" . }}
 
-    {{ partial "profile.html" . }}
+<section id="wrapper" class="home">
+    {{ .Content }}
 
-    <section id="wrapper" class="home">
-        {{ partial "post-list.html"  . }}
-        {{ partial "pagination.html" . }}
-        
-    </section>
-{{ partial "footer.html"     . }}
-    {{ partial "js.html" . }}
-    </body>
-</html>
+
+
+    {{ partial "footer.html" . }}
+</section>
+
+{{ partial "js.html" . }}
+</body>
