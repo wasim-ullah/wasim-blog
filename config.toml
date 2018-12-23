@@ -41,6 +41,7 @@ googleAnalytics = "UA-129037953-1"
 	home = ""
 	about = ""
 	archive = ""
+	blog = ""
 	subscribe = ""
 
 	olderPosts = ""
