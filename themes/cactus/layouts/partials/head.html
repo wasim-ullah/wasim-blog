@@ -28,4 +28,44 @@
 		{{ range .Site.Params.customCSS }}
 		<link rel="stylesheet" href="{{ $.Site.BaseURL }}{{ . }}">
 		{{ end }}
+		
+		
+		
+		<style>
+.font-showcase{
+  border-radius: 5px;
+  max-width: 200px;
+  padding: 20px;
+  background: white;
+  box-shadow: 0px 2px 40px 0px rgba(65, 84, 111, 0.2);
+  h2{
+    margin: 0;
+    font-size: 19px;
+  }
+  span{
+    display: block;
+    font-size: 14px;
+    color: #666;
+  }
+  h3{
+    text-align: center;
+    margin: 20px 0;
+    font-size: 80px;
+  }
+  ul{
+    padding: 0;
+    margin: 0;
+    li{
+      list-style: none;
+      color: #aaa;
+      font-size: 12px;
+      text-transform: uppercase;
+      &.active{
+        color: #ff5252;
+      }
+    }
+  }
+}
+    </style>
+		
 	</head>
