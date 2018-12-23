@@ -1,19 +1,15 @@
-{{ partial "head.html" . }}
-<body>
-{{ partial "nav.html" . }}
-{{ partial "profile.html" . }}
+	{{ partial "head.html" . }}
+	<body>
+    {{ partial "nav.html" . }}
 
-<section id="wrapper" class="home">
-    {{ .Content }}
+    {{ partial "profile.html" . }}
 
-    {{ if .Site.Params.enableDisqus }}
-        {{ if ne .Params.disabledisqus "true" }}
-            {{ partial "disqus.html" . }}
-        {{ end }}
-    {{ end }}
-
-    {{ partial "footer.html" . }}
-</section>
-
-{{ partial "js.html" . }}
-</body>
+    <section id="wrapper" class="home">
+        {{ partial "post-list.html"  . }}
+        {{ partial "pagination.html" . }}
+        
+    </section>
+{{ partial "footer.html"     . }}
+    {{ partial "js.html" . }}
+    </body>
+</html>
