@@ -4,22 +4,16 @@
 {{ partial "profile.html" . }}
 
 <section id="wrapper" class="home">
-    {{ .Content }}
 
-<li class="list-item">
-        <div class="list-header">
-          <div class="_bubble" style="background-image: url(images/avatar.png);"></div>
-        </div>
-        <div class="list-detail">
-          <div class="_title-block">
-            <h3>Current projects</h3>
-          </div>
-          <p class="_summary">I lead a Speed team on <a href="https://chrome.com">Google Chrome</a> trying to make the web fast. We recently celebrated <a href="https://blog.chromium.org/2018/09/10-years-of-speed-in-chrome_11.html">10 years of Speed</a>.
-          See <a href="https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4">The Cost Of
-              JavaScript</a> or <a href="https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf">Priorities
-              in Chrome</a> for some of the problems we tackle.</p>
-        </div>
-    </li>
+    <div class="font-showcase">
+  <h2>Varela Round</h2>
+  <span>Principle Design</span>
+  <h3>📙</h3>
+  <ul>
+    <li class="active">Book text</li>
+    <li>Display text</li>
+  </ul>
+</div>
 
     {{ partial "footer.html" . }}
 </section>
