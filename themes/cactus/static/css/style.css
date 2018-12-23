@@ -224,10 +224,16 @@ nav.main-nav a.cta {
     padding: 60px 20px 0px 20px;
 }
 
+#wrapper.home2 {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 100px 40px 20px 40px;
+}
+
 #wrapper.home {
     max-width: 500px;
     margin: 0 auto;
-    padding: 10px 40px 20px 40px;
+    padding: 0px 40px 20px 40px;
 }
 
 .home #avatar {
