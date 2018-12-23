@@ -376,7 +376,7 @@ h3, h4, h5 {
 }
 
 h3 {
-    font-size: 20px;
+    font-size: 15px;
     font-weight: 400;
 }
 
@@ -607,7 +607,7 @@ Post List
 #post-nav {
     text-align: center;
     padding-top: 20px;
-    font-size: 13px;
+    font-size: 11px;
     font-weight: 500;
     margin-top: 40px;
 }
@@ -793,7 +793,7 @@ h2.month {
 
 .archive {
     margin: 0 0 50px 0;
-    font-size: 16px;
+    font-size: 13px;
 }
 
 .archive .post-item {
