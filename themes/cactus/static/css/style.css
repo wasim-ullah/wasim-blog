@@ -116,7 +116,7 @@ html, body {
 }
 
 body {
-    font: 10px/1 "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font: 12px/1 "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #666;
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
@@ -860,7 +860,7 @@ a.symbol:hover {
  */
 #toc {
   line-height: 1em;
-  font-size: .7em;
+  font-size: .8em;
   word-wrap: break-word;
   text-transform: uppercase;
   padding: 8px;
