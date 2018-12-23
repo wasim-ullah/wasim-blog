@@ -116,7 +116,7 @@ html, body {
 }
 
 body {
-    font: 12px/1 "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font: 10px/1 "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #666;
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
