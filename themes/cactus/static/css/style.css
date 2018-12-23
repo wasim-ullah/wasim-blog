@@ -346,10 +346,10 @@ em, i {
 }
 
 .post h2.headline {
-    font: normal 13px/1.5em "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font: normal 10px/1.5em "Helvetica Neue", Helvetica, Arial, sans-serif;
     margin: -5px 0 0 0;
     color: #b2b9be;
-    font-size: 13px;
+    font-size: 10px;
     letter-spacing: 1px;
     display: inline-block;
 }
