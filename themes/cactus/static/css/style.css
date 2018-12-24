@@ -930,6 +930,7 @@ a.symbol:hover {
 }
 .page-tags ul li a {
     color: #8a8a8a;
+    font-size: 11px;
 
 }
 .page-tags ul li a span {
