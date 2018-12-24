@@ -10,8 +10,8 @@ You will learn exactly how I have generated traffic numbers in million, outperfo
 
 <form id="form" class="topBefore" method="POST" data-netlify="true">
 		
-<input id="name" type="text" placeholder="NAME">
-<input id="email" type="text" placeholder="E-MAIL">
+<input type="name" type="text" placeholder="NAME">
+<input type="email" type="text" placeholder="E-MAIL">
 <textarea id="message" type="text" placeholder="MESSAGE"></textarea>
       
   <input id="submit" type="submit" value="GO!">
