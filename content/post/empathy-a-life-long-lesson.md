@@ -3,7 +3,7 @@ author: "Wasim Ullah"
 date: 2018-12-24T08:20:00
 linktitle: Incivility - A Lifelong Lesson
 tags: [
-    "sales",
+    "opinion",
 ]
 title: Incivility - A Lifelong Lesson
 description: Inspired by a LinkedIn post from Umer Ghumman.
