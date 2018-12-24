@@ -6,3 +6,15 @@ draft: false
 
 Get access to 85% of my best marketing hacks.<br>
 You will learn exactly how I have generated traffic numbers in million, outperformed the clients expectations in online marketing campaigns, and where to get the best biryani in the world.
+
+<form name="contact" netlify>
+  <p>
+    <label>Name <input type="text" name="name" /></label>
+  </p>
+  <p>
+    <label>Email <input type="email" name="email" /></label>
+  </p>
+  <p>
+    <button type="submit">Send</button>
+  </p>
+</form>
