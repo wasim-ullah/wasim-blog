@@ -3,6 +3,7 @@
         {{ if .Paginator.HasPrev }}
         <span class="prev">
             <a href="{{.Paginator.Prev.URL}}">
+                {{ range first 10 $othr }}
                 <span class="arrow">←</span> {{ with .Site.Params.newerPosts }}{{ . }}{{ else }}Newer Posts{{ end }}
             </a>
         </span>
