@@ -1,5 +1,5 @@
 <ul id="post-list">
-    {{ range where .Paginator.Pages "Params.hidden" "ne" "true" }}
+    {{ range first 5 $othr }}
     {{ $url := replace .Permalink .Site.BaseURL "" }}
         {{ if ne $url "about/" }}
             <li>
@@ -11,7 +11,7 @@
                             <h2>{{ .Description | plainify }}</h2>
                         {{ else }}
                             <h2>{{ .Summary | plainify | htmlUnescape }}</h2>
-                    {{ range first 5 $othr }}
+                    
                         {{ end }}
                     {{ end }}
                 </a>
