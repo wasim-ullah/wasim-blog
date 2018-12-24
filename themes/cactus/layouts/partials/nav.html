@@ -9,7 +9,7 @@
 	{{ end }}
 
 	{{ if .Site.Params.enableRSS }}
-	<a href='{{ .Site.BaseURL }}post'>{{ with .Site.Params.about }}{{ . }}{{ else }}Articles{{ end }}</a>
+	<a href='{{ .Site.BaseURL }}contact'>{{ with .Site.Params.about }}{{ . }}{{ else }}Contact{{ end }}</a>
 	{{ end }}
-	<a class="cta" href='http://wasim.co' target="_blank">{{ with .Site.Params.about }}{{ . }}{{ else }}About{{ end }}</a>
+	<a class="cta" href='{{ .Site.BaseURL }}post>{{ with .Site.Params.about }}{{ . }}{{ else }}Articles{{ end }}</a>
 </nav>
