@@ -7,18 +7,15 @@ draft: false
 Get access to 85% of my best marketing hacks.<br>
 You will learn exactly how I have generated traffic numbers in million, outperformed the clients expectations in online marketing campaigns, and where to get the best biryani in the world.
 
-<form name="contact" netlify>
+<form name="contact" method="POST" data-netlify="true">
   <p>
-    <label>Name <input type="text" name="name" /></label>
+    <label>Email: <input type="text" name="name" /></label>
   </p>
   <p>
-    <label>Email <input type="email" name="email" /></label>
+    <label>Message: <textarea name="message"></textarea></label>
   </p>
+  <div data-netlify-recaptcha="true"></div>
   <p>
-    <label>Message <input type="text" name="message" /></label>
-  </p>
-  
-  <p>
-    <button type="submit">Send</button>
+    <button type=”submit”>Send</button>
   </p>
 </form>
