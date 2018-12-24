@@ -5,13 +5,13 @@
             <li>
                 <aside class="dates">{{ .Date.Format "Jan 2" }}</aside>
                 <a href='{{ .Permalink }}'>
-                    {{ range first 5 $othr }}
                     {{ .Title }}
                     {{ if .Site.Params.enableSummary }}
                         {{ if .Site.Params.useDescriptionReplaceSummary }}
                             <h2>{{ .Description | plainify }}</h2>
                         {{ else }}
                             <h2>{{ .Summary | plainify | htmlUnescape }}</h2>
+                    {{ range first 5 $othr }}
                         {{ end }}
                     {{ end }}
                 </a>
