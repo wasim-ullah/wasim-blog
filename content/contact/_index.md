@@ -9,7 +9,6 @@ You will learn exactly how I have generated traffic numbers in million, outperfo
 
 <form name="contact" netlify>
   <p>
-    
     <label>Name <input type="text" name="name" /></label>
   </p>
   <p>
