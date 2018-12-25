@@ -8,7 +8,7 @@ googleAnalytics = "UA-129037953-1"
 	description = "Read opinion based articles and curated content on anything related to marketing, design, and coding."
 
 	author = "Wasim Ullah"
-	bio = "Draw • Code • Sell"
+	bio = "Marketer"
 
 	twitter = "mrwullah"
 	facebook = "mrwullah"
@@ -65,7 +65,7 @@ googleAnalytics = "UA-129037953-1"
 	subtitle404 = "Come again? Or else."
 	
 	# Sharing options and author information in posts
-	aboutAuthor = "Draw • Code • Sell"
+	aboutAuthor = "Marketer"
 
 iconFont = "font-awesome"
 socialIconStyle = ""
