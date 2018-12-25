@@ -4,22 +4,20 @@ date: 2018-11-08T19:41:41+04:00
 draft: false
 ---
 
-Please <a href="mailto:wasim.ullah@aol.com" target="_blank">email</a> me for business enquiries. And if you need pro bono advice, reach out through my LinkedIn <a href="https://www.linkedin.com/in/mrwullah" target="_blank">profile</a>.
+If you are interested in hearing my future posts, this is where we begin. Fill up the two blanks below.
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
-	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
+
 <div id="mc_embed_signup">
 <form action="https://wasim.us19.list-manage.com/subscribe/post?u=be7fa968ad83145b90ecfd090&amp;id=10a3e47b2e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	
-<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+	    
 <div class="mc-field-group">
-	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+	<label for="mce-EMAIL">Email Address*</span>
 </label>
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
