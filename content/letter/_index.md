@@ -10,6 +10,7 @@ If you are interested in hearing my future posts, this is where we begin. Fill u
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 	#mc_embed_signup{background:#fff; clear:left; font:11px Helvetica,Arial,sans-serif; }
+	#mc-embedded-subscribe { background-color: #5badf0 !important; }
 </style>
 
 <div id="mc_embed_signup">
