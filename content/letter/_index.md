@@ -24,9 +24,8 @@ If you are interested in hearing my future posts, this is where we begin. Fill u
 <form action="https://wasim.us19.list-manage.com/subscribe/post?u=be7fa968ad83145b90ecfd090&amp;id=10a3e47b2e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 	
-<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
-	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+	<label for="mce-EMAIL">Email Address*</span>
 </label>
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
