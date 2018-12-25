@@ -11,7 +11,7 @@ If you are interested in hearing my future posts, this is where we begin. Fill u
 <style type="text/css">
 	#mc_embed_signup{background:#fff; clear:left; font:11px Helvetica,Arial,sans-serif; }
 	#mc-embedded-subscribe {background:#5badf0 !important; }
-	#mc-embedded-subscribe {font:11px Helvetica,Arial,sans-serif; !important; }
+	#mc-embedded-subscribe {font-size:11px Helvetica,Arial,sans-serif; !important; }
 </style>
 
 <div id="mc_embed_signup">
