@@ -4,7 +4,7 @@ date: 2018-11-08T19:41:41+04:00
 draft: false
 ---
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/d6ZTWNjgdmUrS" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+![Newsletter](/images/g.gif)
 
 If you are interested in hearing my future posts, this is where we begin. Fill up the two blanks below.
 
