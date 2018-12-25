@@ -9,7 +9,7 @@ If you are interested in hearing my future posts, this is where we begin. Fill u
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	#mc_embed_signup{background:#fff; clear:left; font:11px Helvetica,Arial,sans-serif; }
 </style>
 
 <div id="mc_embed_signup">
