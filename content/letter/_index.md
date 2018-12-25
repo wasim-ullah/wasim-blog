@@ -12,7 +12,6 @@ If you are interested in hearing my future posts, this is where we begin. Fill u
 	#mc_embed_signup{background:#fff; clear:left; font:11px Helvetica,Arial,sans-serif; }
 	#mc-embedded-subscribe {background:#5badf0 !important; }
 	#mc-embedded-subscribe {font-size:11px !important; }
-	#mce-responses {font-size:11px !important; }
 </style>
 
 <div id="mc_embed_signup">
@@ -29,7 +28,7 @@ If you are interested in hearing my future posts, this is where we begin. Fill u
 	<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
 </div>
 	<div id="mce-responses" class="clear">
-		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-error-response" style="display:none; font-size:11px"></div>
 		<div class="response" id="mce-success-response" style="display:none"></div>
 	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_be7fa968ad83145b90ecfd090_10a3e47b2e" tabindex="-1" value=""></div>
