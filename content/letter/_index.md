@@ -5,7 +5,7 @@ draft: false
 ---
 
 <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/326joM06WxFNMSkPjj" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
-
+<br>
 If you are interested in hearing my future posts, this is where we begin. Fill up the two blanks below.
 
 <!-- Begin Mailchimp Signup Form -->
