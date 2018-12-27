@@ -18,7 +18,7 @@ Key Performance Indicators (KPIs) can be tracked by some of the most commonly us
 
 <ol class="list-view">
 
-    <li class="list-item">
+   <li class="list-item">
         <div class="list-header">
           <div class="_bubble" style="background-image: url(https://wasim.co/images/1.png);"></div>
         </div>
@@ -30,7 +30,7 @@ Key Performance Indicators (KPIs) can be tracked by some of the most commonly us
         </div>
     </li>
 
-        <li class="list-item">
+   <li class="list-item">
         <div class="list-header">
           <div class="_bubble" style="background-image: url(https://wasim.co/images/work-01.png);"></div>
         </div>
@@ -42,7 +42,7 @@ Key Performance Indicators (KPIs) can be tracked by some of the most commonly us
         </div>
     </li>
     
-    <li class="list-item">
+  <li class="list-item">
         <div class="list-header">
           <div class="_bubble" style="background-image: url(https://wasim.co/images/blog-01.png);"></div>
         </div>
