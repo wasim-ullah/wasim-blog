@@ -29,6 +29,13 @@ googleAnalytics = "UA-129037953-1"
 	# Set the value to your baidu analysis code if you want to use baidu analytics
 	baiduAnalytics = 'your_baidu_analysis_code'
 
+	enableRobotsTXT = true
+	canonifyURLs = true
+
+	[permalinks]
+    		post = "/blog/:title/"
+	...
+
 	enableTwitterCard = true
 	# The url for twitter card image, default is avatar.png in static/images directory
 	twitterCardImage = "https://wasim.blog/images/man.jpg"
