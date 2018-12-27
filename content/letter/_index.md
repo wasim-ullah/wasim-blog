@@ -42,3 +42,14 @@ If you are interested in hearing my future posts, this is where we begin. Fill u
 </div>
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
+
+
+
+
+<style type="text/css">
+<!--
+.display_archive {font-family: arial,verdana; font-size: 12px;}
+.campaign {line-height: 125%; margin: 5px;}
+//-->
+</style>
+<script language="javascript" src="//wasim.us19.list-manage.com/generate-js/?u=be7fa968ad83145b90ecfd090&fid=2551&show=10" type="text/javascript"></script>
