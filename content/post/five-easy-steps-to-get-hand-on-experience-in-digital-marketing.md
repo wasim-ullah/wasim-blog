@@ -24,7 +24,7 @@ Key Performance Indicators (KPIs) can be tracked by some of the most commonly us
         </div>
         <div class="list-detail">
           <div class="_title-block">
-            <h3>## Sign Up</h3>
+            ## Sign Up
           </div>
           <p class="_summary">Am a full stack marketer, and certified from <a href="https://wasim.co/images/ga.jpg" target="_blank">General Assembly</a>, <a href="https://wasim.co/images/gh.png" target="_blank">Growth University</a>, and <a href="https://www.startupschool.org/companies/pbq-hq" target="_blank">Startup School</a>, that sets me apart in crowd.</p>
         </div>
