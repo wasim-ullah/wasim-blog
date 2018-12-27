@@ -1,0 +1,27 @@
+{
+  "name": "gohugo-amp",
+  "version": "1.0.0",
+  "description": "Read opinion based articles and curated content on anything related to marketing, design, and coding. ",
+  "scripts": {},
+  "author": "Wasim Ullah",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mrwullah/main-website.git"
+  },
+  "keywords": [
+    "gohugo",
+    "hugo",
+    "amp",
+    "digital marketing",
+    "marketing",
+    "wasim ullah",
+    "wasim",
+  ],
+  "bugs": {
+    "url": "https://github.com/mrwullah/main-website/issues"
+  },
+  "homepage": "https://wasim.co"
+}
