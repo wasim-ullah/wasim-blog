@@ -30,6 +30,8 @@
 		{{ end }}
 		
 		{{ partial "seo_schema" . }}
+		
+		<meta content="{{ $isHomePage := eq .Title .Site.Title }}{{ .Site.Params.description }}{{ if eq $isHomePage false }} - {{ .Description }}{{ end }}" property="og:description">
 		 
 		<style>
 			
