@@ -10,32 +10,23 @@ description: GenM is yet another less explored platform.
 weight: 9
 ---
 
-![Sales Funnel Key Performance Indicators](/images/genm.png)
+![Learn Digital Marketing](/images/genm.png)
 
+To gain a wider experience or to kick off your career in digital marketing, <a href="https://www.netlifycms.org/" target="_blank">GenM</a> gives one of a kind. The platform consists of thousands of active professionals with diversified backgrounds, looking for a remote hand in their personal or professional workload.<br>
 
+I recently received an offer from an employer. These are the steps I took:
 
-Key Performance Indicators (KPIs) can be tracked by some of the most commonly used metrics. However, variations of these metrics depend upon your business goals.
+## 1: Verification
+After signing up at GenM, you will have to fill up your profile and earn a small number of points from free courses hosted on the platform. After that, your profile will be eligible to send inbox messages to the employers.
 
-   <li class="list-item">
-        <div class="list-header">
-          <div class="_bubble" style="background-image: url(https://wasim.co/images/1.png);"></div>
-        </div>
-        <div class="list-detail">
-          <div class="_title-block">
-            <h3>Sign Up</h3>
-          </div>
-          <p class="_summary">Am a full stack marketer, and certified from <a href="https://wasim.co/images/ga.jpg" target="_blank">General Assembly</a>, <a href="https://wasim.co/images/gh.png" target="_blank">Growth University</a>, and <a href="https://www.startupschool.org/companies/pbq-hq" target="_blank">Startup School</a>, that sets me apart in crowd.</p>
-        </div>
-    </li>
-    
-   <li class="list-item">
-        <div class="list-header">
-          <div class="_bubble" style="background-image: url(https://wasim.co/images/1.png);"></div>
-        </div>
-        <div class="list-detail">
-          <div class="_title-block">
-            <h3>Sign Up</h3>
-          </div>
-          <p class="_summary">Am a full stack marketer, and certified from <a href="https://wasim.co/images/ga.jpg" target="_blank">General Assembly</a>, <a href="https://wasim.co/images/gh.png" target="_blank">Growth University</a>, and <a href="https://www.startupschool.org/companies/pbq-hq" target="_blank">Startup School</a>, that sets me apart in crowd.</p>
-        </div>
-    </li>
+## 2: Communication
+After getting verified, you will have to express your interest to the employers of your choice. You can visit their profiles, check their background to see if they could be a good fir for you.
+
+## 3: Learn
+You can learn pretty much everything related to digital marketing from free courses created by GenM. After confirmation from an employer, you will have to learn and improvise in order to grow your knowledge. Then, apply the same information on real projects while working with the employer.
+
+## Work
+Since you will be working as a remote apprentice, you will have to schedule everything on your own. This is where your real life digital marketing experience begins.
+
+## Feedback
+You shall be able to get feedback from your employer, instantly or delayed depending upon the difference between your time zones.
