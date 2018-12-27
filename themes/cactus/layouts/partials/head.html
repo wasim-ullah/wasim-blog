@@ -29,7 +29,7 @@
 		<link rel="stylesheet" href="{{ $.Site.BaseURL }}{{ . }}">
 		{{ end }}
 		
-		{{ partial "seo_schema" . }}
+		{{ partial "seoschema.html" . }}
 		
 		<meta content="{{ $isHomePage := eq .Title .Site.Title }}{{ .Site.Params.description }}{{ if eq $isHomePage false }} - {{ .Description }}{{ end }}" property="og:description">
 		 
