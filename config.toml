@@ -2,7 +2,6 @@ baseURL = "https://wasim.co/"
 languageCode = "en-us"
 title = "Wasim Ullah"
 googleAnalytics = "UA-129037953-1"
-tags = ["wasim", "wasim ullah", "ullah", "digital marketing", "online marketing", "graphic design", "sales funnel", "social media marketing", "search engine optimization", "video editing", "email marketing", "social media advertising", "search engine advertising", "content writing", "blogging", "growth hacking", "content marketing", "lessons"]
 
 [params]
 	name = "Wasim Ullah"
