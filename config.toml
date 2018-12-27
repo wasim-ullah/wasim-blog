@@ -7,7 +7,6 @@ googleAnalytics = "UA-129037953-1"
 	name = "Wasim Ullah"
 	description = "Read opinion based articles and curated content on anything related to marketing, design, and coding."
 
-[author]
 	author = "Wasim Ullah"
 	bio = "Marketer"
 
