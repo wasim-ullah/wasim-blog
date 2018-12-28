@@ -12,7 +12,7 @@ weight: 9
 
 ![Learn Digital Marketing](/images/genm.png)
 
-To gain a wider experience or to kick off your career in digital marketing, <a href="https://www.netlifycms.org/" target="_blank">GenM</a> gives one of a kind. The platform consists of thousands of active professionals with diversified backgrounds, looking for a remote hand in their personal or professional workload.<br>
+To gain a wider experience or to kick off your career in digital marketing, <a href="https://www.genm.co/" target="_blank">GenM</a> gives one of a kind. The platform consists of thousands of active professionals with diversified backgrounds, looking for a remote hand in their personal or professional workload.<br>
 
 I recently received an offer from an employer. These are the steps I took:
 
