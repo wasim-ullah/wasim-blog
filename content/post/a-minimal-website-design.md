@@ -24,4 +24,4 @@ I recently came across these three amazing minimal website designs:
 
 ## Third
 
-<a href="https://year0001.com/">YEAR0001 Labs</a> is an in-house creative studio.
+<a href="https://year0001.com/">YL</a> is an in-house creative studio.
