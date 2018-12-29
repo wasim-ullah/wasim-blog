@@ -12,8 +12,6 @@ weight: 9
 
 ![A Boy](/images/boy.jpg)
 
-![A Boy](/images/1.png)
-
 I've categorized three different types of people in our society, and commented on their ripple effects accordingly.
 
 ## Executives
