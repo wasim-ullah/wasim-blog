@@ -4,7 +4,7 @@ date: 2018-11-08T19:41:41+04:00
 draft: false
 ---
 
-To begin with, I'd like to declare that I do not share any information contained under non-disclosure agreements.<br>
+To begin with, I'd like to declare that I do not share any information with respect to my portfolio contained under non-disclosure agreements.<br>
 
 What set me apart in the <b>crowd</b> is that I have trained myself to be a full stack marketer through hard work and my experience is also backed by well recognized certifications.<br>
 
