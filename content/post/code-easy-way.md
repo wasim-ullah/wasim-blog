@@ -1,6 +1,6 @@
 ---
 author: "Wasim Ullah"
-date: 2018-11-30T10:00:00
+date: 2018-12-30T10:00:00
 linktitle: Code Easy Way
 tags: [
     "growth",
