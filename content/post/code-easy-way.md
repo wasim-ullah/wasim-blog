@@ -13,6 +13,7 @@ weight: 9
 ![Code Easy Way](/images/code.jpg)
 
 I remember using paint software in a computer lab at my primary school, back then our brains were not worried about mistakes. It was a beginning of learning a new machine.<br>
-Have you heard of developer tools feature? If not, and you have to edit CSS or html, front end of your website can be edited with command + F. You can actually copy a piece of information you want to piece, and paste in developer tools find feature.<br>
-Likewise, when it's about CSS, you will call an image an img, an image style can be tweaked with simple width, padding, and so on. And a complete website's colors, fonts, sizes, and front end can be edited with this simple feature.<br>
-Lastly, a website's resolution is controlled by @media in CSS, so what you will type under a specific @media width, your relevant screen size will give the same output.
+Have you heard of developer tools feature? If not, and you have to edit CSS or html, front end of your website can be edited with command + F. You can actually copy a piece of information you want to modify, and paste in developer tools find feature.<br>
+Likewise, when it's about CSS, you will call an image an img, an image style can be tweaked with simple width, padding, and so on. Such would be names of rest of the website's content, I assume that those name tags would be understood, for example, for heaidng 1 as h1 and font size as font-size etc. And a complete website's colors, fonts, sizes, and front end can be edited with this simple feature.<br>
+Lastly, a website's resolution is controlled by @media in CSS, so what you will type under a specific @media width, your relevant screen size will give the same output. This is your method to edit code easy way.<br>
+Use <a href="https://codepen.io/">Codepen</a> when you have to test a code.
