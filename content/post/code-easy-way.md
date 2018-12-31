@@ -22,7 +22,7 @@ Likewise, when it's about CSS, you will call an image an img, an image style can
 Lastly, a website's resolution is controlled by @media in CSS, so what you will type under a specific @media width, your relevant screen size will give the same output. This is your method to edit code easy way.
 
 ## Steps
-1. Find the text or codes to change using inspect element in your browser.
+1. Find and tweak the text or codes to change using inspect element in your browser.
 2. Replace the same in source files of your website, usually contained in .html or .css files.
 3. Click save.
 
