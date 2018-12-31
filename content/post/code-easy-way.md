@@ -15,16 +15,14 @@ weight: 9
 I remember using paint software in a computer lab at my primary school, back then our brains were not worried about mistakes. It was a beginning of learning a new machine. This would be your rule of thumb in this case.
 
 ## Tool
-Have you heard of developer tools feature? If not, and you have to edit CSS or html, front end of your website can be edited with command + F. You can actually copy a piece of information you want to modify, and paste in developer tools find feature.
+Have you heard of inspect element feature? If not, and you have to edit CSS or html, front end of your website can be edited with command + F. You can actually copy a piece of information you want to modify, and paste in developer tools find feature.
 
 ## Method
 Likewise, when it's about CSS, you will call an image an img, an image style can be tweaked with simple width, padding, and so on. Such would be names of rest of the website's content, I assume that those name tags would be understood, for example, for heaidng 1 as h1 and font size as font-size etc. And a complete website's colors, fonts, sizes, and front end can be edited with this simple feature.<br>
 Lastly, a website's resolution is controlled by @media in CSS, so what you will type under a specific @media width, your relevant screen size will give the same output. This is your method to edit code easy way.
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/C33LmZBvMzaxi" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
-
 ## Steps
-1. Find the text or codes to change using developer tools in your browser.
+1. Find the text or codes to change using inspect element in your browser.
 2. Replace the same in source files of your website, usually contained in .html or .css files.
 3. Click save.
 
