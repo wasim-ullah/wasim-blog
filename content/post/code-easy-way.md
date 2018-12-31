@@ -15,7 +15,7 @@ weight: 9
 I remember using paint software in a computer lab at my primary school, back then our brains were not worried about mistakes. It was a beginning of learning a new machine. This would be your rule of thumb in this case.
 
 ## Tool
-Have you heard of inspect element feature? If not, and you have to edit CSS or html, front end of your website can be edited with command + F. You can actually copy a piece of information you want to modify, and paste in developer tools find feature.
+Have you heard of <a href="https://developers.google.com/web/tools/chrome-devtools/inspect-styles/"> inspect element</a> feature? If not, and you have to edit CSS or html, front end of your website can be edited with command + F. You can actually copy a piece of information you want to modify, and paste in developer tools find feature.
 
 ## Method
 Likewise, when it's about CSS, you will call an image an img, an image style can be tweaked with simple width, padding, and so on. Such would be names of rest of the website's content, I assume that those name tags would be understood, for example, for heaidng 1 as h1 and font size as font-size etc. And a complete website's colors, fonts, sizes, and front end can be edited with this simple feature.<br>
