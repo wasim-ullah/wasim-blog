@@ -25,6 +25,3 @@ Lastly, a website's resolution is controlled by @media in CSS, so what you will 
 1. Find and tweak the text or codes to change using inspect element in your browser.
 2. Replace the same in source files of your website, usually contained in .html or .css doc types.
 3. Click save.
-
-## Test
-Use <a href="https://codepen.io/">Codepen</a> when you have to test a code.
