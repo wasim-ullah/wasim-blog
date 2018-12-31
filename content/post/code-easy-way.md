@@ -21,6 +21,8 @@ Have you heard of developer tools feature? If not, and you have to edit CSS or h
 Likewise, when it's about CSS, you will call an image an img, an image style can be tweaked with simple width, padding, and so on. Such would be names of rest of the website's content, I assume that those name tags would be understood, for example, for heaidng 1 as h1 and font size as font-size etc. And a complete website's colors, fonts, sizes, and front end can be edited with this simple feature.<br>
 Lastly, a website's resolution is controlled by @media in CSS, so what you will type under a specific @media width, your relevant screen size will give the same output. This is your method to edit code easy way.
 
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/C33LmZBvMzaxi" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+
 ## Steps
 1. Find the text or codes to change using developer tools in your browser.
 2. Replace the same in source files of your website, usually contained in .html or .css files.
