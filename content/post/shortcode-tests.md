@@ -5,6 +5,13 @@ date = "2016-12-29T13:39:24-05:00"
 draft = false
 +++
 
+<figure>
+    <img src="/images/code.jpg"  />
+    <figcaption>
+        <h4>Steve Francia</h4>
+    </figcaption>
+</figure>
+
 Hello,
 Thanks for downloading and testing our my shortcode pack. Below will
 load all of the shortcodes and display the various options they have.
