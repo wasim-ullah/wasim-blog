@@ -23,6 +23,7 @@ googleAnalytics = "UA-129037953-1"
 	# Set the value to true if use description in post front matter replace content summary
 	useDescriptionReplaceSummary = true
 
+	googleMapsAPIKey = "AIzaSyCpMFzjk85Tu75aqMbG3GLzaJSm4WbWN4k"
 
 	enableGoogleAnalytics = true
 	enableBaiduAnalytics = false
