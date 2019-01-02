@@ -83,7 +83,7 @@ time you ues the shortcode, you can add the API Key to the parameter
 
 {{< highlight ini >}}
 [params]
-	googleMapsAPIKey = "000000000000"
+	googleMapsAPIKey = "AIzaSyCpMFzjk85Tu75aqMbG3GLzaJSm4WbWN4k"
 {{< /highlight >}}
 
 The Google Maps shortcode accepts the parameters of `height`, `key`,
