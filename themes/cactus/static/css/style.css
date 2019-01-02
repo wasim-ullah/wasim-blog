@@ -163,7 +163,7 @@ h2 {
 .profile h2 {
     font-size: 10px;
     font-weight: 300;
-    color: #aaa;
+    color: #FF0000;
     margin-top: 10px;
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-style: normal;
@@ -517,7 +517,7 @@ Post List
 }
 
 #post-list-footer {
-    border-top: 1px solid #eee;
+    border-top: 1px solid #FF0000;
     margin-top: 20px;
     padding-top: 100px;
 }
@@ -563,13 +563,13 @@ Post List
     font-size: 11px;
     font-weight: bold;
     line-height: 1.4;
-    border-top: 1px solid #eee;
+    border-top: 1px solid #FF0000;
     padding-top: 40px;
     margin-bottom: 40px;
     padding-bottom: 40px;
     margin-top: 40px;
     color: #444;
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid #FF0000;
 }
 
 #post-meta div span {
@@ -873,7 +873,7 @@ a.symbol:hover {
   padding-bottom: 14px;
   margin: 0 0 25px 0;
   display: block;
-  color: #808080;
+  color: #FF0000;
   background: #fff;
   border: none;
   box-shadow: inset 0 0 0 1px #E4EBF2;
