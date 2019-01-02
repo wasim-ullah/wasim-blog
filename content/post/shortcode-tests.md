@@ -33,9 +33,9 @@ number at the end of the URL, along with the letter in the path name
 before it. With the example of `https://www.twitch.tv/example/v/123456789`
 the video ID would be `v123456789`.
 
-{{< twitch channel="pokimane" >}}
+{{< twitch channel="richii" >}}
 
-{{< twitch video="v123456789" >}}
+{{< twitch video="v352893634" >}}
 
 ## JSFiddle Shortcode
 JSFiddle shortcodes embed a read-only JSFiddle and displays the HTML,
