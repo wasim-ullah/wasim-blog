@@ -33,7 +33,7 @@ number at the end of the URL, along with the letter in the path name
 before it. With the example of `https://www.twitch.tv/example/v/123456789`
 the video ID would be `v123456789`.
 
-{{< twitch channel="example" >}}
+{{< twitch channel="pokimane" >}}
 
 {{< twitch video="v357895420" >}}
 
