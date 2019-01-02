@@ -189,7 +189,7 @@ nav.main-nav a {
 }
 
 nav.main-nav a.cta {
-    background: #5badf0;
+    background: #FF0000;
     color: #fff;
     margin-left: 12px;
 }
@@ -206,7 +206,7 @@ nav.main-nav a.cta {
       top: 8px;
       right: 6px;
       padding: 8px 8px;
-      color: #5badf0;
+      color: #FF0000;
       font-size: 11px;
       line-height: 1.35;
       border-radius: 3px;
@@ -251,12 +251,12 @@ nav.main-nav a.cta {
 
 a, #title, #post-list a:hover, #title:hover {
     text-decoration: none;
-    color: #5badf0;
-    color: #5694f1;
+    color: #FF0000;
+    color: #8B0000;
 }
 
 p a {
-    color: #5694f1;
+    color: #FF0000;
 }
 
 
