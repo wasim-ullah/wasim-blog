@@ -534,7 +534,7 @@ Post List
 #archive-link:hover {
     background: #FF0000;
     color: #fff;
-    box-shadow: 0 0 0 1px #5694f1;
+    box-shadow: 0 0 0 1px #FF0000;
 }
 
 #archive-link span {
@@ -691,7 +691,7 @@ h2.month {
 }
 
 #archive-list li a:hover, #archive-list li:hover .dates {
-    color: #5694f1;
+    color: 	#FF0000;
 }
 
 #post-meta img.avatar {
@@ -717,7 +717,7 @@ h2.month {
 
 #post-list.archive.readmore a {
     font: 400 13px/1.6 "Helvetica Neue", helvetica, Arial, sans-serif;
-    color: #5694f1;
+    color: #FF0000;
 }
 
 #post-list.archive.readmore a:hover {
@@ -828,11 +828,11 @@ h2.month {
 }
 
 .archive .post-item:hover {
-    color: #5694f1;
+    color: #FF0000;
     transition: 0.3s ease-out;
 }
 .archive .post-item:hover .post-link {
-    color: #5694f1;
+    color: #FF0000;
 }
 
 .fa.fa-heart:hover {
@@ -937,5 +937,5 @@ a.symbol:hover {
     font-size: .9em;
 }
 .page-tags ul li a:hover {
-    color: #5694f1;
+    color: #FF0000;
 }
