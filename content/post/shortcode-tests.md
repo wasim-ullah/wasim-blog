@@ -35,7 +35,7 @@ the video ID would be `v123456789`.
 
 {{< twitch channel="example" >}}
 
-{{< twitch video="357895420" >}}
+{{< twitch video="v357895420" >}}
 
 ## JSFiddle Shortcode
 JSFiddle shortcodes embed a read-only JSFiddle and displays the HTML,
