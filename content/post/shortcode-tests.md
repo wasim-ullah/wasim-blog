@@ -8,7 +8,7 @@ draft = false
 <figure>
     <img src="/images/code.jpg"  />
     <figcaption>
-        <h4>Steve Francia</h4>
+        <p>Steve Francia</p>
     </figcaption>
 </figure>
 
