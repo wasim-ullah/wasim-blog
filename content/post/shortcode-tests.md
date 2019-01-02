@@ -106,7 +106,7 @@ a file inside of Box, right click on a file inside of Box and click on
 `https://app.box.com/s/000000000000`, you will want to grab the unique
 string of characters ofter the `/s/` path.
 
-{{< box-preview id="000000" height="400" >}}
+{{< box-preview id="376666304427" height="400" >}}
 
 
 [google-console]: https://console.developers.google.com/
