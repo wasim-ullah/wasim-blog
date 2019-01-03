@@ -246,6 +246,9 @@ nav.main-nav a.cta {
 
 /* Typography */
 
+.hanchor {
+  visibility: hidden;
+}
 
 /*Accent color*/
 
