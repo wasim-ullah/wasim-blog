@@ -1,7 +1,7 @@
 baseURL = "https://wasim.co/"
 languageCode = "en-us"
 title = "Wasim Ullah"
-googleAnalytics = "129034560-1"
+googleAnalytics = "UA-129034560-1"
 
 [params]
 	name = "Wasim Ullah"
