@@ -23,8 +23,12 @@
                       </span>
                     </h2>
                 </header>
-                
-                {{ . | replaceRE "(<h[1-9] id=\"([^\"]+)\".+)(</h[1-9]+>)" `${1}<a href="#${2}" class="hanchor" ariaLabel="Anchor"> 🔗&#xFE0E;</a> ${3}` | safeHTML }}
+               
+                    {{- with .Content -}}
+    <div itemid="articleBody">
+      {{ . | replaceRE "(<h[1-9] id=\"([^\"]+)\".+)(</h[1-9]+>)" `${1}<a href="#${2}" class="hanchor" ariaLabel="Anchor"> 🔗&#xFE0E;</a> ${3}` | safeHTML }}
+    </div>
+    {{- end -}}
                 
                 {{ if .Site.Params.enableToc }}
                   {{ if .TableOfContents }}
