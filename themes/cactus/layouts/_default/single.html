@@ -9,8 +9,7 @@
                         {{ .Title }}
                     </h1>
                     <h2 class="headline">
-                      <time>{{ .Date.Format "Jan 2, 2006 15:04" }}</time>
-                    
+                    {{ .Date.Format "Jan 2, 2006 15:04" }}
                     · {{ if lt 1 .WordCount }}{{ .WordCount }} words{{ else }}{{ .WordCount }} word{{ end }}
                     · {{ .ReadingTime }} minute read
                       <span class="tags">
@@ -20,11 +19,10 @@
                               <a href="{{ $.Site.BaseURL }}tags/{{ . | urlize }}">{{ . }}</a>
                           {{ end }}
                       {{ end }}
-                      
+                      {{ end}}
                       </span>
                     </h2>
                 </header>
-   
                 {{ if .Site.Params.enableToc }}
                   {{ if .TableOfContents }}
                     <div id="toc">
@@ -33,23 +31,9 @@
                   {{ end }}
                 {{ end }}
                 <section id="post-body">
-                   {{ .Content }}   
+                    {{ .Content }}
                 </section>
-
             </article>
-            
-<footer id="post-meta" class="clearfix">
-            {{ with .Site.Params.twitter }}<a href="https://twitter.com/{{ . }}">{{ end }}
-    <img class="avatar" src="{{ "images/avatar.png" | absURL }}">
-    <div>
-        <span class="dark">{{ .Site.Params.name }}</span>
-        <span>{{ .Site.Params.aboutAuthor }}</span>
-    </div>
-    {{ with .Site.Params.twitter }}</a>{{ end }}
-    <section id="sharing">
-        {{ partial "share.html" . }}
-    </section>
-    </footer>
 
             {{ if .Site.Params.enableShare }}
                 {{ partial "share.html" . }}
