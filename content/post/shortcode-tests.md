@@ -26,7 +26,7 @@ load all of the shortcodes and display the various options they have.
 If you like and enjoy these short codes, please post a link on your
 blog to [GeekThis.net][geekthis], I would really appreciate it.
 
-### #### <a name="gitnew"></a> Installing New Shortcodes
+### <a name="gitnew"></a> Installing New Shortcodes
 To install shortcodes, copy each HTML file relating to a shortcode you
 want and place it into the shortcode directory inside of Hugo. This
 location will vary depending on if you are adding shortcodes to a
