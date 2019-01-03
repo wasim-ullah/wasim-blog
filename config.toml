@@ -16,7 +16,7 @@ googleAnalytics = "UA-129037953-1"
 	enableRSS = true
 	enableToc = true
 
-	enableDisqus = false
+	enableDisqus = true
 	disqusShortname = "WasimU"
 
 	enableSummary = true
