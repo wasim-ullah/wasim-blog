@@ -1,7 +1,7 @@
 baseURL = "https://wasim.co/"
 languageCode = "en-us"
 title = "Wasim Ullah"
-googleAnalytics = "UA-129037953-1"
+google_tag_manager = “GTM-PBQNF85”
 
 [params]
 	name = "Wasim Ullah"
