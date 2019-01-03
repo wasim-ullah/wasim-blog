@@ -123,6 +123,13 @@ string of characters ofter the `/s/` path.
 
 {{< box-preview id="000000" height="400" >}}
 
+<script src="https://utteranc.es/client.js"
+        repo="mrwullah/main-website"
+        issue-term="title"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
 
 [google-console]: https://console.developers.google.com/
 [geekthis]: http://geekthis.net
