@@ -24,10 +24,6 @@
                       </span>
                     </h2>
                 </header>
-                
-   <div itemid="articleBody">
-      {{ . | replaceRE "(<h[1-9] id=\"([^\"]+)\".+)(</h[1-9]+>)" `${1}<a href="#${2}" class="hanchor" ariaLabel="Anchor"> 🔗&#xFE0E;</a> ${3}` | safeHTML }}
-    </div>
    
                 {{ if .Site.Params.enableToc }}
                   {{ if .TableOfContents }}
@@ -40,6 +36,10 @@
                     {{ .Content }}
                 </section>
                 
+                
+                {{ .Content | replaceRE "(<h[1-9] id=\"([^\"]+)\".+)(</h[1-9]+>)" `${1}&nbsp;<a class="anchor" href="#${2}"><i class="small linkify icon"></i></a> ${3}` | safeHTML }}
+            
+            
             </article>
             
 <footer id="post-meta" class="clearfix">
