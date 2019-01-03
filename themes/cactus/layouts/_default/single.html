@@ -23,6 +23,9 @@
                       </span>
                     </h2>
                 </header>
+                
+                {{ . | replaceRE "(<h[1-9] id=\"([^\"]+)\".+)(</h[1-9]+>)" `${1}<a href="#${2}" class="hanchor" ariaLabel="Anchor"> 🔗&#xFE0E;</a> ${3}` | safeHTML }}
+                
                 {{ if .Site.Params.enableToc }}
                   {{ if .TableOfContents }}
                     <div id="toc">
@@ -31,7 +34,6 @@
                   {{ end }}
                 {{ end }}
                 <section id="post-body">
-      {{ . | replaceRE "(<h[1-9] id=\"([^\"]+)\".+)(</h[1-9]+>)" `${1}<a href="#${2}" class="hanchor" ariaLabel="Anchor"> 🔗&#xFE0E;</a> ${3}` | safeHTML }}
                     {{ .Content }}
                 </section>
             </article>
