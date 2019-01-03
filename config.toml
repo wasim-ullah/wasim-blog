@@ -13,6 +13,8 @@ googleAnalytics = "UA-129034560-1"
 	twitter = "mrwullah"
 	facebook = "mrwullah"
 
+	google_tag_manager = "GMT-PBQNF85"
+
 	enableRSS = true
 	enableToc = true
 
