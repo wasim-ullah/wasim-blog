@@ -12,6 +12,14 @@ draft = false
     </figcaption>
 </figure>
 
+
+{{< gallery class="content-gallery" >}}
+  {{< img src="/images/code.jpg" >}}
+  {{< img src="/images/code.jpg" >}}
+{{< /gallery >}}
+{{< img src="/images/code.jpg" >}}
+
+
 Hello,
 Thanks for downloading and testing our my shortcode pack. Below will
 load all of the shortcodes and display the various options they have.
