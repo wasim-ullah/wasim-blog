@@ -250,6 +250,18 @@ nav.main-nav a.cta {
   visibility: hidden;
 }
 
+h1:hover .hanchor,
+h2:hover .hanchor,
+h3:hover .hanchor,
+h4:hover .hanchor,
+h5:hover .hanchor,
+h6:hover .hanchor,
+h7:hover .hanchor,
+h8:hover .hanchor,
+h9:hover .hanchor {
+  visibility: visible;
+}
+
 /*Accent color*/
 
 a, #title, #post-list a:hover, #title:hover {
