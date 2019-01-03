@@ -1,6 +1,7 @@
 baseURL = "https://wasim.co/"
 languageCode = "en-us"
 title = "Wasim Ullah"
+googleAnalytics = "129034560-1"
 
 [params]
 	name = "Wasim Ullah"
@@ -11,8 +12,6 @@ title = "Wasim Ullah"
 
 	twitter = "mrwullah"
 	facebook = "mrwullah"
-
-	google_tag_manager = "GMT-PBQNF85"
 
 	enableRSS = true
 	enableToc = true
