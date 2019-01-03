@@ -24,8 +24,6 @@
                     </h2>
                 </header>
                
-
-                
                 {{ if .Site.Params.enableToc }}
                   {{ if .TableOfContents }}
                     <div id="toc">
@@ -35,13 +33,24 @@
                 {{ end }}
                 <section id="post-body">
 
-                            {{- with .Content -}}                
-    <div>
-      {{ . | replaceRE "(<h[1-9] id=\"([^\"]+)\".+)(</h[1-9]+>)" `${1}<a href="#${2}" class="hanchor" ariaLabel="Anchor"> 🔗&#xFE0E; </a> ${3}` | safeHTML }}
-    </div>
-    {{- end -}}
+                    {{- with .Content -}}                
+                        <div>
+                            {{ . | replaceRE "(<h[1-9] id=\"([^\"]+)\".+)(</h[1-9]+>)" `${1}<a href="#${2}" class="hanchor" ariaLabel="Anchor"> 🔗&#xFE0E; </a> ${3}` | safeHTML }}
+                        </div>
+                    {{- end -}}
                 </section>
             </article>
+        
+     <div class="space-above">{{/* Previous & Next links */}}
+        <hr />
+        {{- with .PrevInSection -}}
+            <div class="is-pulled-left" title="Previous page/article in this section"><a class="prev" href="{{ .Permalink }}"><b>Previous:</b> {{ .Title }}</a></div>
+        {{- end -}}
+        {{- with .NextInSection -}}
+            <div class="is-pulled-right" title="Next page/article in this section"><a class="next" href="{{ .Permalink }}"><b>Next:</b> {{ .Title }}</a></div>
+        {{- end -}}
+        <div class="is-clearfix"></div>
+    </div>
             
     <footer id="post-meta" class="clearfix">
     {{ with .Site.Params.twitter }}<a href="https://twitter.com/{{ . }}">{{ end }}
