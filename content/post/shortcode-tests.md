@@ -10,13 +10,6 @@ thumbnail = "/images/code.jpg"
     This is another article, you can find <a href="/some-article/">all about examples</a> including a large <a href="/some-article/">examples list</a> in the prior article.
 </blockquote>
 
-<figure>
-    <img src="/images/code.jpg"  />
-    <figcaption>
-        <p>Steve Francia</p>
-    </figcaption>
-</figure>
-
 
 {{< gallery class="content-gallery" >}}
   {{< img src="/images/code.jpg" >}}
