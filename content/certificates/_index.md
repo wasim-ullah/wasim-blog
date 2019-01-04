@@ -8,15 +8,15 @@ draft: false
 If you are interested in hearing my future posts, this is where we begin. Fill up the two blanks below.
 
 <figure>
-    <img src="/images/ga.jpg"  />
-    <figcaption>
+     <figcaption>
         <p>Steve Francia</p>
     </figcaption>
+    <img src="/images/ga.jpg"  />
 </figure>
 
 <figure>
-    <img src="/images/gh.png"  />
     <figcaption>
         <p>Steve Francia</p>
-    </figcaption>
+    </figcaption>    
+    <img src="/images/gh.png"  />
 </figure>
