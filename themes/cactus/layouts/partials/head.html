@@ -10,7 +10,7 @@
 		{{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
 		{{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
 		
-				<!-- Start of Open Graph -->
+    <!-- Start of Open Graph -->
     <meta property="og:title" content="{{ .Title }}">
     {{ if .IsPage }}
     <meta property="og:type" content="article">
@@ -28,7 +28,8 @@
     <meta property="og:tags" content="{{ . }}">
     {{ end }}
     <!-- End of Open Graph -->
-		<!-- Start of Twitter -->
+		
+    <!-- Start of Twitter -->
     {{ if .Site.Params.twitter_card_whitelisted }}
         {{ if .Params.twitter_summary }}
     <meta property="twitter:card" content="{{ .Params.twitter_summary }}">
