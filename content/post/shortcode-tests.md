@@ -3,25 +3,9 @@ title: "Shortcode Tests"
 description: "A post that tries out this set of shortcodes."
 date: "2016-12-29T13:39:24-05:00"
 draft: false
-audio = []
 images = ["/images/avatar.png"]
-series = []
-tags = []
-video = []
 ---
-![Sales Funnel Key Performance Indicators](/images/funnel.jpg)
-<figure>
-    <img src="/images/code.jpg"  />
-    <figcaption>
-        <p>Steve Francia</p>
-    </figcaption>
-</figure>
 
-{{< gallery class="content-gallery" >}}
-  {{< img src="/images/code.jpg" >}}
-  {{< img src="/images/code.jpg" >}}
-{{< /gallery >}}
-{{< img src="/images/code.jpg" >}}
 
 {{< emoji ":thumbsup:" >}}
 
