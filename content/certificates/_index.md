@@ -9,14 +9,21 @@ If you are interested in hearing my future posts, this is where we begin. Fill u
 
 <figure>
      <figcaption>
-        <p>Steve Francia</p>
+        <p>Digital Marketing Circuit by General Assembly</p>
     </figcaption>
     <img src="/images/ga.jpg"  />
 </figure>
 
 <figure>
     <figcaption>
-        <p>Steve Francia</p>
+        <p>Growth Master Training by Sean Ellis</p>
     </figcaption>    
     <img src="/images/gh.png"  />
+</figure>
+
+<figure>
+    <figcaption>
+        <p>From 0 to 1 Million Visitors by Ali Mese</p>
+    </figcaption>    
+    <img src="/images/gsa.jpg"  />
 </figure>
