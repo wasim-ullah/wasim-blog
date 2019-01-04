@@ -75,5 +75,5 @@ iconFont = "font-awesome"
 socialIconStyle = ""
 
 [social]
-linkedin-in = "https://www.linkedin.com/in/mrwullah"
+fa-linkedin-circle = "https://www.linkedin.com/in/mrwullah"
 spotify = "https://open.spotify.com/user/mrwullah"
