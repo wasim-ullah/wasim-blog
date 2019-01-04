@@ -6,10 +6,9 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		{{ if .Site.Params.enableTwitterCard }} 
 			{{ partial "twitter-cards.html" . }}
-		{{ end }
+		{{ end }}
 		{{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
 		{{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
-			
 		{{ .Hugo.Generator }}
 		<title>{{ if .IsHome }}{{ .Title }}{{ else }}{{ .Title }} &middot; {{ .Site.Title }}{{ end }}</title>
 		<link rel="shortcut icon" href="{{ .Site.BaseURL }}images/favicon.ico">
