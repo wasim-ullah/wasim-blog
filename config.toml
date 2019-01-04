@@ -30,7 +30,7 @@ googleAnalytics = "UA-129034560-1"
 	# Set the value to your baidu analysis code if you want to use baidu analytics
 	baiduAnalytics = 'your_baidu_analysis_code'
 
-	enableRobotsTXT = true
+
 	canonifyURLs = true
 
 	enableTwitterCard = true
