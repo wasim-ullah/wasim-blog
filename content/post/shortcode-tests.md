@@ -7,8 +7,6 @@ draft = false
 
 {{< shortcode-tests p>}}This is an Article about examples. Lorem ipsum dolor.{{< /shortcode-tests >}}
 
-{{< seo-autolink blockquote>}}This is another article, you can find all about examples including a large examples list in the prior article.{{< /seo-autolink >}}
-
 <figure>
     <img src="/images/code.jpg"  />
     <figcaption>
