@@ -86,9 +86,9 @@ socialIconStyle = ""
       height = 180
 
   [params.logo]
-    url = "/images/avatar.png"
-    width = 180
-    height = 180
+    url = "/images/avatars.png"
+    width = 40
+    height = 40
 
   [params.image]
     url = "/images/man.jpg"
