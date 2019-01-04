@@ -74,10 +74,8 @@ googleAnalytics = "UA-129034560-1"
 iconFont = "font-awesome"
 socialIconStyle = ""
 
-
-[permalinks]
-  post = "/:year/:month/:day/:slug/"
-
+[taxonomies]
+    tag = "tags"
 
 [social]
 linkedin-square = "https://www.linkedin.com/in/mrwullah"
