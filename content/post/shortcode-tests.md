@@ -3,14 +3,8 @@ title: "Shortcode Tests"
 description: "A post that tries out this set of shortcodes."
 date: "2016-12-29T13:39:24-05:00"
 draft: false
-thumbnail: "/images/man.jpg"
-
 ---
-
-<blockquote>
-    This is another article, you can find <a href="/some-article/">all about examples</a> including a large <a href="/some-article/">examples list</a> in the prior article.
-</blockquote>
-
+![Sales Funnel Key Performance Indicators](/images/funnel.jpg)
 <figure>
     <img src="/images/code.jpg"  />
     <figcaption>
@@ -25,6 +19,10 @@ thumbnail: "/images/man.jpg"
 {{< img src="/images/code.jpg" >}}
 
 {{< emoji ":thumbsup:" >}}
+
+<blockquote>
+    This is another article, you can find <a href="/some-article/">all about examples</a> including a large <a href="/some-article/">examples list</a> in the prior article.
+</blockquote>
 
 Hello,
 Thanks for downloading and testing our my shortcode pack. Below will
