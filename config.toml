@@ -81,9 +81,9 @@ socialIconStyle = ""
     name = "Wasim Ullah"
 
     [params.publisher.logo]
-      url = "/images/avatar.png"
-      width = 180
-      height = 180
+      url = "/images/avatars.png"
+      width = 40
+      height = 40
 
   [params.logo]
     url = "/images/avatars.png"
