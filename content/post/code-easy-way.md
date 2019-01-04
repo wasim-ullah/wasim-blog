@@ -8,7 +8,6 @@ tags: [
 title: Code Easy Way
 description: I have edited hundres of websites without learning a single bit of code.
 weight: 9
-thumbnail: "/images/man.jpg"
 ---
 
 ![Code Easy Way](/images/code.jpg)
