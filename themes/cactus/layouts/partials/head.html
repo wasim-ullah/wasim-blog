@@ -7,6 +7,9 @@
 		{{ if .Site.Params.enableTwitterCard }} 
 			{{ partial "twitter-cards.html" . }}
 		{{ end }}
+		{{ partial "head/seo/open_graph.html" . }}
+		{{ partial "head/seo/schema.html" . }}
+		{{ partial "head/seo/google_news.html" . }}
 		{{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
 		{{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
 		{{ .Hugo.Generator }}
