@@ -8,22 +8,22 @@ draft: false
 If you are interested in hearing my future posts, this is where we begin. Fill up the two blanks below.
 
 <figure>
-     <figcaption>
-        <h3>Digital Marketing Circuit by General Assembly</h3>
-    </figcaption>
     <img src="/images/ga.jpg"  />
+     <figcaption>
+        <p>Digital Marketing Circuit by General Assembly</p>
+    </figcaption>
 </figure>
 
-<figure>
-    <figcaption>
-        <h3>Growth Master Training by Sean Ellis</h3>
-    </figcaption>    
+<figure> 
     <img src="/images/gh.png"  />
+    <figcaption>
+        <p>Growth Master Training by Sean Ellis</p>
+    </figcaption>   
 </figure>
 
-<figure>
-    <figcaption>
-        <h3>From 0 to 1 Million Visitors by Ali Mese</h3>
-    </figcaption>    
+<figure> 
     <img src="/images/gsa.jpg"  />
+    <figcaption>
+        <p>From 0 to 1 Million Visitors by Ali Mese</p>
+    </figcaption>   
 </figure>
