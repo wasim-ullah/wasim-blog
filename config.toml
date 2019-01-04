@@ -74,6 +74,27 @@ googleAnalytics = "UA-129034560-1"
 iconFont = "font-awesome"
 socialIconStyle = ""
 
+[author]
+  name = "Wasim Ullah"
+  
+ [params.publisher]
+    name = "Wasim Ullah"
+
+    [params.publisher.logo]
+      url = "/images/avatar.png"
+      width = 180
+      height = 180
+
+  [params.logo]
+    url = "/images/avatar.png"
+    width = 180
+    height = 180
+
+  [params.image]
+    url = "/images/avatar.png"
+    width = 180
+    height = 180
+
 [social]
 linkedin-square = "https://www.linkedin.com/in/mrwullah"
 facebook-square = "https://www.facebook.com/mrwullah"
