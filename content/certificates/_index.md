@@ -9,21 +9,21 @@ If you are interested in hearing my future posts, this is where we begin. Fill u
 
 <figure>
      <figcaption>
-        <p>Digital Marketing Circuit by General Assembly</p>
+        <h3>Digital Marketing Circuit by General Assembly</h3>
     </figcaption>
     <img src="/images/ga.jpg"  />
 </figure>
 
 <figure>
     <figcaption>
-        <p>Growth Master Training by Sean Ellis</p>
+        <h3>Growth Master Training by Sean Ellis</h3>
     </figcaption>    
     <img src="/images/gh.png"  />
 </figure>
 
 <figure>
     <figcaption>
-        <p>From 0 to 1 Million Visitors by Ali Mese</p>
+        <h3>From 0 to 1 Million Visitors by Ali Mese</h3>
     </figcaption>    
     <img src="/images/gsa.jpg"  />
 </figure>
