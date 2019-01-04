@@ -4,12 +4,9 @@ description: "A post that tries out this set of shortcodes."
 date: "2016-12-29T13:39:24-05:00"
 draft: false
 audio = []
-date = "2006-01-02"
-description = "Text about this post"
 images = ["/images/avatar.png"]
 series = []
 tags = []
-title = "Post title"
 video = []
 ---
 ![Sales Funnel Key Performance Indicators](/images/funnel.jpg)
