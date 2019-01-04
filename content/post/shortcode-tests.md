@@ -3,11 +3,12 @@ title = "Shortcode Tests"
 description = "A post that tries out this set of shortcodes."
 date = "2016-12-29T13:39:24-05:00"
 draft = false
+seo = ["all about examples", "examples list"]
 +++
 
-<blockquote>
-    This is another article, you can find <a href="/some-article/">all about examples</a> including a large <a href="/some-article/">examples list</a> in the prior article.
-</blockquote>
+{{< seo-autolink p>}}This is an Article about examples. Lorem ipsum dolor.{{< /seo-autolink >}}
+
+{{< seo-autolink blockquote>}}This is another article, you can find all about examples including a large examples list in the prior article.{{< /seo-autolink >}}
 
 <figure>
     <img src="/images/code.jpg"  />
