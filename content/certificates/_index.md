@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-If you are interested in hearing my future posts, this is where we begin. Fill up the two blanks below.
+The following certificates do not expire.
 
 <figure>
     <img src="/images/ga.jpg"  />
@@ -27,3 +27,5 @@ If you are interested in hearing my future posts, this is where we begin. Fill u
         <p>From 0 to 1 Million Visitors by Ali Mese</p>
     </figcaption>   
 </figure>
+
+I did also attend startup scool, <a href="https://www.startupschool.org/companies/pbq-hq">check this</a>.
