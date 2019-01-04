@@ -91,9 +91,9 @@ socialIconStyle = ""
     height = 180
 
   [params.image]
-    url = "/images/avatar.png"
-    width = 180
-    height = 180
+    url = "/images/man.jpg"
+    width = 3600
+    height = 2400
 
 [social]
 linkedin-square = "https://www.linkedin.com/in/mrwullah"
