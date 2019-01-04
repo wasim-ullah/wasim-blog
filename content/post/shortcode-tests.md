@@ -1,10 +1,10 @@
-+++
+---
 title = "Shortcode Tests"
 description = "A post that tries out this set of shortcodes."
 date = "2016-12-29T13:39:24-05:00"
 draft = false
 featured_image = "/images/code.jpg"
-+++
+---
 
 <blockquote>
     This is another article, you can find <a href="/some-article/">all about examples</a> including a large <a href="/some-article/">examples list</a> in the prior article.
