@@ -74,9 +74,6 @@ googleAnalytics = "UA-129034560-1"
 iconFont = "font-awesome"
 socialIconStyle = ""
 
-[permalinks]
-  post = "/:year/:month/:day/:slug/"
-
 [social]
 linkedin-square = "https://www.linkedin.com/in/mrwullah"
 facebook-square = "https://www.facebook.com/mrwullah"
