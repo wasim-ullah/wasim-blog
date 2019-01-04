@@ -19,6 +19,7 @@ draft = false
 {{< /gallery >}}
 {{< img src="/images/code.jpg" >}}
 
+{{< emoji ":thumbsup:" >}}
 
 Hello,
 Thanks for downloading and testing our my shortcode pack. Below will
