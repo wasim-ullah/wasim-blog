@@ -22,5 +22,5 @@ Most recently I single handedly rebranded logos, websites, stationary and severa
   <li>Paid Advertising</li>  
   <li>Analytical Insights</li>
 </ol>  
-
+<br>
 See my work <a href="https://wasim.co/work/">here</a>, and get in touch if you need a brain, who can answer your biggest digital marketing fears.
