@@ -7,13 +7,6 @@ draft: false
 
 Get to know the face behind.
 
-<figure> 
-    <img src="/images/p11.jpg"  />
-    <figcaption>
-        <p>Branding at Vudu Advertising</p>
-    </figcaption>   
-</figure>
-
 <figure>
     <img src="/images/p1.jpg"  />
      <figcaption>
@@ -31,6 +24,6 @@ Get to know the face behind.
 <figure> 
     <img src="/images/p9.jpg"  />
     <figcaption>
-        <p>Strategy at StudioBQ</p>
+        <p>Strategy Session at StudioBQ</p>
     </figcaption>   
 </figure>
