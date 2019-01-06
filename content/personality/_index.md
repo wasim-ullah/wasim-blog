@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-Get to know.
+Get to know the face behind.
 
 <figure> 
     <img src="/images/p11.jpg"  />
