@@ -24,6 +24,6 @@ Get to know the face behind.
 <figure> 
     <img src="/images/p9.jpg"  />
     <figcaption>
-        <p>Growth Strategy Session at Studio Binqulander</p>
+        <p>Growth Strategy Session at StudioBQ</p>
     </figcaption>   
 </figure>
