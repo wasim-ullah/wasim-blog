@@ -69,3 +69,17 @@ The following certificates do not expire.
         <p>From 0 to 1 Million Visitors by Ali Mese</p>
     </figcaption>   
 </figure>
+
+<figure> 
+    <img src="/images/p10.jpg"  />
+    <figcaption>
+        <p>From 0 to 1 Million Visitors by Ali Mese</p>
+    </figcaption>   
+</figure>
+
+<figure> 
+    <img src="/images/p11.jpg"  />
+    <figcaption>
+        <p>From 0 to 1 Million Visitors by Ali Mese</p>
+    </figcaption>   
+</figure>
