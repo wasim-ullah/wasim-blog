@@ -9,8 +9,5 @@
 		<a href="{{ $val }}">{{ $key }}</a>
 	{{ end }}
 
-	{{ if .Site.Params.enableRSS }}
-	<a href='{{ .Site.BaseURL }}contact'>{{ with .Site.Params.about }}{{ . }}{{ else }}Contact{{ end }}</a>
-	{{ end }}
 	<a class="cta" href='{{ .Site.BaseURL }}post'>{{ with .Site.Params.about }}{{ . }}{{ else }}Articles{{ end }}</a>
 </nav>
