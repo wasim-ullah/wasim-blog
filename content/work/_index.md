@@ -6,11 +6,11 @@ draft: false
 
 Please feel free to send an email to get further clarity.
 
-## Portfolio
+<h1> Portfolio </h1>
 {{< box-preview id="gyk36q0hp3yqgzi3masz6qb70xaep97g" height="400" >}}
 
-## Vitae
+<h1> Vitae </h1>
 {{< box-preview id="b5so1w9t9soiyysc6kihvbxarnfa74vb" height="400" >}}
 
-## Ingredients
+<h1> Ingredients </h1>
 {{< box-preview id="5ogxazr1sn9mc0ahh4xrubed7saowdgt" height="400" >}}
