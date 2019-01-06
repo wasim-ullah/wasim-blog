@@ -5,14 +5,12 @@
 	{{ end }}
 	<a href='{{ .Site.BaseURL }}post'>{{ with .Site.Params.about }}{{ . }}{{ else }}Articles{{ end }}</a>
 	<a href='{{ .Site.BaseURL }}work'>{{ with .Site.Params.about }}{{ . }}{{ else }}Portfolio{{ end }}</a>
-	<a href='{{ .Site.BaseURL }}employers'>{{ with .Site.Params.about }}{{ . }}{{ else }}Employers{{ end }}</a>
-	<a href='{{ .Site.BaseURL }}personality'>{{ with .Site.Params.about }}{{ . }}{{ else }}Personality{{ end }}</a>
 	{{ range $key, $val := .Site.Params.Links }}
 		<a href="{{ $val }}">{{ $key }}</a>
 	{{ end }}
 
 	{{ if .Site.Params.enableRSS }}
-	<a href='{{ .Site.BaseURL }}letter'>{{ with .Site.Params.about }}{{ . }}{{ else }}Newsletter{{ end }}</a>
+	<a href='{{ .Site.BaseURL }}employers'>{{ with .Site.Params.about }}{{ . }}{{ else }}Employers{{ end }}</a>
 	{{ end }}
 	<a class="cta" href='{{ .Site.BaseURL }}contact'>{{ with .Site.Params.about }}{{ . }}{{ else }}Contact{{ end }}</a>
 </nav>
