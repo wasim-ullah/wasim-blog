@@ -5,81 +5,32 @@ draft: false
 ---
 
 
-The following certificates do not expire.
+Get to know.
+
+<figure> 
+    <img src="/images/p11.jpg"  />
+    <figcaption>
+        <p>Branding at Vudu Advertising</p>
+    </figcaption>   
+</figure>
 
 <figure>
     <img src="/images/p1.jpg"  />
      <figcaption>
-        <p>Digital Marketing Circuit by General Assembly</p>
+        <p>Startup Idea Pitch at LUMS Center for Entrepreneurs</p>
     </figcaption>
 </figure>
 
 <figure> 
     <img src="/images/p2.jpg"  />
     <figcaption>
-        <p>Growth Master Training by Sean Ellis</p>
-    </figcaption>   
-</figure>
-
-<figure> 
-    <img src="/images/p3.jpg"  />
-    <figcaption>
-        <p>From 0 to 1 Million Visitors by Ali Mese</p>
-    </figcaption>   
-</figure>
-
-<figure> 
-    <img src="/images/p4.jpg"  />
-    <figcaption>
-        <p>From 0 to 1 Million Visitors by Ali Mese</p>
-    </figcaption>   
-</figure>
-
-<figure> 
-    <img src="/images/p5.jpg"  />
-    <figcaption>
-        <p>From 0 to 1 Million Visitors by Ali Mese</p>
-    </figcaption>   
-</figure>
-
-<figure> 
-    <img src="/images/p6.jpg"  />
-    <figcaption>
-        <p>From 0 to 1 Million Visitors by Ali Mese</p>
-    </figcaption>   
-</figure>
-
-<figure> 
-    <img src="/images/p7.jpg"  />
-    <figcaption>
-        <p>From 0 to 1 Million Visitors by Ali Mese</p>
-    </figcaption>   
-</figure>
-
-<figure> 
-    <img src="/images/p8.jpg"  />
-    <figcaption>
-        <p>From 0 to 1 Million Visitors by Ali Mese</p>
+        <p>Team Lead at Punjab Youth Festival</p>
     </figcaption>   
 </figure>
 
 <figure> 
     <img src="/images/p9.jpg"  />
     <figcaption>
-        <p>From 0 to 1 Million Visitors by Ali Mese</p>
-    </figcaption>   
-</figure>
-
-<figure> 
-    <img src="/images/p10.jpg"  />
-    <figcaption>
-        <p>From 0 to 1 Million Visitors by Ali Mese</p>
-    </figcaption>   
-</figure>
-
-<figure> 
-    <img src="/images/p11.jpg"  />
-    <figcaption>
-        <p>From 0 to 1 Million Visitors by Ali Mese</p>
+        <p>Strategy at StudioBQ</p>
     </figcaption>   
 </figure>
