@@ -15,7 +15,7 @@ The following certificates do not expire.
 </figure>
 
 <figure> 
-    <img src="/images/p2.png"  />
+    <img src="/images/p2.jpg"  />
     <figcaption>
         <p>Growth Master Training by Sean Ellis</p>
     </figcaption>   
