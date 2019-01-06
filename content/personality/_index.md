@@ -17,13 +17,13 @@ Get to know the face behind.
 <figure> 
     <img src="/images/p2.jpg"  />
     <figcaption>
-        <p>Team Lead at Punjab Youth Festival</p>
+        <p>Focal Person & Team Lead at Punjab Youth Festival</p>
     </figcaption>   
 </figure>
 
 <figure> 
     <img src="/images/p9.jpg"  />
     <figcaption>
-        <p>Strategy Session at StudioBQ</p>
+        <p>Growth Strategy Session at Studio Binqulander</p>
     </figcaption>   
 </figure>
