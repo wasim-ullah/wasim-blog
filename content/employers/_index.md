@@ -6,6 +6,8 @@ draft: false
 
 To begin with, I'd like to declare that I do not share any information with respect to my portfolio contained under non-disclosure agreements.<br>
 
+<h3>Proposition</h3>
+
 What sets me apart in the <b>crowd</b> is that I have trained myself to be a full stack marketer through hard work and my experience is also backed by well recognized certifications.<br>
 
 <h3>Highlights</h3>
