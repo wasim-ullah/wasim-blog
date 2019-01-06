@@ -24,6 +24,7 @@ Most recently I single handedly rebranded logos, websites, stationary and severa
   <li>Content Writing</li>
   <li>Video Editing</li>
   <li>Paid Advertising</li>  
+  <li>Email Marketing</li>
   <li>Analytical Insights</li>
 </ol>  
 
