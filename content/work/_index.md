@@ -13,4 +13,4 @@ Please feel free to send an email to get further clarity.
 {{< box-preview id="b5so1w9t9soiyysc6kihvbxarnfa74vb" height="400" >}}
 
 <h3> Ingredients </h3>
-{{< box-preview id="5ogxazr1sn9mc0ahh4xrubed7saowdgt" height="700" >}}
+{{< box-preview id="5ogxazr1sn9mc0ahh4xrubed7saowdgt" height="500" >}}
