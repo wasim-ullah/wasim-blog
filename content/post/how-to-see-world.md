@@ -11,7 +11,7 @@ weight: 9
 ---
 
 <figure>
-![How To See The World](/images/world.jpg)
+    <img src=/images/world.jpg"  />
   <figcaption>
       <h4>Steve Francia</h4>
   </figcaption>
