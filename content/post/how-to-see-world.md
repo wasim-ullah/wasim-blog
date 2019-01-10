@@ -1,6 +1,6 @@
 ---
 author: "Wasim Ullah"
-date: 2019-01-10T20:30:00
+date: 2019-01-10T10:30:00
 linktitle: How To See The World?
 tags: [
     "opinion",
