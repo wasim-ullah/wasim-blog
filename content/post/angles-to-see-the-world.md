@@ -1,11 +1,11 @@
 ---
 author: "Wasim Ullah"
 date: 2019-01-10T10:30:00
-linktitle: Angles To See The World
+linktitle: Angles To See The Sides
 tags: [
     "opinion",
 ]
-title: Angles To See The World
+title: Angles To See The Sides
 description: There are a countless number of ways.
 weight: 9
 ---
