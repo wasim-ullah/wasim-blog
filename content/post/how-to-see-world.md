@@ -11,7 +11,7 @@ weight: 9
 ---
 
 <figure>
-    <img src=/images/world.jpg"  />
+    <img src=https://wasim.co/images/world.jpg"  />
   <figcaption>
       <h4>Steve Francia</h4>
   </figcaption>
