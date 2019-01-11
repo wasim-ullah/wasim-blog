@@ -96,7 +96,7 @@ socialIconStyle = ""
     height = 2400
 
 [social]
-keybase-square = "https://www.keybase.io/wasimullah"
+linkedin-square = "https://www.linkedin.com/in/wasimullah"
 
 [privacy]
   [privacy.disqus]
