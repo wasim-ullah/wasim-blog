@@ -97,14 +97,6 @@ socialIconStyle = ""
 
 [social]
 linkedin-square = "https://www.linkedin.com/in/wasim-ullah"
-keybase = "https://keybase.io/wasim_ullah"
-
-  [[params.social]]
-    icon = "Keybase"
-    icon_pack = "keybase"
-    link = "//weibo.com/u/3049858680"
-
-keybase = "wasim_ullah"
 
 [privacy]
   [privacy.disqus]
