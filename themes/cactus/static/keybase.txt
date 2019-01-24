@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/wasim_ullah
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://wasim.co
+  * I am wasim_ullah (https://keybase.io/wasim_ullah) on keybase.
+  * I have a public key with fingerprint AD4F A6C0 B99C 0DA8 EA64  CAD3 CA1A F236 C52E 259E
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101af9d22a67d7ba4c8e11dc737a888248b4360d25c68c32570def813ae674aaa260a",
+      "fingerprint": "ad4fa6c0b99c0da8ea64cad3ca1af236c52e259e",
+      "host": "keybase.io",
+      "key_id": "ca1af236c52e259e",
+      "kid": "0101af9d22a67d7ba4c8e11dc737a888248b4360d25c68c32570def813ae674aaa260a",
+      "uid": "29eb8a0ba31dc3ff545a9850d93ab819",
+      "username": "wasim_ullah"
+    },
+    "service": {
+      "hostname": "wasim.co",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1548316097,
+  "expire_in": 157680000,
+  "prev": "5b4b873d3edddcd56c260be43ad35c6e7801d773ce597f1a9d107ebdca81982c",
+  "seqno": 12,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.80
+Comment: https://keybase.io/crypto
+
+yMIjAnicrVJdSFRBGN2ttLJCQytfMrkhZK567537M3eFhJDUflAjkEBY587MuhfX
+3fXu3TUzySUxMpAiw6ISKTKCfiDIsijz56WiUnroQSOprCwjffBBA22uFPTQY/My
+zDfnnO+cb2Zo3XJHgrNTaM8tjB90Op/3d0QcFcU1/Q2cHiT1nLuBq6ZLG/UTGrY8
+1Qbh3Bwv8ALyakQUkaISVUcShlQQCFaBiiCEogR1CSg8EWWsQAxEWeUJ9UIBIKqo
+EkJIVHjEuTivEaiiZsg0AhaTRUTyIgXzuqZhniBIkSJhRABGrJsIFCyLVJQ1yoi+
+YNhmMHM6CtMcI8hq7OBZsvcP/H/2HVmSEzWqQ8TrCDAJ4PXKkow0KPNEA0iHgmYD
+w9QMoBrK0HUobNR4In4/8nGNLo5dRA1M7dnaYf4G5WA7TsgMWkEc9LOqz7JCYbfN
+supDSzCqe34LeHQjQNgYGSNKzbARDHBugSGxZdiKgixBICi8pro4eihkmNRj2AhZ
+VSDPlt2HRpmkrEs6VAEBlBCCiaxgllWnEmAPwKZBVcgLRFUBprKmegWkEYFXqU4w
+YkmhiDk7Um0gyLRF5hNVMc2wURVAVsSkXOPAk4oVDmeCIz5umf2/HAmrk/78uuHo
+Kke/2Su/Hi940Zr3+dPQsYzHqaOuV7PlW39WNPlW7jt5oi3V//3Lwu6US+D+uay2
+UpGkDD4l2hsTXiyOnc0c7TnunyrvOXLY17ft256yo72l7l1FWTcim7oWvLP35tOn
+nHxGVaUJ1rcm/ugaW5M2MNBbtqMg0v0sf+MwKbqwdqTgQCznZToPBscHczM+tFQ8
+4u/ezjZicRMP908vPghd3eCcSLo1ZN7ppuNz55Mz31q1mxNnSvJh/+Wx0dhi27sh
+knwmey/aGUuenG5OSr1WqY6M0NNbZqIzRbBjYjG7+5TzYF39/PXtV1oLM9vnPrbH
+5+HJzsmW912NX0v6mptupv0Ct5xCJg==
+=DkF6
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/wasim_ullah
+
+==================================================================
