@@ -71,7 +71,7 @@ googleAnalytics = "UA-129034560-1"
 	# Sharing options and author information in posts
 	aboutAuthor = "Marketer"
 
-iconFont = "mono-social"
+iconFont = "font-awesome"
 socialIconStyle = ""
 
 [author]
