@@ -101,6 +101,10 @@ table {
     content: '\e803';
 }
 
+.icon-keybase:before {
+    content: '\e807';
+}
+
 
 /* Spacing */
 
