@@ -96,7 +96,7 @@ socialIconStyle = ""
     height = 2400
 
 [social]
-keybase = "https://www.linkedin.com/in/wasim-ullah"
+fa-keybase = "https://www.linkedin.com/in/wasim-ullah"
 
 [privacy]
   [privacy.disqus]
