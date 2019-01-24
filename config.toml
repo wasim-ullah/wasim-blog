@@ -97,7 +97,7 @@ socialIconStyle = ""
 
 [social]
 linkedin-square = "https://www.linkedin.com/in/wasim-ullah"
-anchor = "https://www.linkedin.com/in/wasim-ullah"
+square = "https://keybase.io/wasim_ullah"
 
 [privacy]
   [privacy.disqus]
