@@ -7,7 +7,7 @@ tags: [
 ]
 title: Rebranding Maddy.pk
 description: A three months journey from brand revamp till incubation.
-weight: 10
+weight: 9
 ---
 
 ![Rebranding Maddy](/images/maddy.jpg)
