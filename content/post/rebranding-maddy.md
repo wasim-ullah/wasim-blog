@@ -34,7 +34,7 @@ I believe in the purpose maddy.pk is going to fulfil and the growth potential. P
 </figure>
 
 <figure> 
-    <img src="/images/m9.png"  />
+    <img src="/images/m3.png"  />
     <figcaption>
         <p>Maddy's Crew</p>
     </figcaption>   
