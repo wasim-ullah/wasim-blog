@@ -20,21 +20,21 @@ Maddy.pk started back in 2015, since then its founder Maryam Afzal Madni has rev
 I believe in the purpose maddy.pk is going to fulfil and the growth potential. Previuosly, brand gave a traditional restrained look while we agreed to shape it for global impact. Its new logo, social media posts and business stationary is in context of modern and youthful norms. With respect to its core mission, we have sparked our audience with a campaign called branding your lifestyle.
 
 <figure>
-    <img src="/images/m1.jpg"  />
+    <img src="/images/m1.png"  />
      <figcaption>
         <p>Maddy's Manager</p>
     </figcaption>
 </figure>
 
 <figure> 
-    <img src="/images/m2.jpg"  />
+    <img src="/images/m2.png"  />
     <figcaption>
         <p>Maddy's Founder</p>
     </figcaption>   
 </figure>
 
 <figure> 
-    <img src="/images/m9.jpg"  />
+    <img src="/images/m9.png"  />
     <figcaption>
         <p>Maddy's Crew</p>
     </figcaption>   
