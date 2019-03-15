@@ -19,9 +19,26 @@ Maddy.pk started back in 2015, since then its founder Maryam Afzal Madni has rev
 ## Rebranding
 I believe in the purpose maddy.pk is going to fulfil and the growth potential. Previuosly, brand gave a traditional restrained look while we agreed to shape it for global impact. Its new logo, social media posts and business stationary is in context of modern and youthful norms. With respect to its core mission, we have sparked our audience with a campaign called branding your lifestyle.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmaddythebrand%2Fphotos%2Fa.1598508227079133%2F2261336614129621%2F%3Ftype%3D3&width=500" width="500" height="299" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmaddythebrand%2Fphotos%2Fa.1598508227079133%2F2261336617462954%2F%3Ftype%3D3&width=500" width="500" height="299" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmaddythebrand%2Fphotos%2Fa.1598508227079133%2F2261336620796287%2F%3Ftype%3D3&width=500" width="500" height="299" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+<figure>
+    <img src="/images/m1.jpg"  />
+     <figcaption>
+        <p>Maddy's Operations Manager</p>
+    </figcaption>
+</figure>
+
+<figure> 
+    <img src="/images/m2.jpg"  />
+    <figcaption>
+        <p>Maddy's Founder</p>
+    </figcaption>   
+</figure>
+
+<figure> 
+    <img src="/images/m9.jpg"  />
+    <figcaption>
+        <p>Maddy's Crew</p>
+    </figcaption>   
+</figure>
 
 ## Plans
 While maddy.pk is currently incubated at Innovation District 92, we are focusing on streamlining the business process with seamless customer experience through all the functional touch points. By the end of current fiscal year, we are looking at a blazing brand name competing its market.
