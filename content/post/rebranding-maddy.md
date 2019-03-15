@@ -22,7 +22,7 @@ I believe in the purpose maddy.pk is going to fulfil and the growth potential. P
 <figure>
     <img src="/images/m1.jpg"  />
      <figcaption>
-        <p>Maddy's Operations Manager</p>
+        <p>Maddy's Manager</p>
     </figcaption>
 </figure>
 
