@@ -1,6 +1,6 @@
 ---
 author: "Wasim Ullah"
-date: 2019-06-16T03:10:00
+date: 2019-05-16T03:10:00
 linktitle: Who Owns What?
 tags: [
     "opinion",
