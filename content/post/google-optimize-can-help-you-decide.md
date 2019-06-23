@@ -37,5 +37,7 @@ Over some time, with the advent of new visual tools and techniques, tech gadgets
 The biggest mistakes I face in advertisers, copywriters, and graphic designers make their vision of creating something of their interest. At the same time, in their opinion, they are equal humans as their target customers, which is a self-centered immature approach.
 
 ## Conclusions
-Start with minimally viable products, test and try what works the best for your time, area, culture, and trends to verify and launch the right product.
-Learn from the data gathered from the real target audience rather than your self-praised assumptions.  
+<ul>
+  <li>Start with minimally viable products, test and try what works the best for your time, area, culture, and trends to verify and launch the right product.</li>
+  <li>Learn from the data gathered from the real target audience rather than your self-praised assumptions.</li>
+</ul>  
