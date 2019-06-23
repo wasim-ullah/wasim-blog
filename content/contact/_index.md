@@ -6,4 +6,4 @@ draft: false
 
 ![Contact](/images/1.gif)
 
-Please <a href="mailto:wasim.ullah@aol.com" target="_blank">email</a> me for business enquiries. And if you need pro bono advice, reach out through my LinkedIn <a href="https://www.linkedin.com/in/mrwullah" target="_blank">profile</a>.
+Please <a href="mailto:wasim.ullah@aol.com" target="_blank">email</a> me for business enquiries. And if you need pro bono advice, reach out through my LinkedIn <a href="https://www.linkedin.com/in/wasim-ullah/" target="_blank">profile</a>.
