@@ -1,6 +1,6 @@
 ---
 author: "Wasim Ullah"
-date: 2019-06-24T18:30:00
+date: 2019-06-24T10:30:00
 linktitle: Google Optimize Can Help You Decide
 tags: [
     "opinion",
