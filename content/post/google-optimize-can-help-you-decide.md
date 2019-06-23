@@ -1,13 +1,13 @@
 ---
 author: "Wasim Ullah"
-date: 2019-06-24T10:30:00
+date: 2019-05-24T10:30:00
 linktitle: Google Optimize Can Help You Decide
 tags: [
     "opinion",
 ]
 title: Google Optimize Can Help You Decide
 description: Stuck in decision making?
-weight: 10
+weight: 8
 ---
 
 ![Google Optimize Can Help You Decide](/images/ab.jpg)
