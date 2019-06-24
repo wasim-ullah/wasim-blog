@@ -215,6 +215,7 @@ nav.main-nav a.cta {
       padding: 8px 8px;
       color: #FF0000;
       font-size: 11px;
+      font-family: 'Jost';
       line-height: 1.35;
       border-radius: 3px;
   }
@@ -350,7 +351,7 @@ em, i {
 }
 
 .home h2 {
-    font: italic 19px/1.3em Georgia, serif;
+    font: italic 19px/1.3em 'Jost';
     color: #bbb;
 }
 
@@ -393,7 +394,7 @@ em, i {
 }
 
 #post-list h2 {
-    font: normal 13px/1.5em 'Jost';
+    font: normal 13px/1.5em 'Spectral', serif;
     color: #aaa;
     margin-top: 2px;
 }
