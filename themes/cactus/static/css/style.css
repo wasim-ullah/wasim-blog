@@ -360,7 +360,7 @@ em, i {
     margin-top: 0px;
     margin-bottom: 20px;
     color: #222;
-    font: 300 20px/1.4em "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font: 300 20px/1.4em 'Jost';
 }
 
 .post h2 {
@@ -371,7 +371,7 @@ em, i {
 }
 
 .post h2.headline {
-    font: normal 10px/1.5em "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font: normal 10px/1.5em 'Jost';
     margin: -5px 0 0 0;
     color: #b2b9be;
     font-size: 10px;
@@ -380,7 +380,7 @@ em, i {
 }
 
 .post h2.headline .tags {
-    font: normal 10px/1.5em "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font: normal 10px/1.5em 'Jost';
     margin: -5px 0 40px 0;
     color: #b2b9be;
     font-size: 10px;
@@ -391,7 +391,7 @@ em, i {
 }
 
 #post-list h2 {
-    font: normal 13px/1.5em "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font: normal 13px/1.5em 'Jost';
     color: #aaa;
     margin-top: 2px;
 }
@@ -525,14 +525,14 @@ Post List
 #post-list a {
     color: #333;
     display: block;
-    font: bold 15px/1.7 "Helvetica Neue", helvetica, Arial, sans-serif;
+    font: bold 15px/1.7 'Jost';
 }
 
 #post-list .dates {
     float: right;
     position: relative;
     top: 1px;
-    font: 300 12px/1.8 "Helvetica Neue", helvetica, Arial, sans-serif;
+    font: 300 12px/1.8 'Jost';
     color: #bbb;
 }
 
@@ -684,7 +684,7 @@ h1.archive {
 
 h2.month {
     width: 100%;
-    font: bold 13px/1 "Helvetica Neue", helvetica, Arial, sans-serif;
+    font: bold 13px/1 'Jost';
     text-transform: uppercase;
     margin-top: 40px;
     margin-bottom: 10px;
@@ -698,7 +698,7 @@ h2.month {
 
 #archive-list a {
     display: block;
-    font: bold 17px/1.7 "Helvetica Neue", helvetica, Arial, sans-serif;
+    font: bold 17px/1.7 'Jost';
     color: #333;
 }
 
@@ -706,7 +706,7 @@ h2.month {
     float: right;
     position: relative;
     top: 1px;
-    font: 300 17px/1.7 "Helvetica Neue", helvetica, Arial, sans-serif;
+    font: 300 17px/1.7 'Jost';
     color: #bbb;
 }
 
@@ -731,12 +731,12 @@ h2.month {
     margin-bottom: 0px;
 }
 #post-list.archive.readmore h3 {
-    font: 400 15px "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font: 400 15px 'Spectral', serif;
     margin-bottom: 30px;
 }
 
 #post-list.archive.readmore a {
-    font: 400 13px/1.6 "Helvetica Neue", helvetica, Arial, sans-serif;
+    font: 400 13px/1.6 'Spectral', serif;
     color: #FF0000;
 }
 
@@ -745,7 +745,7 @@ h2.month {
 }
 
 #post-list.archive.readmore .dates {
-    font: 300 10px/1.6 "Helvetica Neue", helvetica, Arial, sans-serif;
+    font: 300 10px/1.6 'Jost';
 }
 
 #disqus_thread, #ds-thread {
@@ -899,7 +899,7 @@ a.symbol:hover {
   box-shadow: inset 0 0 0 1px #eee;
   border-radius: 4px;
   overflow: hidden;
-  font-family: 'Menlo', 'Monaco', Courier, monospace;
+  font-family: 'Spectral', serif;
 }
 #TableOfContents {
   margin: 1em 0 0 0;
@@ -924,7 +924,7 @@ a.symbol:hover {
   padding: 0;
 }
 #TableOfContents a code{
-  font-family: Menlo, Monaco, Courier;
+  font-family: 'Spectral', serif;
   background-color: #fff;
   font-size: 11px;
   padding: 2px 3px;
