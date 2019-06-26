@@ -5,22 +5,6 @@ draft: false
 ---
 
 
-Get to know the face behind.
-
-<figure> 
-    <img src="/images/p10.jpg"  />
-    <figcaption>
-        <p>Seaside at Dubdai Design Destrict</p>
-    </figcaption>   
-</figure>
-
-<figure>
-    <img src="/images/p11.jpg"  />
-     <figcaption>
-        <p>Society's Vice President at University of the Punjab</p>
-    </figcaption>
-</figure>
-
 <figure>
     <img src="/images/p1.jpg"  />
      <figcaption>
