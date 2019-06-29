@@ -41,5 +41,3 @@ The biggest mistakes I face in advertisers, copywriters, and graphic designers m
   <li>Start with minimally viable products, test and try what works the best for your time, area, culture, and trends to verify and launch the right product.</li>
   <li>Learn from the data gathered from the real target audience rather than your self-praised assumptions.</li>
 </ul>  
-
-<center> <a href="#">1</a> <a href="#">2</a> <a href="#">3</a> </center>
