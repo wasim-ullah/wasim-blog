@@ -5,10 +5,10 @@ googleAnalytics = "UA-129034560-1"
 
 [params]
 	name = "Wasim Ullah"
-	description = "Digital Marketing."
+	description = "Growth Hacker."
 
 	author = "Wasim Ullah"
-	bio = "Marketer. 80% Technical. 20% Creative."
+	bio = "Growth Hacker"
 
 	twitter = "wsim_ulah"
 	facebook = "100003635474711"
@@ -69,7 +69,7 @@ googleAnalytics = "UA-129034560-1"
 	subtitle404 = "Come again? Or else."
 	
 	# Sharing options and author information in posts
-	aboutAuthor = "Marketer. 80% Technical. 20% Creative."
+	aboutAuthor = "Growth Hacker"
 
 iconFont = "font-awesome"
 socialIconStyle = ""
