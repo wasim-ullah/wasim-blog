@@ -12,6 +12,7 @@ If you are interested in hearing my future posts, this is where we begin. Fill u
 	#mc_embed_signup{background:#fff; clear:left; font:11px Helvetica,Arial,sans-serif; }
 	#mc-embedded-subscribe {background:#6afdef !important; }
 	#mc-embedded-subscribe {font-size:11px; !important; }
+	#mc_embed_signup .button {font-size:11px; color:#000000; !important; }
 	#mc_embed_signup #mc-embedded-subscribe-form div.mce_inline_error {font-size:11.5px !important; }
 </style>
 
