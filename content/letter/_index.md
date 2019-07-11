@@ -9,9 +9,9 @@ If you are interested in hearing my future posts, this is where we begin. Fill u
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-	#mc_embed_signup{background:#000000; clear:left; font:11px Helvetica,Arial,sans-serif; }
+	#mc_embed_signup{background:#ffffff; clear:left; font:11px Helvetica,Arial,sans-serif; }
 	#mc-embedded-subscribe {background:#6afdef !important; }
-	#mc-embedded-subscribe {font-size:11px !important; }
+	#mc-embedded-subscribe {font-size:11px; color:#000000; !important; }
 	#mc_embed_signup #mc-embedded-subscribe-form div.mce_inline_error {font-size:11.5px !important; }
 </style>
 
