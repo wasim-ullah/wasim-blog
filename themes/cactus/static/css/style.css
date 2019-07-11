@@ -273,7 +273,7 @@ h9:hover .hanchor {
 a, #title, #post-list a:hover, #title:hover {
     text-decoration: none;
     color: #949494;
-    color: 	#949494;
+    color: 	#000000;
 }
 
 p a {
@@ -903,7 +903,7 @@ a.symbol:hover {
   margin: 0 0 25px 0;
   display: block;
   color: #949494;
-  background: #fff;
+  background: #6afdef;
   border: none;
   box-shadow: inset 0 0 0 1px #eee;
   border-radius: 4px;
