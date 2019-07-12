@@ -3,9 +3,6 @@ languageCode = "en-us"
 title = "Wasim Ullah"
 googleAnalytics = "UA-129034560-1"
 
-[permalinks]
-    post = "/blog/:slug"
-
 [params]
 	name = "Wasim Ullah"
 	description = "Growth Hacker."
