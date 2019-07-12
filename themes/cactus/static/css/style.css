@@ -878,14 +878,14 @@ h2.month {
 }
 
 a.symbol {
-    color: #D3D3D3;
+    color: #333333;
     font-size: 2rem;
     text-decoration: none;
     margin-right: 0.3rem;
 }
 
 a.symbol:hover {
-    color: 	#ffc3c3;
+    color: 	#d4fffb;
 }
 
 
