@@ -36,7 +36,7 @@ min_version = "0.55.6"
 
 	enableTwitterCard = true
 	# The url for twitter card image, default is avatar.png in static/images directory
-	twitterCardImage = "https://wasim.co/images/twittercard.jpg"
+	twitterCardImage = "/images/twittercard.jpg"
 
 	# Add custom assets with their paths relative to the static folder
 	customCSS = []
