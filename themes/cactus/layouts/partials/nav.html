@@ -3,11 +3,11 @@
 	{{ if not .IsHome }}
 		<a href='{{ .Site.BaseURL }}'> <span class="arrow">←</span>{{ with .Site.Params.home }}{{ . }}{{ else }}Home{{ end }}</a>
 	{{ end }}
-	<a href='{{ .Site.BaseURL }}work'>{{ with .Site.Params.about }}{{ . }}{{ else }}WORK{{ end }}</a>
-	<a href='{{ .Site.BaseURL }}employers'>{{ with .Site.Params.about }}{{ . }}{{ else }}HIRE{{ end }}</a>
+	<a href='{{ .Site.BaseURL }}work'>{{ with .Site.Params.about }}{{ . }}{{ else }PORTFOLIO{{ end }}</a>
+	<a href='{{ .Site.BaseURL }}employers'>{{ with .Site.Params.about }}{{ . }}{{ else }}EMPLOYERS{{ end }}</a>
 	{{ range $key, $val := .Site.Params.Links }}
 		<a href="{{ $val }}">{{ $key }}</a>
 	{{ end }}
 
-	<a class="cta" href='{{ .Site.BaseURL }}blog'>{{ with .Site.Params.about }}{{ . }}{{ else }}BRAIN{{ end }}</a>
+	<a class="cta" href='{{ .Site.BaseURL }}blog'>{{ with .Site.Params.about }}{{ . }}{{ else }}ARTICLES{{ end }}</a>
 </nav>
