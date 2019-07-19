@@ -10,18 +10,18 @@ I'd single-handedly work on a brand's identity creation, build their digital pre
 
 I have worked with dozens of startups, small and medium-sized enterprises.
 
-My most recent achievements updated on July 01, 2019:
-- Reduced overall search and social ads spend from 5k to 4k, yet improved conversions from 20% to 21%,
+#My most recent achievements updated on July 01, 2019:
+- Reduced overall search and social ads spend from 5k to 4k, yet improved conversions from 20% to 21%,<br>
 - Indexed an insurance firm in the top 10 search results for their three primary keywords within 1.5 months of my joining.
 
-Earlier in career:
-- Rebranded logos, websites and several other branding ingredients of eight national and multinational companies based out of Dubai in a period of three months,
-- First lecture at in5 about the challenges and scope of full-stack marketing,
-- Created viral content and received more than 25 thousand organic likes and 1 million views for a Facebook page in two weeks,
-- Earned a qualified lead of PKR 10 lacs through a total ad spend of PKR 50 thousand,
+#Earlier in career:
+- Rebranded logos, websites and several other branding ingredients of eight national and multinational companies based out of Dubai in a period of three months,<br>
+- First lecture at in5 about the challenges and scope of full-stack marketing,<br>
+- Created viral content and received more than 25 thousand organic likes and 1 million views for a Facebook page in two weeks,<br>
+- Earned a qualified lead of PKR 10 lacs through a total ad spend of PKR 50 thousand,<br>
 - Started as a social media strategist, promoted to lead the entire digital media workload.
 
-During schooling:
-- Received a primary distinction in the calligraphy competition held across colleges,
-- Merit scholarship in eighth grade,
+#During schooling:
+- Received a primary distinction in the calligraphy competition held across colleges,<br>
+- Merit scholarship in eighth grade,<br>
 - Honorary mention in the dean's list for maintaining top positions for consecutive years in annual examinations.
