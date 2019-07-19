@@ -4,6 +4,8 @@ date: 2018-11-08T19:41:41+04:00
 draft: false
 ---
 
+<img src="/images/portfoliopicture.jpg"  />
+
 I am into marketing 80% technical and 20% creative, which makes me a 100% growth hacker – the best wave of digital marketers thus far. My second side is full-stack marketing – a full-scale digital marketing work. With extensive experience in building a strong brand presence across all the digital media platforms with a sales funnel, I craft and implement successful digital marketing strategies. That will earn any startup, small and medium-sized businesses best on their ROI. My achievements will speak louder than words.
 
 I'd single-handedly work on a brand's identity creation, build their digital presence across website, newsletter, social and search media, design a conversion funnel specific to the business needs, run paid marketing campaigns, and enhance their customer experience through ongoing optimization.
