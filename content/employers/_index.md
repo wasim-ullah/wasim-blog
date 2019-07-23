@@ -17,15 +17,15 @@ Most recently I single handedly rebranded logos, websites, stationary and severa
 <h3>Skills</h3>
 
 <ol>
-  <li>Graphic Design</li>  
-  <li>Building WordPress Websites</li>
-  <li>Social Media Marketing</li>
-  <li>Search Engine Optimization</li>
-  <li>Content Writing</li>
-  <li>Video Editing</li>
-  <li>Paid Advertising</li>  
-  <li>Email Marketing</li>
-  <li>Analytical Insights</li>
+  <li><a href="https://en.wikipedia.org/wiki/Graphic_design" target="_blank">Design</a></li>  
+  <li><a href="https://en.wikipedia.org/wiki/Web_development" target="_blank">Website</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Social_media_marketing" target="_blank">Social</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Search_engine_optimization" target="_blank">Search</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Writing" target="_blank">Writing</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Video_editing" target="_blank">Video</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Online_advertising" target="_blank">Adverts</a></li>  
+  <li><a href="https://en.wikipedia.org/wiki/Email_marketing" target="_blank">Email</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Analytics" target="_blank">Data</a></li>
 </ol>  
 
 <br>
