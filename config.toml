@@ -7,7 +7,7 @@ theme = "cactus"
 
 [params]
 	name = "Wasim Ullah"
-	description = "He is a growth hacker by instinct who excels at full-stack marketing. Which means he knows design, code, video, search, social, email, write, website, analytics, and uses them to hack growth."
+	description = "Growth Hacker."
 
 	author = "Wasim Ullah"
 	bio = "Marketer / Hustler"
@@ -37,7 +37,7 @@ theme = "cactus"
 
 	enableTwitterCard = true
 	# The url for twitter card image, default is avatar.png in static/images directory
-	twitterCardImage = "/images/avatar@2x.png"
+	# twitterCardImage = "/images/twittercard.jpg"
 	
 	# Add custom assets with their paths relative to the static folder
 	customCSS = []
