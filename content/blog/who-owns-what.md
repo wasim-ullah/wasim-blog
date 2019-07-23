@@ -8,6 +8,7 @@ tags: [
 title: Who Owns What?
 description: A view point about the ownership of our belongings.
 weight: 9
+twitterCardImage: "images/belongings.jpg"
 ---
 
 ![Worldly Belongings](/images/belongings.jpg)
