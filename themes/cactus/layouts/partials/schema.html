@@ -3,7 +3,8 @@
 {
   "@context": "http://schema.org",
   "@type": "WebSite",
-  "url": "{{ .Site.BaseURL }}",
+  "@id": "{{ .Site.BaseURL }}",
+  "url": "{{ .Permalink }}",
   {{ if .Site.Author.name -}}
   "author": {
     "@type": "Person",
@@ -31,11 +32,12 @@
     "target": "http://example.com/search?&q={query}",
     "query-input": "required"
   } */}}
-{{- else if .IsPage -}}
+{{- else -}}
 <script type="application/ld+json">
 {
   "@context": "http://schema.org",
   "@type": "BlogPosting",
+  "@id": "{{ .Site.BaseURL }}",
   "headline": "{{ .Title }}",
   "mainEntityOfPage": {
     "@type": "WebPage",
