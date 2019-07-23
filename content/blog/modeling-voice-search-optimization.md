@@ -8,6 +8,7 @@ tags: [
 title: Modeling Voice Search Optimization
 description: This is obviously going to be a search pattern.
 weight: 9
+twitterCardImage: "images/vs.jpg"
 ---
 
 ![Google Search](/images/vs.jpg)
