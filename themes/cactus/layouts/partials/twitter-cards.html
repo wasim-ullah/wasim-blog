@@ -41,6 +41,7 @@
   {{ if .Site.Params.twitterCardImage }}
 <meta name="twitter:image" content="{{ .Site.Params.twitterCardImage | absURL }}" />
 {{ else }}
-<meta name="twitter:image" content="{{ .Site.BaseURL }}images/avatar.png" />
+<meta name="twitter:image" content="{{ .Site.BaseURL }}images/avatar@2x.png" />
+<meta name="twitter:image:alt" content="{{ .Site.Params.author }}" />
   {{ end }}
 {{ end }}
