@@ -8,6 +8,7 @@ tags: [
 title: Organic 27k to 52k In Two Weeks
 description: An insights analysis of a video that went viral on Facebook.
 weight: 10
+twitterCardImage: "images/viral.jpg"
 ---
 
 ![Viral Video](/images/viral.jpg)
