@@ -8,6 +8,7 @@ tags: [
 title: A Minimal Website Design
 description: They attracted the attention.
 weight: 9
+twitterCardImage: "images/minimal-01.jpg"
 ---
 
 ![Minimal](/images/minimal-01.jpg)
