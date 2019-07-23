@@ -5,10 +5,11 @@
 <meta name="twitter:image:src" content="{{ index . 0 | absURL }}"/>
 {{ else }}
 <meta name="twitter:card" content="summary"/>
-{{ if .Site.Params.twitterCardImage }}
-  <meta name="twitter:image" content="{{ .Site.Params.twitterCardImage | absURL }}" />
-  {{ else }}
-  <meta name="twitter:image" content="{{ .Site.BaseURL }}images/avatar.png" />
+{{ if $.Param "twitterCardImage" }}
+<meta property="twitter:image" content="{{ .Site.BaseURL }}{{ $.Param "twitterCardImage" }}">
+{{ else }}
+<meta property="twitter:image" content="{{ .Site.BaseURL }}images/twittercard.jpg">
+<meta name="twitter:image:alt" content="{{ .Site.Params.author }}" />
 {{ end }}
   {{ end }}
   <!-- Twitter Card data -->
@@ -38,10 +39,12 @@
   {{ end }}
   <meta name="twitter:title" content="{{ .Site.Title }}"/>
   <meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}"/>
-  {{ if .Site.Params.twitterCardImage }}
-<meta name="twitter:image" content="{{ .Site.Params.twitterCardImage | absURL }}" />
-{{ else }}
-<meta name="twitter:image" content="{{ .Site.BaseURL }}images/twittercard.jpg" />
-<meta name="twitter:image:alt" content="{{ .Site.Params.author }}" />
+  {{ if $.Param "twitterCardImage" }}
+  <meta property="twitter:image" content="{{ .Site.BaseURL }}{{ $.Param "twitterCardImage" }}">
+  {{ else if .IsHome}}
+  <meta property="twitter:image" content="{{ .Site.BaseURL }}images/man.jpg">
+  {{ else }}
+  <meta property="twitter:image" content="{{ .Site.BaseURL }}images/twittercard.jpg">
+  <meta name="twitter:image:alt" content="{{ .Site.Params.author }}" />
   {{ end }}
 {{ end }}
