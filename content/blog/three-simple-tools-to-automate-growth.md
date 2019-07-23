@@ -8,6 +8,7 @@ tags: [
 title: Three Simple Tools To Automate Growth
 description: How can you automate your online growth in three simple ways.
 weight: 10
+twitterCardImage: "images/growthtools.jpg"
 ---
 
 ![Growth Tools](/images/growthtools.jpg)
