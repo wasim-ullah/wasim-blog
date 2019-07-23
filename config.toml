@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Wasim Ullah"
 googleAnalytics = "UA-129034560-1"
 min_version = "0.55.6"
+theme = "cactus"
 
 [params]
 	name = "Wasim Ullah"
@@ -36,7 +37,7 @@ min_version = "0.55.6"
 
 	enableTwitterCard = true
 	# The url for twitter card image, default is avatar.png in static/images directory
-	twitterCardImage = "/images/twittercard.jpg"
+	twitterCardImage = "/images/avatar@2x.png"
 	
 	# Add custom assets with their paths relative to the static folder
 	customCSS = []
@@ -120,3 +121,8 @@ linkedin-square = "https://www.linkedin.com/in/wasim-ullah"
   [privacy.youtube]
     disable = false
     privacyEnhanced = false
+
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
