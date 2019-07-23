@@ -40,7 +40,7 @@
   <meta name="twitter:title" content="{{ .Site.Title }}"/>
   <meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}"/>
   {{ if $.Param "twitterCardImage" }}
-  <meta property="twitter:image" content="{{ .Site.BaseURL }}{{ $.Param "twitterCardImage" }}">
+  <meta name="twitter:image" content="{{ .Site.BaseURL }}{{ $.Param "twitterCardImage" }}"> 
   {{ else if .IsHome}}
   <meta name="twitter:image" content="{{ .Site.BaseURL }}images/man.jpg">
   {{ else }}
