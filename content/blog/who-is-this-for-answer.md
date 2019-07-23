@@ -9,6 +9,7 @@ title: Who Is This For? Answer.
 description: For your next business and marketing campaign.
 weight: 9
 thumbnail: "/images/per.jpg"
+twitterCardImage: "images/per.jpg"
 ---
 
 ![Buyer Persona](/images/per.jpg)
