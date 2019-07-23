@@ -8,6 +8,7 @@ tags: [
 title: Getting The Jump On New Technology
 description: How new data impact your marketing progress?
 weight: 9
+twitterCardImage: "images/stats.jpg"
 ---
 
 ![Statistics](/images/stats.jpg)
