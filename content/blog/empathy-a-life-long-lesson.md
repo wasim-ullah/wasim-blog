@@ -8,7 +8,7 @@ tags: [
 title: Incivility - A Lifelong Lesson
 description: Inspired by a LinkedIn post from Umer Ghumman.
 weight: 9
-twitterCardImage: [images/empathy.jpg]
+twitterCardImage: [/images/empathy.jpg]
 ---
 
 ![Empathy](/images/empathy.jpg)
