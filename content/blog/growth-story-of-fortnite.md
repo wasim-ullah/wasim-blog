@@ -8,7 +8,7 @@ tags: [
 title: Growth Story Of Fortnite
 description: The science behind Fortnite growth in one year.
 weight: 10
-twitterCardImage: "images/fortnite.jpg"
+twitterCardImage: [/images/fortnite.jpg]
 ---
 
 ![Fortnite Growth](/images/fortnite.jpg)
