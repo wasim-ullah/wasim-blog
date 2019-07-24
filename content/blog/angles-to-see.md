@@ -8,7 +8,7 @@ tags: [
 title: Angles To See
 description: There are a countless number of ways.
 weight: 9
-twitterCardImage: "images/funnel.jpg"
+twitterCardImage: [/images/funnel.jpg]
 ---
 
 ![Angles To See](/images/world.jpg)
