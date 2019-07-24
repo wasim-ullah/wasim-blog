@@ -8,7 +8,8 @@ tags: [
 title: 16 KPIs Of Any Sales Funnel
 description: How will you measure a sales funnel progress?
 weight: 10
-twitterCardImage: "images/funnel.jpg"
+twitterCardImage: [images/funnel.jpg]
+images: ["/images/tc.png"]
 ---
 
 ![Sales Funnel Key Performance Indicators](/images/funnel.jpg)
