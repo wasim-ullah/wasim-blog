@@ -8,7 +8,7 @@ tags: [
 title: How Is Everyone Changing World?
 description: It's probably the least observed factor.
 weight: 9
-twitterCardImage: "images/boy.jpg"
+twitterCardImage: [/images/boy.jpg]
 ---
 
 ![A Boy](/images/boy.jpg)
