@@ -14,3 +14,6 @@ I am happy to answer further questions at wasim.ullah@aol.com
 
 <h3> Resume </h3>
 {{< box-preview id="6xp0l5yesvnvf7qb26icerchsv0spx1m" height="400" >}}
+
+<h3> Certificates </h3>
+{{< box-preview id="w9yn2no1jifsjoy6islrj39p01tdqer7" height="400" >}}
