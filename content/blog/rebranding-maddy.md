@@ -8,7 +8,7 @@ tags: [
 title: Rebranding Maddy.pk
 description: A three months journey from brand revamp till incubation.
 weight: 9
-twitterCardImage: "images/maddy.jpg"
+twitterCardImage: [/images/maddy.jpg]
 ---
 
 ![Rebranding Maddy](/images/maddy.jpg)
