@@ -25,9 +25,7 @@
         {{ if $.Param "twitterCardImage" }}
         <meta property="og:image" content="{{ .Site.BaseURL }}{{ $.Param "twitterCardImage" }}">
         {{ else if .IsHome}}
-        <meta property="og:image" content="{{ .Site.BaseURL }}images/man.jpg">
-        {{ else }}
-        <meta property="og:image" content="{{ .Site.BaseURL }}images/twittercard.jpg">
+        <meta property="og:image" content="{{ .Site.BaseURL }}images/tc.png">
         {{ end }}
         {{ range .Params.tags }}
         <meta property="og:tags" content="{{ . }}">
