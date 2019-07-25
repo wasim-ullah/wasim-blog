@@ -13,6 +13,8 @@ twitterCardImage: [/images/nir.jpg]
 
 ![Empathy](/images/nir.jpg)
 
+This idea has originally been presented by <a href="https://www.nirandfar.com/" target="_blank">Nir Eyal</a>.
+
 From Facebook, Snapchat, and Reddit on one end to Fornite, Dota 2, and Pubg on the other, end users feel trapped into an unstoppable urge for technology gadgets.
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6557964195189571585" height="600" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
