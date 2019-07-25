@@ -1,7 +1,7 @@
 ---
 author: "Wasim Ullah"
 date: 2019-07-24T18:30:00
-linktitle: Applied On Earth: If () Then () Else () End If
+linktitle: Applied On Earth - If () Then () Else () End If
 tags: [
     "opinion",
 ]
