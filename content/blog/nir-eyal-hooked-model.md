@@ -8,6 +8,7 @@ tags: [
 title: Nir Eyal - Hooked Model
 description: This is about Nir's hooked model.
 weight: 7
+images: [/images/nir.jpg]
 twitterCardImage: [/images/nir.jpg]
 ---
 
