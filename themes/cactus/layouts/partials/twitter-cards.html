@@ -6,7 +6,7 @@
 {{ else }}
 <meta name="twitter:card" content="summary"/>
 {{ if $.Param "twitterCardImage" }}
-<meta name="twitter:image" content="{{ .Site.BaseURL }}{{ $.Param "twitterCardImage" }}">
+<meta name="twitter:image" content="{{ .Site.BaseURL }}{{ .Site.Params.twitterCardImage | absURL }}">
 {{ else }}
 <meta name="twitter:image" content="{{ .Site.BaseURL }}images/tc.png">
 <meta name="twitter:image:alt" content="{{ .Site.Params.author }}" />
