@@ -5,7 +5,7 @@ linktitle: Nir Eyal - Hooked Model
 tags: [
     "opinion",
 ]
-title: Incivility - A Lifelong Lesson
+title: Nir Eyal - Hooked Model
 description: This is about Nir's hooked model.
 weight: 9
 twitterCardImage: [/images/nir.jpg]
