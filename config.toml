@@ -7,10 +7,10 @@ theme = "cactus"
 
 [params]
 	name = "Wasim Ullah"
-	description = "Growth Hacker."
+	description = "A growth hacker who excels at full-stack marketing"
 
 	author = "Wasim Ullah"
-	bio = "Marketer / Hustler"
+	bio = "Marketer / Wanderer"
 
 	twitter = "unwasim"
 	facebook = "diswasim"
@@ -71,7 +71,7 @@ theme = "cactus"
 	subtitle404 = "Come again? Or else."
 	
 	# Sharing options and author information in posts
-	aboutAuthor = "Growth Hacker"
+	aboutAuthor = "Marketer / Wanderer"
 
 iconFont = "font-awesome"
 socialIconStyle = ""
