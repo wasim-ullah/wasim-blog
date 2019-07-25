@@ -22,8 +22,10 @@ These products are masters of habit. These behaviors that we do with little or n
 A hook is an experience designed to connect the users' problems to the company's product with enough frequency to form a habit. These hooks start with a trigger.
 The most important is creating an association with an internal trigger.
 
-## Internal Triggers
-Internal triggers are things that tell us what to do next, but where the information of what to do is stored as a memory inside a user's head. So what we do when we are at a particular place, a certain situation, partaking in a particular routine or experience some emotions dictates what we do next. Now, the most frequent internal triggers are not just any emotions, they are infact negative emotions.<br>
+## Triggers
+Internal triggers are things that tell us what to do next, but where the information of what to do is stored as a memory inside a user's head. So what we do when we are at a particular place, a certain situation, partaking in a particular routine or experience some emotions dictates what we do next. Now, the most frequent internal triggers are not just any emotions, they are infact negative emotions.
+
+## Response
 So what we do when we are feeling lonesome or bored or lost or dissatisfied or lonely, we do and we experience, these negative emotions prompt us to action dictates what we do next with little or no conscious thought. Infact a recent study shows that the people who suffer from depresison check their emails more often.
 
 ## Action
@@ -32,5 +34,5 @@ Next comes the action phase defined as a simplest behavior in acticipation of a 
 ## Formula
 Turns out that there is a formula to predict the likelihood of these behaviors. That says for any behavior 'b', we require three things sufficient motivation 'm', sufficient ability 'a', and a trigger 't' must be present (m=m+a+t).
 
-## Video
+## TED Talk
 <div style="max-width:100%"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/nir_eyal_what_makes_technology_so_habit_forming" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
