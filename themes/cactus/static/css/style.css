@@ -970,7 +970,6 @@ a.symbol:hover {
 }
 
 /** Guide style **/
-
 /* Book csss */
 .home-container {
     display: block;
@@ -1103,7 +1102,7 @@ a.symbol:hover {
 .guide_container {
     display: block;
     width: 100%;
-    max-width: 645px;
+    max-width: 500px;
     margin-right: auto;
     margin-left: auto;
     perspective: 1000px;
@@ -1114,10 +1113,10 @@ a.symbol:hover {
     letter-spacing: -1.3px;
 }
 .page-heading {
-    margin-bottom: 48px;
+    /* margin-bottom: 48px; */
     margin-left: -2px;
     clear: both;
-    color: #5585b9;
+    /* color: #5585b9; */
     font-size: 78px;
     line-height: 77px;
     font-weight: 600;
@@ -1126,9 +1125,9 @@ a.symbol:hover {
     text-decoration: none;
 }
 .page-heading, .page-heading.blog {
-    margin-top: 54px;
+    /* margin-top: 54px; */
     float: none;
-    text-shadow: -1px -1px 6px rgba(173,222,255,.25), 1px 0 0 #0069cc;
+    text-shadow: -1px -1px 6px rgba(173,222,255,.25), 1px 0 0 #717171;
     font-family: Avenir,Tahoma,sans-serif;
 }
 
@@ -1137,27 +1136,29 @@ a.symbol:hover {
     margin-top: 24px;
     padding-bottom: 11px;
     float: left;
-    font-family: Avenir,Tahoma,sans-serif;
-    color: #3d608d;
-    font-size: 35px;
+    /* font-family: Avenir,Tahoma,sans-serif; */
+    /* color: #3d608d; */
+    /* font-size: 35px;
     line-height: 45px;
-    letter-spacing: -.8px;
+    letter-spacing: -.8px; */
     width: 100%;
 }
 
 .guide_container h3, .guide_container h4 {
     margin-bottom: 18px;
-    font-size: 21.5px;
+    /* font-size: 21.5px;
     font-weight: 400;
-    letter-spacing: -.25px;
+    letter-spacing: -.25px; */
 }
 .guide_container p {
-    margin-bottom: 16px;
+    /* margin-bottom: 16px;
     font-family: Avenir,Tahoma,sans-serif;
     line-height: 25px;
     font-weight: 200;
     font-size: 17px;
-    letter-spacing: .25px;
+    letter-spacing: .25px; */
+    line-height: 1.7;
+    margin-bottom: 10px;
     clear: both;
 }
 
@@ -1187,8 +1188,8 @@ a.symbol:hover {
     box-shadow: 0 -2px 33px -11px rgba(132,206,255,.55);
 }
 .toc-menu-link.w--current {
-    background-color: #ecf8ff;
-    color: #005b86;
+    background-color: #75fdf159;
+    color: #333;
     font-size: 13.5px;
     font-weight: 400;
     letter-spacing: .3px;
@@ -1201,7 +1202,7 @@ a.symbol:hover {
     transition-property: all;
     -webkit-transition-duration: 35ms;
     transition-duration: 35ms;
-    color: #0a0a0a;
+    color: #333;
     font-size: 13.5px;
     font-weight: 200;
     letter-spacing: .35px;
@@ -1218,7 +1219,7 @@ a.symbol:hover {
 .toc-promotion {
     padding-top: 5px;
     padding-bottom: 3px;
-    background-color: #d5edff;
+    background-color: #75fdf1;
     color: #182f4d;
     font-size: 14px;
     letter-spacing: .15px;
