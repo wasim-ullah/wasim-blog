@@ -1004,7 +1004,7 @@ a.symbol:hover {
     padding-left: 10px;
     display: inline-block;
     vertical-align: top;
-    height: 240px;
+    height: 200px;
     margin-bottom: 10px;
 }
 .w-col-3 {
@@ -1053,19 +1053,15 @@ a.symbol:hover {
     margin-left: auto;
     padding: 2px 6px 0;
     border-radius: 1px;
-    font-family: Circular,sans-serif;
     color: #222;
-    font-size: 20.5px;
-    font-weight: 600;
+    font: 300 15px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-align: center;
     letter-spacing: -.05px;
 }
 
 .home-guide-subheader {
-    margin-top: 7px;
+    font: 300 13px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #949494;
-    font-size: 16px;
-    text-align: center;
     letter-spacing: -.05px;
 }
 
