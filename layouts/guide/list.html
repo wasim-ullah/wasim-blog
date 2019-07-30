@@ -1,15 +1,25 @@
 
 {{ partial "head.html" . }}
 <body>
+{{ partial "nav.html" . }}
+{{ partial "profile.html" . }}
 
-    {{ partial "nav.html" . }}
-    {{ partial "profile.html" . }}
+<section class="home-container guide_container">
+    <div class="guide-intro">
+        <div class="container w-container">
+            <div data-ix="new-interaction" class="page-heading small">{{ .Title }}</div>
+            <img src="{{ .Site.BaseURL }}guide/images/js-banners-new-11.svg" alt="" class="header-image">
+        </div>
+    </div>
 
-    <section id="wrapper" class="home">
-        {{ partial "guide_menu.html" .}}
-        {{ partial "email_form.html" . }}
-        {{ partial "footer.html" . }}
-    </section>
+    <div class=" guide_container">
+        {{ .Content }}
+    </div>    
 
-    {{ partial "js.html" . }}
+    {{ partial "footer.html" . }}
+</section>
+
+{{ partial "sticky_menu.html" .}}
+
+{{ partial "js.html" . }}
 </body>
