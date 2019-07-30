@@ -1221,6 +1221,41 @@ a.symbol:hover {
     letter-spacing: .15px;
 }
 
+.expand span.h2{
+    font: italic 19px/1.3em Georgia, serif;
+    color: #bbb;
+}
+.division-toggle.h2 {
+    height: 22px;
+    margin-top: 3px;
+    margin-left: 15px;
+    padding: 0 7px 2px;
+    border-radius: 20px;
+    font-size: 14px;
+    line-height: 19px;
+    letter-spacing: .6px;
+}
+.division-toggle {
+    border: 1px solid transparent;
+    border-radius: 3px;
+    background-color: #75fdf159;
+    box-shadow: 4px 4px 5px -1px rgba(39,113,185,.03);
+    -webkit-transition: background-color 90ms ease,box-shadow 50ms ease,border 90ms ease;
+    transition: background-color 90ms ease,box-shadow 50ms ease,border 90ms ease;
+    color: #165d96;
+    font-size: 13px;
+    line-height: 29px;
+    font-weight: 600;
+    letter-spacing: .75px;
+    cursor: pointer;
+}
+
+.expand-content {
+    line-height: 2;
+    margin-bottom: 10px;
+    clear: both;
+}
+
 @media only screen and (max-width: 460px) {
     .w-col {
         width: 100%;
