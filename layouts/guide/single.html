@@ -14,12 +14,21 @@
 
     <div class=" guide_container">
         {{ .Content }}
-    </div>    
+    </div>
 
+    {{ partial "profile.html" . }}
+    <div style="  text-align: center">
+        <h2>I teach other things</h2>
+        <p>
+            To read my handbooks&nbsp;months before they're published, subscribe. I'm releasing&nbsp;how to&nbsp;<strong>play piano</strong>,&nbsp;<strong>debate well</strong>, and&nbsp;<strong>write fiction.</strong>
+        </p>
+    </div>
+    {{ partial "email_form.html" . }}
+    
     {{ partial "footer.html" . }}
 </section>
 
-{{ partial "sticky_menu.html"}}
+{{ partial "sticky_menu.html" .}}
 
 {{ partial "js.html" . }}
 </body>
