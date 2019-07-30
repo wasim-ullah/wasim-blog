@@ -1,4 +1,3 @@
-
 {{ partial "head.html" . }}
 <body>
 {{ partial "nav.html" . }}
@@ -13,6 +12,19 @@
     </div>
 
     <div class=" guide_container">
+
+        {{ with .Params.guide_menu }}
+        {{ if ge (len .) 1 }}
+            <div id="toc" class="well col-md-4 col-sm-6">
+            <ul>
+            {{ range . }}
+                <li><a href="{{ $.Site.BaseURL }}guide/growth/{{ . | urlize }}">{{  replace . "-" " "}}</a></li>
+            {{ end }}
+            </ul>
+            </div>
+            {{ end }}
+        {{ end}}
+
         {{ .Content }}
     </div>
 
