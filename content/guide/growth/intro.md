@@ -3,8 +3,17 @@ title: "Growth Marketing"
 date: 2019-07-25T19:17:44+01:00
 draft: false
 image: 'js-banners-new-11.svg'
+guide_menu: [
+    landing-pages,
+    ab-testing,
+    user-onboarding,
+    ad-channels,
+    make-ads,
+    facebook-instagram-ads,
+    b2b-sales,
+    content-marketing
+]
 ---
-
 
 ## Intro
 This handbook teaches you to get people to your site or app — and get them to buy.
@@ -19,9 +28,31 @@ Read this intro page to understand which growth strategy makes sense for your pr
 This material applies to companies of every size and vertical.
 
 I cover both introductory and advanced B2B and B2C tactics. Marketers of every skill level will encounter new material.
+ 
+{{< expand "If you're brainstorming startup ideas" >}}
+It's important you learn growth hacking before deciding which idea to work on.
 
-If you're brainstorming startup ideas 
-If you're a manager 
+It will save you years of going down the wrong path. You should start by assessing whether your idea is actually suited for profitable and scalable user acquisition. 
+
+In this handbook, you'll learn which ad channels you can expect to succeed for your business, and how to increase customer purchase rates.
+
+When you're done reading this, if you can’t foresee these strategies working for the startup idea you're considering, you should consider scrapping your idea.
+
+
+{{< /expand >}}
+
+<br>
+<br>
+{{< expand "If you're a manager" >}}
+It's critical that managers know what growth entails so they can facilitate it.
+
+Don't treat growth like a black box powered by your engineering and marketing departments. It's your most important business function.
+
+This handbook helps you prioritize growth marketing projects based on their likely profitability and ease of implementation. Plus, it sheds light on a growth marketer's skill set so you can effectively assess hiring candidates.
+
+(Many companies unknowingly hire “growth experts” who are brand marketers experienced only in creating brand voice and generating buzz. Unfortunately, brand marketers often lack knowledge of user acquisition and conversion optimization. This handbook will help you avoid unintentionally hiring them.)
+
+{{< /expand >}}
 
 ## Growth hacking definition
 Growth hacking is simply data-driven revenue maximization.
@@ -101,13 +132,13 @@ If they do get one or more of these channels to work, it's a holy grail if paire
 
 Why is paid difficult to make work? Here's the criteria that determine success:
 
-### Profit margins — 
+Profit margins — 
 How much profit you earn per sale is critical. Consider how it's hard to acquire an ecommerce customer for less than $30 USD on Facebook or Instagram, which are typically the cheapest ad channels. If you don't earn at least that amount in the lifetime of a customer, these channels won't be viable. Note that SaaS companies have it worse: It's usually at least a couple hundred dollars to acquire a customer.
 Addressable market size — Your market size matters. This is determined not only by how many people want your product, but are actually capable of buying your product (e.g. aren't geographically restricted), want your particular product, want it now, and can afford it. The resulting audience is smaller than marketers estimate. And to scale Facebook and Instagram, you'll want to advertise to at least a few million people. (This amount is not required to successfully run ads — just ideal.)
 Degree of product demand — How badly does your addressable market want your product? If your product is a non-critical nicety, you're at a disadvantage compared to, say, someone selling health insurance to people urgently needing health insurance. In short, the more people truly need you, or the more people are already buying your product category, the better your pitch resonates. 
 To succeed with ads, your product must cross a threshold for all three criteria:
 
-### Profit threshold —
+Profit threshold —
 You must earn per customer at least as much as it costs to acquire a customer from that ad channel. However, you can include the earnings generated from the customers the paid-for customer refers.
 Market size threshold — You must have an addressable market big enough to be identified en masse through the ad channel's targeting. (This depends on the channel.) Otherwise, you'll saturate your small audience and not achieve scale. 
 Product demand threshold — You want to sell a product category that people are already buying or otherwise instinctively feel they should buy upon learning of it. To accomplish the latter, you need a product that is extremely appealing.
