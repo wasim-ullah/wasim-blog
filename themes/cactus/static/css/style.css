@@ -1260,13 +1260,13 @@ div#guide_toc {
     background: #d5fefb;
     margin: -1em 0 0;
 }
-div#guide_toc ul {
+div#guide_toc nav {
     overflow: hidden;
 }
 div#guide_toc li {
     display: inline-block;
     line-height: 0.7em;
-    padding-top: 1px;
+    padding-top: 5px;
     padding-bottom: 5px;
 }
 div#guide_toc ul>li>ul>li:hover {
@@ -1295,3 +1295,4 @@ div#guide_toc ul>li>ul>li:hover {
     }
 
 }
+
