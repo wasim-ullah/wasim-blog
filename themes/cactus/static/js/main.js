@@ -60,6 +60,9 @@ $(document).ready(function() {
 		  
 	  var setWidth = function() {
 		$progressBar.css({ opacity: 1, width: getWidth() });
+		value = getValue();
+		if (value > 600)
+			$('#guide_toc nav').scrollLeft(value - 600)
 	  }
 	  
 	  $(document).on("scroll", setWidth);
