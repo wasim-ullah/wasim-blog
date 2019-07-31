@@ -19,5 +19,13 @@
                 </div>
             </div>
         </div>
+        {{ if .Site.Params.enableToc }}
+            {{ if .TableOfContents }}
+            <div id="guide_toc">
+                {{ .TableOfContents }}
+            </div>
+            {{ end }}
+        {{ end }}
+        <div id="page-progress" class="page-progress" style="opacity: 1; width: 0%;"></div>
     </div>
 </div>
