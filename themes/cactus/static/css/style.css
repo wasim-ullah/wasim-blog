@@ -1256,6 +1256,38 @@ a.symbol:hover {
     clear: both;
 }
 
+div#guide_toc {
+    background: #d5fefb;
+    margin: -1em 0 0;
+}
+div#guide_toc ul {
+    overflow: hidden;
+}
+div#guide_toc li {
+    display: inline-block;
+    line-height: 0.7em;
+    padding-top: 1px;
+    padding-bottom: 5px;
+}
+div#guide_toc ul>li>ul>li:hover {
+    border-bottom-style: solid;
+    border-bottom-color: #a7bfc7;
+    color: #2e4550;
+    border-bottom: 1px solid ;
+}
+
+.page-progress {
+    position: relative;
+    z-index: 10;
+    display: block;
+    height: 2px;
+    margin-top: -1px;
+    border: 1px solid #3d8982;
+    border-bottom-left-radius: 2px;
+    box-shadow: none;
+    opacity: 0;
+}
+
 @media only screen and (max-width: 460px) {
     .w-col {
         width: 100%;
@@ -1263,4 +1295,3 @@ a.symbol:hover {
     }
 
 }
-
