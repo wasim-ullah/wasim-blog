@@ -638,14 +638,14 @@ Post List
 
 p b {
       text-decoration:none;
-  border-bottom: 1px solid #6DFD6A;
-  box-shadow: inset 0 -4px 0 #6DFD6A;
+  border-bottom: 1px solid #FDF26A;
+  box-shadow: inset 0 -4px 0 #FDF26A;
   color: inherit;
   transition: background 0.1s cubic-bezier(.33,.66,.66,1);
 }
 
 p b:hover {
-  background: #6DFD6A;
+  background: #FDF26A;
 }
 
 
