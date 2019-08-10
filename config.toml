@@ -10,7 +10,7 @@ theme = "cactus"
 	description = "A growth hacker who excels at full-stack marketing"
 
 	author = "Wasim Ullah"
-	bio = "Marketer"
+	bio = "A growth hacker who excels at full-stack marketing"
 
 	twitter = "unwasim"
 	facebook = "userwasim"
@@ -71,7 +71,7 @@ theme = "cactus"
 	subtitle404 = "Come again? Or else."
 	
 	# Sharing options and author information in posts
-	aboutAuthor = "Marketer"
+	aboutAuthor = "A growth hacker who excels at full-stack marketing"
 
 iconFont = "font-awesome"
 socialIconStyle = ""
