@@ -636,6 +636,20 @@ Post List
 }
 
 
+p b {
+      text-decoration:none;
+  border-bottom: 1px solid #6afdef;
+  box-shadow: inset 0 -4px 0 #6afdef;
+  color: inherit;
+  transition: background 0.1s cubic-bezier(.33,.66,.66,1);
+}
+
+p b:hover {
+  background: #6afdef;
+}
+
+
+
 /* Post Navigation */
 
 #post-nav {
