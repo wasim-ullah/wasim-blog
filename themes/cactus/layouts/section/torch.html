@@ -6,7 +6,22 @@
 <section id="wrapper" class="home">
     {{ .Content }}
     
-    
+ <script type="text/javascript" ng:autobind src="https://code.angularjs.org/0.10.5/angular-0.10.5.js"></script>
+<table ng:controller="TableCtrl">
+  <thead>
+    <tr>
+      <th ng:repeat="(i,th) in head" ng:class="selectedCls(i)" ng:click="changeSorting(i)">{{ th }}</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr ng:repeat="row in body.$orderBy(sort.column, sort.descending)">
+      <td>{{ row.a }}</td>
+      <td>{{ parseDate(row.b) | date:'MMM dd, yyyy' }}</td>
+      <td>{{ row.c }}</td>
+      <td>{{ row.d }}</td>
+    </tr>
+  </tbody>
+</table>   
 
     {{ partial "footer.html" . }}
 </section>
