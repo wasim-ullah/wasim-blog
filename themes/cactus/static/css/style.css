@@ -1310,3 +1310,76 @@ div#guide_toc ul>li>ul>li:hover {
 
 }
 
+
+
+
+
+/* CUSTOM ADDITIONS */
+    .table-of-contents { 
+        width: 100%;
+        max-width: 300px;
+        display: table; 
+        margin: 80px auto;
+        overflow: hidden;
+        font-size: 12.5px;
+        line-height: 18px;
+        
+        a {
+            display: table-row;
+            position: relative;
+            height: 22px; // this affects space between lines
+            color: rgba(#393b3d,.9); 
+            text-decoration: none; 
+        }
+
+        a div { 
+            display: table-cell; 
+            text-transform: uppercase;
+            display: table-cell; // for alignment when narrow width causes line break    
+            vertical-align: bottom; // for alignment when narrow width causes line break
+            position: relative;
+    
+            &:nth-of-type(odd) { // chapter name
+                position: relative; 
+                overflow: hidden; 
+        
+                span {
+
+                    padding-right: 6px;
+                }  
+            }
+            
+            &:nth-of-type(even) { // chapter number
+                width: 45px;
+                background: #f6f1ee;
+                padding-left: 8px;
+                margin-left: -8px;
+            }
+    
+            &::after {
+                content: "·····················";
+                color: rgba(#393b3d,.65);  
+                display: block;
+                font-size: 10px;
+                letter-spacing: 10px;
+                line-height: 10px;
+                bottom: 1px;
+                position: absolute;
+                vertical-align: bottom;
+                left: 3px; // prevent dots leak 
+                z-index: -1; // prevent dots leak 
+            }
+        }
+
+        .numero { 
+            font-size: 8px;
+            line-height: 14px;
+            vertical-align: baseline;
+            position: relative;
+            top: -3px;    
+            text-shadow: 0 0 0 #000;
+            padding-bottom: 1px;
+            padding-right: 4px;
+        }   
+    }
+        
