@@ -4,7 +4,7 @@
 		<a href='{{ .Site.BaseURL }}'> <span class="arrow">←</span>{{ with .Site.Params.home }}{{ . }}{{ else }}Home{{ end }}</a>
 	{{ end }}
 	<a href='{{ .Site.BaseURL }}work'>{{ with .Site.Params.about }}{{ . }}{{ else }}Docs{{ end }}</a>
-	<a href='{{ .Site.BaseURL }}torch'>{{ with .Site.Params.about }}{{ . }}{{ else }}Torch{{ end }}</a>
+	<a href='{{ .Site.BaseURL }}torch'>{{ with .Site.Params.about }}{{ . }}{{ else }}Work{{ end }}</a>
 	{{ range $key, $val := .Site.Params.Links }}
 		<a href="{{ $val }}">{{ $key }}</a>
 	{{ end }}
