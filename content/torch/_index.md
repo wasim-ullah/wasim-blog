@@ -6,8 +6,8 @@ draft: false
 
 | Area | Business |
 | ------ | ----------- |
-| Design   | path to data files to supply the data that will be passed into templates. |
-| Website | engine to be used for processing templates. Handlebars is the default. |
+| Design   | Construction Company, Educational Institute, Non Profit Organization, Medical Consultancy, Advertising Agency |
+| Website | Construction Company, Digital Marketing Agency, Advertising Agency, Ecommerce Stores, Electrical Company, Aluminum Company, Roofing Company, Swimming Pools Company |
 | Advertising    | extension to be used for dest files. |
 | Social    | extension to be used for dest files. |
 | Search    | extension to be used for dest files. |
