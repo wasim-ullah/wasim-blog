@@ -18,7 +18,7 @@ theme = "cactus"
 	enableRSS = true
 	enableToc = true
 
-	enableDisqus = false
+	enableDisqus = true
 	disqusShortname = "WasimU"
 
 	enableSummary = true
