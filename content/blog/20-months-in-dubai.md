@@ -5,9 +5,9 @@ linktitle: My First 20 Months In Dubai
 tags: [
     "sales",
 ]
-title: 16 KPIs Of Any Sales Funnel
+title: My First 20 Months In Dubai
 description: How did everything go in the last twenty months?
-weight: 10
+weight: 7
 twitterCardImage: ("/images/pp1.jpg")
 ---
 
