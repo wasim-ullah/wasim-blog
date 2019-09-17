@@ -46,5 +46,5 @@ To learn and explore the ideas, I buy books and surf the internet, I read the bo
 
 ## Last two months: July — August:
 
-In the last few months, I have been invited by a Danish businessman, ex-director of two telecom companies, a CEO at a Singapore based ventures capitalist firm, and some recruiters with their offers of sorts. To tell the truth, it makes sense to be available on professional networking websites. Launched two more hustlers’ hobby projects, sanity.ai, and hatti.me.<br>
+In the last few months, I have been invited by a Danish businessman, ex-director of two telecom companies, a CEO at a Singapore based ventures capitalist firm, and some recruiters including BCG's reps with their offers of sorts. To tell the truth, it makes sense to be available on professional networking websites. Launched two more hustlers’ hobby projects, sanity.ai, and hatti.me.<br>
 Currently, I hold industry-recognized certifications and a proven record in digital media transformation and still fond of teaching others for zero fees through events and webinars with no sales or pushy content. To fill the pot, you have to empty it first, which is a brain in this case.
