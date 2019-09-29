@@ -8,7 +8,7 @@ tags: [
 title: Google Optimize Can Help You Decide
 description: Stuck in decision making?
 weight: 8
-twitterCardImage: [/images/ab.jpg]
+
 ---
 
 ![Google Optimize Can Help You Decide](/images/ab.jpg)
