@@ -31,6 +31,8 @@ theme = "cactus"
 	enableBaiduAnalytics = false
 	# Set the value to your baidu analysis code if you want to use baidu analytics
 	baiduAnalytics = 'your_baidu_analysis_code'
+	
+	google_tag_manager = “GTM-PBQNF85”
 
 	enableRobotsTXT = true
 	canonifyURLs = true
