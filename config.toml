@@ -98,8 +98,7 @@ socialIconStyle = ""
     height = 2400
 
 [social]
-linkedin = "https://www.linkedin.com/in/wasim-ullah"
-facebook = "https://www.facebook.com/113163386752958/"
+linkedin-square = "https://www.linkedin.com/in/wasim-ullah/"
 
 [privacy]
   [privacy.disqus]
