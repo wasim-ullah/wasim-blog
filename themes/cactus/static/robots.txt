@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://wasim.co/sitemap.xml
