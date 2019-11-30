@@ -1,13 +1,13 @@
 ---
 author: "Wasim Ullah"
-date: 2019-11-30T17:00:00
+date: 2019-11-30T05:00:00
 linktitle: Useful Digital Marketing Trainings
 tags: [
     "learning",
 ]
 title: Useful Digital Marketing Certifications
 description: The ones I took and found useful.
-weight: 10
+weight: 8
 twitterCardImage: ("/images/dmc.png")
 ---
 
