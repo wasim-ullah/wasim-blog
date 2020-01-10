@@ -12,6 +12,18 @@ Most recently, I single-handedly achieved the double in ROI in four months as co
         I'd single-handedly work on a brand's identity creation, build their digital presence across website, newsletter, social and search media, design a conversion funnel specific to the business needs, run paid marketing campaigns, and enhance their customer experience through ongoing optimization.<br><br>
 I have <b>worked with</b> dozens of startups, small and medium-sized enterprises.<br>
 
+My <b>most recent achievements</b> updated on July 25, 2019:<br>
+- Reduced to 80% the overall search and social ads spend and increased conversions by 5%,<br>
+- Ranked an insurance firm high in search results for their primary keywords within 45 days,<br>
+- Planned and executed two Chatbots to automate sales and customer support work,<br>
+- Replaced a nine years experienced marketing head in the core team within ten days, a ten years experienced paid campaigns lead in two months and a twelve years experienced visual designer in three months of joining in the same startup.<br>
+<br><br>
+Earlier in <b>career</b>:<br>
+- Redesigned logos, business stationery, brochures, profiles, physical branding, and websites of eight multinational companies based out of Dubai in three months,<br>
+- Created viral content and received more than one million views for a Facebook page in two weeks,<br>
+- Generated over twenty five thousand leads for enrollments across five different campuses,<br>
+- Started out as social media strategist, promoted to lead the entire digital media workload.<br>
+
 <h2>Your Eligibility</h2>
 You are eligible if you can spend 3 hours per week, at the randomly announced days, and are committed to learn also by respecting time.Due to my tight schedule I have to announce different days. Although, you can still get notes from fellow participants.<br><br>
 
