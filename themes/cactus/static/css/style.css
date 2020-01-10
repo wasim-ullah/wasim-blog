@@ -357,8 +357,8 @@ em, i {
 }
 
 .home h2 {
-    font: italic 19px/1.3em 'Jost';
-    color: #bbb;
+    font: 300 15px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #444;
 }
 
 .post header {
