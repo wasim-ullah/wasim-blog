@@ -23,6 +23,8 @@ This course has been created for <b>beginner and intermediate levels</b> because
 
 <h3> Certificates </h3>
 {{< box-preview id="w9yn2no1jifsjoy6islrj39p01tdqer7" height="400" >}}
+
+<br>
 First off, I have worked throughout my career as one man for multiple roles, and still produced results like I saw that a team of group of people would do.
 Most recently, I single-handedly <b>achieved the double in ROI</b> in four months as compared to the previous eight months period when the entity had three resources with the double number of years of experience.<br><br>
     I am into marketing 80% technical and 20% creative, which makes me a 100% <b>growth hacker</b> – the best wave of digital marketers thus far. My second side is <b>full-stack marketing</b> – a full-scale digital marketing work. With extensive experience in building a strong brand presence across all the digital media platforms with a sales funnel, I craft and implement successful digital marketing strategies. That will earn any startup, small and medium-sized businesses best on their ROI.</a><br><br>
