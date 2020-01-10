@@ -48,6 +48,9 @@ Earlier in <b>career</b>:<br>
 ## Your Eligibility
 You are eligible if you can spend <b>3 hours per week</b>, at the randomly announced days, and are committed to learn also by respecting time.Due to my tight schedule I have to announce different days. Although, you can still get notes from fellow participants.<br>
 
+## Medium
+It'll be completely online. We shall announce the tools later through the emails when we are sharing the start dates.<br>
+
 ## The Dates & Duration
 The dates to start this course shall be announced later, though your emails or WhatsApp numbers. And this course shall finish in nine months.<br>
 If you want to ask me anything, please write a formal email at wasim.ullah@aol.com.<br>
