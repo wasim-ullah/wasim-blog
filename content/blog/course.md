@@ -15,7 +15,7 @@ twitterCardImage: ("/images/funnel.jpg")
 
 
 <h2>The Free Course</h2>
-This course has been created for beginner and intermediate levels because this is what the majority needs at the moment. We are going to discuss design, website, advertising, social, search, video, analytics, emails, and writing from idea stage and planning to execution and optimization stages. Do not worry, I have my portfolio in all of them and certificates too. See them <a href="https://wasim.co/work/">here</a>.<br>
+This course has been created for beginner and intermediate levels because this is what the majority needs at the moment. We are going to discuss design, website, advertising, social, search, video, analytics, emails, and writing from idea stage and planning to execution and optimization stages. Do not worry, I have my portfolio in all of them and certificates too. See them at wasim.co/work.<br>
 
 <h2>My Eligibility</h2>
 Most recently, I single-handedly achieved the double in ROI in four months as compared to the previous eight months period when the entity had three resources with the double number of years of experience.<br><br>
@@ -23,12 +23,13 @@ Most recently, I single-handedly achieved the double in ROI in four months as co
         I'd single-handedly work on a brand's identity creation, build their digital presence across website, newsletter, social and search media, design a conversion funnel specific to the business needs, run paid marketing campaigns, and enhance their customer experience through ongoing optimization.<br><br>
 I have <b>worked with</b> dozens of startups, small and medium-sized enterprises.<br>
 
+<h2>Achievements</h2>
 My <b>most recent achievements</b> updated on July 25, 2019:<br>
 - Reduced to 80% the overall search and social ads spend and increased conversions by 5%,<br>
 - Ranked an insurance firm high in search results for their primary keywords within 45 days,<br>
 - Planned and executed two Chatbots to automate sales and customer support work,<br>
 - Replaced a nine years experienced marketing head in the core team within ten days, a ten years experienced paid campaigns lead in two months and a twelve years experienced visual designer in three months of joining in the same startup.<br>
-<br><br>
+
 Earlier in <b>career</b>:<br>
 - Redesigned logos, business stationery, brochures, profiles, physical branding, and websites of eight multinational companies based out of Dubai in three months,<br>
 - Created viral content and received more than one million views for a Facebook page in two weeks,<br>
@@ -36,10 +37,10 @@ Earlier in <b>career</b>:<br>
 - Started out as social media strategist, promoted to lead the entire digital media workload.<br>
 
 <h2>Your Eligibility</h2>
-You are eligible if you can spend 3 hours per week, at the randomly announced days, and are committed to learn also by respecting time.Due to my tight schedule I have to announce different days. Although, you can still get notes from fellow participants.<br><br>
+You are eligible if you can spend 3 hours per week, at the randomly announced days, and are committed to learn also by respecting time.Due to my tight schedule I have to announce different days. Although, you can still get notes from fellow participants.<br>
 
-
-The dates to start this course shall be announced later, though your emails or WhatsApp numbers.<br>
-In order to ask me anything, please write me a formal email at wasim.ullah@aol.com.<br>
+<h2>The Dates & Duration</h2>
+The dates to start this course shall be announced later, though your emails or WhatsApp numbers. And this course shall finish in nine months.<br>
+If you want to ask me anything, please write a formal email at wasim.ullah@aol.com.<br>
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrY6346NvISihPvR?backgroundColor=green" frameborder="0" onmousewheel="" width="100%" height="800" style="background: transparent; border: 1px solid #ccc;"></iframe>
