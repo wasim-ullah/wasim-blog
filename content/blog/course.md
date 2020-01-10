@@ -3,15 +3,15 @@ author: "Wasim Ullah"
 date: 2020-01-10T18:30:00
 linktitle: Course
 tags: [
-    "course",
+    "Learn",
 ]
 title: Course
 description: How will you measure a sales funnel progress?
 weight: 10
-twitterCardImage: ("/images/funnel.jpg")
+twitterCardImage: ("/images/course.jpg")
 ---
 
-![Sales Funnel Key Performance Indicators](/images/funnel.jpg)
+![Course](/images/course.jpg)
 
 
 <h2>The Free Course</h2>
