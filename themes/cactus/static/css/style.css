@@ -120,7 +120,7 @@ html, body {
 }
 
 body {
-    font: 12px/1 Futura Light, Arial, sans-serif;
+    font: 12px/1 Futura;
     color: #666;
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
