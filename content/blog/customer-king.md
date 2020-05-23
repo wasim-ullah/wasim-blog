@@ -1,6 +1,6 @@
 ---
 author: "Wasim Ullah"
-date: 2020-05-23T18:30:00
+date: 2020-05-22T18:30:00
 linktitle: Your Customer Isn't Always Right Nor The King, Nevertheless, They Own Their Rights
 tags: [
     "opinion",
