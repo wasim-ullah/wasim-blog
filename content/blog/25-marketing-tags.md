@@ -7,7 +7,7 @@ tags: [
 ]
 title: 25 Marketing Tags That Don't Make Sense But They Work
 description: Some of the widely used tags that benefit the marketers and advertisers to sell ice to Eskimos.
-weight: 10
+weight: 7
 images:
 - images/25tags.png
 ---
