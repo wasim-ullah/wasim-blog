@@ -35,7 +35,7 @@ theme = "cactus"
 	enableRobotsTXT = true
 	canonifyURLs = true
 
-	enableTwitterCard = false
+	enableTwitterCard = true
 	# The url for twitter card image, default is avatar.png in static/images directory
 	# twitterCardImage = "/images/twittercard.jpg"
 	
