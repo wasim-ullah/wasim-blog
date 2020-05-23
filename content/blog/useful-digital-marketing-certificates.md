@@ -8,9 +8,7 @@ tags: [
 title: Useful Digital Marketing Certifications
 description: The ones I took and found useful.
 weight: 8
-twitterCardImage: ("/images/dmc.png")
-images: 
-- images/dmc.png
+images: ("images/dmc.png")
 ---
 
 ![Useful Digital Marketing Certifications](/images/dmc.png)
