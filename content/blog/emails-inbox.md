@@ -9,7 +9,7 @@ title: Your Email Should Like This Platform
 description: My opinion on hey.com's revolutionary, yet, humble beginning.
 weight: 7
 images:
-- images/hey.png
+- images/heyemail.png
 ---
 
 ![Your Email Should Like This Platform](/images//heyemail.png)
