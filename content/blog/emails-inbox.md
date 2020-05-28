@@ -12,6 +12,8 @@ images:
 - images/hey.png
 ---
 
+![Your Email Should Like This Platform](/images//heyemail.png)
+
 Unlike what we see in the money machines more than email services, hey.com looks a promising product to solve a list of <a href="https://hey.com/problems-with-email/" target="_blank">25 issues</a> in your email inbox.<br>
 
 ## First Thing
@@ -31,3 +33,4 @@ Or they have started making money that runis the experience.
 Your emails inbox needs revamp, just like their subject line and body.
 
 ![Hey Gif](https://media.giphy.com/media/xT0xeADNkaq35EqfoA/giphy.gif)
+![Hey.com Release](/images//hey.png)
