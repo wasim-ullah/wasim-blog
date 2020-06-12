@@ -27,7 +27,7 @@ A successful funnel has divided all the different stages with a clear objective,
 
 There are multiple agencies who claim to grow your online business, without a powerful foundation, you are destined to fail sooner or later, those agencies, however, will be able to get some clicks to your website with a simple link sharing across social media channels. However, that is not enough in the long term. Sales funnel is a strategy for growth.
 
-##1. Awareness
+##  1. Awareness
 It all starts with educating your customers,
 
 <ol>
@@ -40,14 +40,14 @@ It is like starting talking to a stranger and introducing yourself first. It is 
 
 This stage can be measured with the simple key performance indicators like page views, impressions, reach, and cost-per-mille.
 
-##2. Acquisition
+## 2. Acquisition
 It is of no use to create a product without letting your customers learn deeply about its core functionalities, which is the job of awareness stage. After which, you must bring them to the table which in this case likes to your page, followers, leads, click-through-rate, and cost-per-click. The ratios tell the efficiency of a process.
 
 It’s like inviting someone to the coffee, creating the moment of engagement where they will start understanding who you are, and it should be thought in the same manner. Your funnel should be designed with the content that engages people so much so that they are compelled to sit with you for that coffee to hear more about your offerings.
 
 If you fail to acquire, you will fail to convert.
 
-##3. Conversion
+## 3. Conversion
 Conversion rate and cost-per-acquisition will determine the efficiency of a conversion stage. This is where you will sell your product or services to your customers. It will be recognized by the closed deals that you sign with your prospects. It is followed by retention and referral stages.
 
 In most of the cases, only acquisition and conversion stages need to be repeated because people are aware of the need of a product or service and their simple need is to compare different businesses to buy something. In that case, these two stages can overlap in terms of the content and advertisements strategy.
