@@ -26,6 +26,7 @@ During schooling:<br>
 <li>Honorary mention in the dean's list for maintaining top positions for consecutive years in annual examinations.</li>
 </ol>
 
+<br>
 ## <center>Detailed Background</center>
 <br>
 ## 2009
