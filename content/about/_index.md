@@ -10,15 +10,19 @@ I have worked with dozens of startups, small and medium-sized enterprises.
 
 ## Achievements
 Earlier in career:<br>
-- Redesigned logos, business stationery, brochures, profiles, physical branding, and websites of eight multinational companies based out of Dubai in three months,<br>
-- Created viral content and received more than one million views for a Facebook page in two weeks,<br>
-- Generated over twenty five thousand leads for enrollments across five different campuses,<br>
-- Started out as social media strategist, promoted to lead the entire digital media workload.<br>
-
+<ul>
+<li>Redesigned logos, business stationery, brochures, profiles, physical branding, and websites of eight multinational companies based out of Dubai in three months,</li>
+<li>Created viral content and received more than one million views for a Facebook page in two weeks,</li>
+<li>Generated over twenty five thousand leads for enrollments across five different campuses,</li>
+<li>Started out as social media strategist, promoted to lead the entire digital media workload.</li>
+</ul>
+        
 During schooling:<br>
-- Received a primary distinction in the calligraphy competition held across colleges,<br>
-- Merit scholarship in eighth grade,<br>
-- Honorary mention in the dean's list for maintaining top positions for consecutive years in annual examinations.</p>
+<ul>
+<li>Received a primary distinction in the calligraphy competition held across colleges,</li>
+<li>Merit scholarship in eighth grade,</li>
+<li>Honorary mention in the dean's list for maintaining top positions for consecutive years in annual examinations.<li>
+</ul>
 
 ## 2009
 <b>Business Students Society – Founder</b>
