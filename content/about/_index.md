@@ -5,7 +5,7 @@ draft: false
 ---
 
 ## 2009
-Business Students Society – Founder
+<b>Business Students Society – Founder</b>
 A class fellow inspired to start a new extracurricular society, discussed its name with elder brother and came up with one. Stopped its activities after joining other on-ground NGO’s.
 
 Impact Global – Member & Campus Representative
