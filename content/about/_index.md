@@ -24,8 +24,8 @@ During schooling:<br>
 <li>Honorary mention in the dean's list for maintaining top positions for consecutive years in annual examinations.</li>
 </ol>
 
-## <center>Background</center>
-
+## <center>Detailed Background</center>
+<br>
 ## 2009
 Business Students Society – Founder:</br>
 A class fellow inspired to start a new extracurricular society, discussed its name with elder brother and came up with one. Stopped its activities after joining other on-ground NGO’s.
