@@ -4,6 +4,22 @@ date: 2018-11-08T19:41:41+04:00
 draft: false
 ---
 
+I am into marketing 80% technical and 20% creative, which makes me a 100% <b>growth hacker</b> – the best wave of digital marketers thus far. My second side is <b>full-stack marketing</b> – a full-scale digital marketing work. With extensive experience in building a strong brand presence across all the digital media platforms with a sales funnel, I craft and implement successful digital marketing strategies. That will earn any startup, small and medium-sized businesses best on their ROI.</a><br><br>
+        I'd single-handedly work on a brand's identity creation, build their digital presence across website, newsletter, social and search media, design a conversion funnel specific to the business needs, run paid marketing campaigns, and enhance their customer experience through ongoing optimization.<br><br>
+I have <b>worked with</b> dozens of startups, small and medium-sized enterprises.
+
+## Achievements
+Earlier in <b>career</b>:<br>
+- Redesigned logos, business stationery, brochures, profiles, physical branding, and websites of eight multinational companies based out of Dubai in three months,<br>
+- Created viral content and received more than one million views for a Facebook page in two weeks,<br>
+- Generated over twenty five thousand leads for enrollments across five different campuses,<br>
+- Started out as social media strategist, promoted to lead the entire digital media workload.<br>
+<br><br>
+During <b>schooling</b>:<br>
+- Received a primary distinction in the calligraphy competition held across colleges,<br>
+- Merit scholarship in eighth grade,<br>
+- Honorary mention in the dean's list for maintaining top positions for consecutive years in annual examinations.</p>
+
 ## 2009
 <b>Business Students Society – Founder</b>
 A class fellow inspired to start a new extracurricular society, discussed its name with elder brother and came up with one. Stopped its activities after joining other on-ground NGO’s.
