@@ -21,7 +21,7 @@ During schooling:<br>
 <ul>
 <li>Received a primary distinction in the calligraphy competition held across colleges,</li>
 <li>Merit scholarship in eighth grade,</li>
-<li>Honorary mention in the dean's list for maintaining top positions for consecutive years in annual examinations.<li>
+<li>Honorary mention in the dean's list for maintaining top positions for consecutive years in annual examinations.</li>
 </ul>
 
 ## 2009
