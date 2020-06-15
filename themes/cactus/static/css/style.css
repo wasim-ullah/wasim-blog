@@ -308,6 +308,7 @@ li {
     list-style-position: outside;
     /* text-indent: -1.5em; */
     margin-left: 1.5em;
+    line-height: 19.6px;
 }
 
 ul>li {
