@@ -25,10 +25,10 @@ During schooling:<br>
 </ul>
 
 ## 2009
-<b>Business Students Society – Founder</b>
+Business Students Society – Founder:</br>
 A class fellow inspired to start a new extracurricular society, discussed its name with elder brother and came up with one. Stopped its activities after joining other on-ground NGO’s.
 
-<b>Impact Global – Member & Campus Representative</b>
+Impact Global – Member & Campus Representative:</br>
 Didn’t know much about joining social welfare organizations, spent hours in computer lab at my university and found few. Discussed some activities with their representative, couldn’t come at a common ground.
 
 ## 2010
