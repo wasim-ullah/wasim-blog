@@ -14,7 +14,7 @@ Earlier in <b>career</b>:<br>
 - Created viral content and received more than one million views for a Facebook page in two weeks,<br>
 - Generated over twenty five thousand leads for enrollments across five different campuses,<br>
 - Started out as social media strategist, promoted to lead the entire digital media workload.<br>
-<br><br>
+
 During <b>schooling</b>:<br>
 - Received a primary distinction in the calligraphy competition held across colleges,<br>
 - Merit scholarship in eighth grade,<br>
