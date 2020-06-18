@@ -14,7 +14,7 @@ images:
 
 ![Growth Hacking As It Was Done By Sharks](/images/growthhackingexamples.png)
 
-These are the list of take-aways from the early growth hacking techniques.
+These are the list of takeaways from the early growth hacking techniques.
 
 ## Dropbox
 Dropbox offered 250mb of extra storage space to any user who invited a friend — if said friend created an account. This incentive got the signups to soar by 60% almost overnight. Each new user cost Dropbox only 500mb of disk space. Talk about a low cost of acquisition!
