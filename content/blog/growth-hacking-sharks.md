@@ -1,6 +1,6 @@
 ---
 author: "Wasim Ullah"
-date: 2020-05-22T18:30:00
+date: 2020-06-18T18:30:00
 linktitle: Growth Hacking As It Was Done By Sharks
 tags: [
     "opinion",
