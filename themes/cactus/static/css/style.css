@@ -1310,3 +1310,7 @@ div#guide_toc ul>li>ul>li:hover {
     }
 
 }
+
+.list-detail {
+    padding: 25px 0 2px
+}
