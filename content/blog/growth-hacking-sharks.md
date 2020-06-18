@@ -3,7 +3,7 @@ author: "Wasim Ullah"
 date: 2020-06-18T18:30:00
 linktitle: Growth Hacking As It Was Done By Sharks
 tags: [
-    "opinion",
+    "growth",
 ]
 title: Growth Hacking As It Was Done By Sharks
 description: The early days in growth hacking.
