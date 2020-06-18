@@ -86,7 +86,6 @@ Started with a salary of I guess PKR 2-3000 per month, left it in first month af
 Private Primary School – Primary Teacher:<br>
 Taught some pupils for a few days.
 
-## 2014
 Imanagers – Marketing Associate:<br>
 Joined after visiting the office for two times and following up on calls for some times. It was the first long term job that I was offered. It shaped my career, as the CEO of that company would say. Left it after I got a job at another digital marketing agency for a role that resonated with me and improved my salary.
 
