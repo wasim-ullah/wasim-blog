@@ -1,18 +1,18 @@
 ---
 author: "Wasim Ullah"
 date: 2020-06-19T12:30:00
-linktitle: LinkedIn's New Post Reach Algorithm
+linktitle: LinkedIn's New Content Distribution Algorithm
 tags: [
     "growth",
 ]
-title: LinkedIn's New Post Reach Algorithm
+title: LinkedIn's New Content Distribution Algorithm
 description: Dwell time will now be taken into consideration when content is ranked in the LinkedIn feed.
 weight: 7
 images:
 - images/linkedindwell.png
 ---
 
-![LinkedIn's New Post Reach Algorithm](/images/linkedindwell.png)
+![LinkedIn's New Content Distribution Algorithm](/images/linkedindwell.png)
 
 Dwell means "live in or at a specified place".
 
