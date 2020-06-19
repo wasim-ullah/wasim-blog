@@ -28,3 +28,5 @@ Dwell time has the following advantages over solely looking at click and viral a
 | Positive signals are rather sparse   | No shortage of signals |
 
 For marketers, that means you have to craft LinkedIn posts that not only capture peoples’ attention, but hold it for an extended period of time.
+
+Another great article that is related to this topic is <a href="https://www.buzzfeednews.com/article/ryanmac/why-are-these-posts-taking-over-your-linkedin-feed-because" target="_blank">People Are Flooding LinkedIn With Strange Stories. We’re Calling Them Broetry</a> by Buzzfeed.
