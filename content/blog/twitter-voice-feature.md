@@ -6,7 +6,7 @@ tags: [
     "growth",
 ]
 title: Twitter's New Voice Recording Feature
-description: Dwell time will now be taken into consideration when content is ranked in the LinkedIn feed.
+description: Influence with voice.
 weight: 7
 images:
 - images/twittervoice.png
