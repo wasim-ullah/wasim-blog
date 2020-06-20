@@ -71,7 +71,7 @@ theme = "cactus"
 	subtitle404 = "Come again? Or else."
 	
 	# Sharing options and author information in posts
-	aboutAuthor = "A marketer who sells"
+	aboutAuthor = "Marketer who sells"
 
 iconFont = "font-awesome"
 socialIconStyle = ""
