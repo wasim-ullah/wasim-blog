@@ -13,6 +13,8 @@ images:
 ---
 
 ![How to Talk to Users?](/images/talktousers.png)
+
+## Points
 The Mom Test
 
 <ol>
@@ -31,4 +33,5 @@ What, if anything, have you done to try to solve the problem? <li>
 What don’t you love about the solutions you’ve tried?
 </ol>
 
+## Video
 {{< youtube MT4Ig2uqjTc >}}
