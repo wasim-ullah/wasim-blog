@@ -91,6 +91,9 @@ Taught some pupils for a few days.
 Imanagers – Marketing Associate:<br>
 Joined after visiting the office for two times and following up on calls for some times. It was the first long term job that I was offered. It shaped my career, as the CEO of that company would say. Left it after I got a job at another digital marketing agency for a role that resonated with me and improved my salary.
 
+InnoMedia - Graphic Designer:<br>
+Worked for a few projects to help the digital marketing agency serve their clients.
+
 ## 2015
 Zan Sol – Social Media Executive:<br>
 Worked for two to three months there, and left after its HR raised a dispute for coming later in office with a difference of a few minutes. Started its e-commerce company project.
