@@ -18,7 +18,7 @@ The Mom Test
 <ol>
 Talk about their life, not your idea <li>
 Talk specifics, not hypotheticals <li>
-Listen, don’t talk <li>
+Listen, don’t talk
 </ol>
 
 Five great questions you can ask in every user interview:
@@ -28,7 +28,7 @@ What’s the hardest part about [doing this thing]? <li>
 Tell me about the last time you encountered that problem <li>
 Why was that hard? <li>
 What, if anything, have you done to try to solve the problem? <li>
-What don’t you love about the solutions you’ve tried? <li>
+What don’t you love about the solutions you’ve tried?
 </ol>
 
 {{< youtube MT4Ig2uqjTc >}}
