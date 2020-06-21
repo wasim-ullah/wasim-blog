@@ -54,6 +54,3 @@ I am going to list down the marketing tags from my observations, their natural m
 <li>Test, learn and move on</li>
 </ol>
 Side note: if you were one of those marketers who is now injured or feel upset, please follow the tips to avoid.
-
-
-{{ partial "profile.html" . }}
