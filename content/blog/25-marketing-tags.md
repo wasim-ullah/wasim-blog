@@ -56,22 +56,4 @@ I am going to list down the marketing tags from my observations, their natural m
 Side note: if you were one of those marketers who is now injured or feel upset, please follow the tips to avoid.
 
 
-  <div class="row">
-<!-- Begin MailChimp Signup Form -->
-<div id="mc_embed_signup" class="mailchimp">
-    <form action="PUTYOURFORMDETAILSHERE" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form-inline" target="_blank" novalidate> 
-      <div class="form-group">
-        <input type="email" value="" name="EMAIL" class="required email form-control" id="mce-EMAIL" placeholder="Enter email">
-        <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn__bottom--border mailchimp__btn" data-style="shrink" data-horizontal>        
-      </div>
-
-        <div id="mce-responses" class="clear">
-                <div class="response" id="mce-error-response" style="display:none"></div>
-                <div class="response" id="mce-success-response" style="display:none"></div>
-            </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-            <div class="" style="position: absolute; left: -5000px;"><input type="text" name="b_410ed4e009d15301d90f6492b_753384883a" value=""></div>                          
-    </form>
-  </div><!--End mc_embed_signup-->    
-  </div>
-
-</div>
+{{ partial "profile.html" . }}
