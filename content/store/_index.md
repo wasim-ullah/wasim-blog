@@ -6,20 +6,22 @@ draft: false
 
 ## Domain Names on Sale
 
-<ol>
-<li>fayza.co<li>
-gaari.co<li>
-hatti.me<li>
-khao.me<li>
-langar.co<li>
-paisa.me<li>
-readin.me<li>
-sanity.ai<li>
-sayr.me<li>
-wasim.ae<li>
-sayr.co<li>
-shifa.co
-</ol>
+| Name | Price |
+| ------ | ----------- |
+| fayza.co   | 10 |
+| gaari.co   | 10 |
+| hatti.me   | 10 |
+| khao.me   | 10 |
+| langar.co   | 10 |
+| paisa.me   | 10 |
+| readin.me   | 10 |
+| readin.me   | 10 |
+| sayr.me   | 10 |
+| wasim.ae   | 25 |
+| wasim.ae   | 10 |
+| sanity.ai   | 250 |
+| sayr.co   | 250 |
+| shifa.co   | 250 |
 
 <center>After making your payment, please email us using the same email address.</center><br>
 <center> <a href="https://www.paypal.me/towasim" target="_blank" style="background: #BFFFA8; color: #000000; padding: 8px 12px; font-size: 10px; border-radius: 3px;"> Pay Now </a> </center>
