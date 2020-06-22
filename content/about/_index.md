@@ -2,8 +2,6 @@
 title: "About"
 date: 2018-11-08T19:41:41+04:00
 draft: false
-images:
-- images/25tags.png
 ---
 
 I am into marketing 80% technical and 20% creative, which makes me a 100% growth hacker – the best wave of digital marketers thus far. My second side is full-stack marketing – a full-scale digital marketing work.<br>
