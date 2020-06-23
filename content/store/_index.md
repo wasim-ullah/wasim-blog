@@ -18,7 +18,6 @@ draft: false
 | readin.me   | 10 |
 | sayr.me   | 10 |
 | wasim.ae   | 25 |
-| wasim.ae   | 10 |
 | sanity.ai   | 250 |
 | sayr.co   | 250 |
 | shifa.co   | 250 |
