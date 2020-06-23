@@ -23,5 +23,5 @@ draft: false
 | shifa.co   | 250 |
 
 <center>After making your payment, please email us using the same email address.</center><br>
-<center>The ownership will be transferred within 48 days.</center><br>
+<center>The ownership will be transferred within 48 days.</center><br><br><br>
 <center> <a href="https://www.paypal.me/towasim" target="_blank" style="background: #BFFFA8; color: #000000; padding: 8px 12px; font-size: 10px; border-radius: 3px;"> Pay Now </a> </center>
