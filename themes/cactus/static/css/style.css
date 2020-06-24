@@ -65,6 +65,24 @@ table {
   src: url('../fonts/Avenir.eot?#iefix') format('embedded-opentype'),  url('../fonts/Avenir.woff') format('woff'), url('../fonts/Avenir.ttf')  format('truetype'), url('../fonts/Avenir.svg#Avenir') format('svg');
 }
 
+@font-face {
+    font-family: 'AvenirLTStd-Light';
+    src: url('AvenirLTStd-Light.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'AvenirLTStd-Medium';
+    src: url('AvenirLTStd-Medium.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
 [class^="icon-"]:before, [class*=" icon-"]:before {
     font-family: "icons";
     font-style: normal;
