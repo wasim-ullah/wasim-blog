@@ -380,7 +380,7 @@ em, i {
 }
 
 .home h2 {
-    font: 300 15px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font: 300 15px/1.5 "AvenirMedium", Helvetica, Arial, sans-serif;
     color: #444;
 }
 
@@ -392,18 +392,18 @@ em, i {
     margin-top: 0px;
     margin-bottom: 20px;
     color: #222;
-    font: 300 20px/1.4em "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font: 300 20px/1.4em "AvenirMedium", Helvetica, Arial, sans-serif;
 }
 
 .post h2 {
     margin-top: 20px;
     margin-bottom: 10px;
-    font: 300 15px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font: 300 15px/1.5 "AvenirMedium", Helvetica, Arial, sans-serif;
     color: #111;
 }
 
 .post h2.headline {
-    font: normal 10px/1.5em "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font: normal 10px/1.5em "AvenirMedium", Helvetica, Arial, sans-serif;
     margin: -5px 0 0 0;
     color: #b2b9be;
     font-size: 10px;
@@ -412,7 +412,7 @@ em, i {
 }
 
 .post h2.headline .tags {
-    font: normal 10px/1.5em "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font: normal 10px/1.5em "AvenirMedium", Helvetica, Arial, sans-serif;
     margin: -5px 0 40px 0;
     color: #b2b9be;
     font-size: 10px;
@@ -423,7 +423,7 @@ em, i {
 }
 
 #post-list h2 {
-    font: normal 13px/1.5em "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font: normal 13px/1.5em "AvenirMedium", Helvetica, Arial, sans-serif;
     color: #aaa;
     margin-top: 2px;
 }
@@ -557,14 +557,14 @@ Post List
 #post-list a {
     color: #333;
     display: block;
-    font: bold 15px/1.7 "Helvetica Neue", helvetica, Arial, sans-serif;
+    font: bold 15px/1.7 "AvenirMedium", Helvetica, Arial, sans-serif;
 }
 
 #post-list .dates {
     float: right;
     position: relative;
     top: 1px;
-    font: 300 12px/1.8 "Helvetica Neue", helvetica, Arial, sans-serif;
+    font: 300 12px/1.8 "AvenirLight", Helvetica, Arial, sans-serif;
     color: #bbb;
 }
 
@@ -731,7 +731,7 @@ h1.archive {
 
 h2.month {
     width: 100%;
-    font: bold 13px/1 "Helvetica Neue", helvetica, Arial, sans-serif;
+    font: bold 13px/1 "AvenirLight", Helvetica, Arial, sans-serif;
     text-transform: uppercase;
     margin-top: 40px;
     margin-bottom: 10px;
@@ -745,7 +745,7 @@ h2.month {
 
 #archive-list a {
     display: block;
-    font: bold 17px/1.7 "Helvetica Neue", helvetica, Arial, sans-serif;
+    font: bold 17px/1.7 "AvenirMedium", Helvetica, Arial, sans-serif;
     color: #333;
 }
 
@@ -753,7 +753,7 @@ h2.month {
     float: right;
     position: relative;
     top: 1px;
-    font: 300 17px/1.7 "Helvetica Neue", helvetica, Arial, sans-serif;
+    font: 300 17px/1.7 "AvenirLight", Helvetica, Arial, sans-serif;
     color: #bbb;
 }
 
@@ -778,12 +778,12 @@ h2.month {
     margin-bottom: 0px;
 }
 #post-list.archive.readmore h3 {
-    font: 400 15px "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font: 400 15px "AvenirLight", Helvetica, Arial, sans-serif;
     margin-bottom: 30px;
 }
 
 #post-list.archive.readmore a {
-    font: 400 13px/1.6 "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font: 400 13px/1.6 "AvenirLight", Helvetica, Arial, sans-serif;
     color: #949494;
 }
 
@@ -792,7 +792,7 @@ h2.month {
 }
 
 #post-list.archive.readmore .dates {
-    font: 300 10px/1.6 "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font: 300 10px/1.6 "AvenirLight", Helvetica, Arial, sans-serif;
 }
 
 #disqus_thread, #ds-thread {
@@ -946,7 +946,7 @@ a.symbol:hover {
   box-shadow: inset 0 0 0 1px #eee;
   border-radius: 4px;
   overflow: hidden;
-  font-family: 'Menlo', 'Monaco', Courier, monospace;
+  font-family: "AvenirLight", Helvetica, Arial, sans-serif;
 }
 #TableOfContents {
   margin: 1em 0 0 0;
@@ -971,7 +971,7 @@ a.symbol:hover {
   padding: 0;
 }
 #TableOfContents a code{
-  font-family: 'Menlo', 'Monaco', Courier, monospace;
+  font-family: "AvenirLight", Helvetica, Arial, sans-serif;
   background-color: #fff;
   font-size: 11px;
   padding: 2px 3px;
@@ -1092,13 +1092,13 @@ a.symbol:hover {
     padding: 2px 6px 0;
     border-radius: 1px;
     color: #222;
-    font: 300 15px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font: 300 15px/1.5 "AvenirMedium", Helvetica, Arial, sans-serif;
     text-align: center;
     letter-spacing: -.05px;
 }
 
 .home-guide-subheader {
-    font: 300 13px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font: 300 13px/1.5 "AvenirMedium", Helvetica, Arial, sans-serif;
     color: #949494;
     letter-spacing: -.05px;
 }
@@ -1162,7 +1162,7 @@ a.symbol:hover {
     /* margin-top: 54px; */
     float: none;
     text-shadow: -1px -1px 6px rgba(173,222,255,.25), 1px 0 0 #717171;
-    font-family: Avenir,Tahoma,sans-serif;
+    font-family: "AvenirMedium", Helvetica, Arial, sans-serif;
 }
 
 .guide_container h2 {
