@@ -26,7 +26,9 @@ body {
 }
 .input-group .btn{
     color: #ff6600;
-    padding: 20px;
+    padding: 10px;
+    font-size: 18px;
+    font-family: "AvenirMedium";
 }
 h2
 blockquote, q {
