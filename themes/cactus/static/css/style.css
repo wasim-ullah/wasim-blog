@@ -21,7 +21,7 @@ body {
     display: inline-block;
     color: #ff6600;
     margin: 0px;
-    display: inline;
+ 
    
 }
 .input-group .btn{
@@ -29,21 +29,19 @@ body {
     background-color: #ff6600;
     color: white;
     padding: 5px;
-    font-size: 16px;
+    font-size: 14px;
     border: none;
     font-family: 'AvenirMedium',Helvetica;
-    
+    float: left;
 }
 .input-group #getUpdates{
     padding: 5px;
     border: 2px solid #ff6600;
     color: #ff6600;
     font-size: 14px;
-}
-.btn{
     float: left;
-    clear: left;
 }
+
 .email-sign-up v01{
     background-color:#f6f6ef;
     padding: 5px;
