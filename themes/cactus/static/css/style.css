@@ -62,17 +62,26 @@ table {
 /* Custom added fonts */
 
 @font-face {
-    font-family: 'Avenir';
-    src: url('../fonts/icons.eot');
+    font-family: 'AvenirLight';
     src: url('../fonts/AvenirLTStd-Light.woff2');
+    src: url('../fonts/avenirltstd-light.otf');
+    src: url('../fonts/avenirltstd-light.eot');
+    src: url('../fonts/avenirltstd-light.svg');
+    src: url('../fonts/avenirltstd-light.ttf');
+    src: url('../fonts/avenirltstd-light.woff');
+}
+
+@font-face {
+    font-family: 'AvenirMedium';
     src: url('../fonts/AvenirLTStd-Medium.eot');
     src: url('../fonts/AvenirLTStd-Medium.otf');
     src: url('../fonts/AvenirLTStd-Medium.svg');
     src: url('../fonts/AvenirLTStd-Medium.ttf');
     src: url('../fonts/AvenirLTStd-Medium.woff');
     src: url('../fonts/AvenirLTStd-Medium.woff2');
-    src: url('../fonts/avenirltstd-light.otf');
 }
+    
+     
 [class^="icon-"]:before, [class*=" icon-"]:before {
     font-family: "icons";
     font-style: normal;
