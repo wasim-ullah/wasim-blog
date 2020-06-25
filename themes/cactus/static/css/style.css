@@ -19,6 +19,9 @@ body {
 .input-group{
     width: 90%;
     display: inline-block;
+    color: #ff6600;
+    margin: 0px;
+    display: inline;
 }
 h2
 blockquote, q {
