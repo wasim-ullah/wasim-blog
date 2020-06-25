@@ -16,6 +16,10 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 body {
     line-height: 1
 }
+.input-group{
+    width: 90%;
+    display: inline-block;
+}
 h2
 blockquote, q {
     quotes: none
