@@ -29,7 +29,8 @@ body {
     color: white;
     padding: 10px;
     font-size: 18px;
-    font-family: AvenirMedium;
+    border: none;
+    font-family: 'AvenirMedium',Helvetica;
 }
 h2
 blockquote, q {
