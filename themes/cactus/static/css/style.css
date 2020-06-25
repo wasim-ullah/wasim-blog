@@ -40,6 +40,10 @@ body {
     color: #ff6600;
     font-size: 14px;
 }
+.btn{
+    float: left;
+    clear: left;
+}
 .email-sign-up v01{
     background-color:#f6f6ef;
     padding: 5px;
