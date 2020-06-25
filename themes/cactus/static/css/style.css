@@ -22,6 +22,11 @@ body {
     color: #ff6600;
     margin: 0px;
     display: inline;
+   
+}
+.input-group .btn{
+    color: #ff6600;
+    padding: 20px;
 }
 h2
 blockquote, q {
