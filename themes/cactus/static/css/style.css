@@ -39,7 +39,7 @@ body {
     color: #ff6600;
     font-size: 16px;
     float: left;
-    clear: both;
+    clear: left;
 }
 h2
 blockquote, q {
