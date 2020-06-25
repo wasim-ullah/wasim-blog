@@ -255,7 +255,7 @@ h2 {
     font-weight: 300;
     color: #949494;
     margin-top: 10px;
-    font-family: 'AvenirLTStd-Medium', Helvetica, Arial, sans-serif;
+    font-family: 'AvenirMedium', Helvetica, Arial, sans-serif;
     font-style: normal;
 }
 
@@ -1225,7 +1225,7 @@ a.symbol:hover {
     /* margin-top: 54px; */
     float: none;
     text-shadow: -1px -1px 6px rgba(173,222,255,.25), 1px 0 0 #717171;
-    font-family: Avenir,Tahoma,sans-serif;
+    font-family: 'AvenirLight',Tahoma,sans-serif;
 }
 
 .guide_container h2 {
