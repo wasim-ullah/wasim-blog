@@ -25,10 +25,11 @@ body {
    
 }
 .input-group .btn{
-    color: #ff6600;
+    background-color: #ff6600;
+    color: white;
     padding: 10px;
     font-size: 18px;
-    font-family: "AvenirMedium";
+    font-family: AvenirMedium;
 }
 h2
 blockquote, q {
