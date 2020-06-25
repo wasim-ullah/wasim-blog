@@ -25,19 +25,20 @@ body {
    
 }
 .input-group .btn{
+    diplay: inline-block;
     background-color: #ff6600;
     color: white;
-    padding: 10px;
-    font-size: 18px;
+    padding: 5px;
+    font-size: 16px;
     border: none;
     font-family: 'AvenirMedium',Helvetica;
     
 }
 .input-group #getUpdates{
-    padding: 10px;
+    padding: 5px;
     border: 2px solid #ff6600;
     color: #ff6600;
-    font-size: 16px;
+    font-size: 14px;
 }
 .email-sign-up v01{
     background-color:#f6f6ef;
