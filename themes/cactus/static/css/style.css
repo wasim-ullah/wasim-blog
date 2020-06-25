@@ -31,11 +31,15 @@ body {
     font-size: 18px;
     border: none;
     font-family: 'AvenirMedium',Helvetica;
+    float: left;
 }
 .input-group #getUpdates{
     padding: 10px;
     border: 2px solid #ff6600;
     color: #ff6600;
+    font-size: 16px;
+    float: left;
+    clear: both;
 }
 h2
 blockquote, q {
