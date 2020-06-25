@@ -32,6 +32,11 @@ body {
     border: none;
     font-family: 'AvenirMedium',Helvetica;
 }
+.input-group #getUpdates{
+    padding: 10px;
+    border: 2px solid #ff6600;
+    color: #ff6600;
+}
 h2
 blockquote, q {
     quotes: none
