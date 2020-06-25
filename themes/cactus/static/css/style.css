@@ -33,6 +33,7 @@ body {
     border: none;
     font-family: 'AvenirMedium',Helvetica;
     float: left;
+    cursor: pointer;
 }
 .input-group #getUpdates{
     padding: 5px;
