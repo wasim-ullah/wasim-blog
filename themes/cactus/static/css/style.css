@@ -137,11 +137,12 @@ table {
 
 @font-face  {
     font-family: 'AvenirLight';
-    src: url('../fonts/AvenirLTStd-Light.woff2');
+    src: url('../fonts/Avenirltstd-light.woff2');
     src: url('../fonts/avenirltstd-light.otf');
-    src: url('../fonts/AvenirLTStd-Light.svg');
+    src: url('../fonts/Avenirltstd-light.svg');
     src: url('../fonts/avenirltstd-light.ttf');
-    src: url('../fonts/AvenirLTStd-Light.eot');
+    src: url('../fonts/Avenirltstd-light.eot');
+    src: url('../fonts/Avenirltstd-light.woff');
 }
     
     
