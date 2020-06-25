@@ -38,8 +38,13 @@ body {
     border: 2px solid #ff6600;
     color: #ff6600;
     font-size: 16px;
-
 }
+.input-group{
+    background-color:#f6f6ef;
+    padding: 5px;
+    
+}
+   
 h2
 blockquote, q {
     quotes: none
