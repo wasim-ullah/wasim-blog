@@ -622,7 +622,7 @@ Post List
 }
 
 #post-list li+li {
-    padding-top: 20px;
+    padding-top: 3px;
 }
 
 #post-list a {
