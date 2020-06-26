@@ -253,7 +253,7 @@ h2 {
     letter-spacing: 0px;
     font-size: 15px;
     color: #222;
-    'AvenirMedium', Helvetica, Arial, sans-serif;
+    font-family: 'AvenirMedium', Helvetica, Arial, sans-serif;
 }
 
 .profile h2 {
