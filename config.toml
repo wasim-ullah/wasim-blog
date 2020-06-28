@@ -10,7 +10,7 @@ theme = "cactus"
 	description = "Currently, based in Dubai, I have worked as marketing director, growth hacker, full stack marketer and own proven methods to drive a business growth. "
 
 	author = "Wasim Ullah"
-	bio = "Marketing 🇦🇪 🇵🇰"
+	bio = "Marketing 🇦🇪"
 
 	twitter = "wsmulh"
 	facebook = "wsmulh"
@@ -71,7 +71,7 @@ theme = "cactus"
 	subtitle404 = "Come again? Or else."
 	
 	# Sharing options and author information in posts
-	aboutAuthor = "Marketing 🇦🇪 🇵🇰"
+	aboutAuthor = "Marketing 🇦🇪"
 
 iconFont = "font-awesome"
 socialIconStyle = ""
