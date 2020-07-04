@@ -6,7 +6,7 @@ tags: [
     "growth",
 ]
 title: 13 Ways to Pricing An Online Product
-description: In the eyes of Eric Migicovsky.
+description: From free now to pay later.
 weight: 7
 images:
 - images/dps.jpg
