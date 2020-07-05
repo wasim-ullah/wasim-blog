@@ -1460,6 +1460,8 @@ html, body {
 }
 #t1{
     width: 100px;
+    position: absolute;
+    right: 100px;
     }
 #t1 td{
     border: none;
