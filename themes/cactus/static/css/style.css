@@ -148,7 +148,7 @@ table {
     src: url('../fonts/avenirltstd-light.ttf');
     src: url('../fonts/Avenirltstd-light.eot');
     src: url('../fonts/Avenirltstd-light.woff');
-}
+} 
     
     
 [class^="icon-"]:before, [class*=" icon-"]:before {
@@ -212,18 +212,17 @@ html, body {
 
 body {
     font: 13px/1 'AvenirLight', Helvetica, Arial, sans-serif;
-    /* color: #666; */
-
+    color: #666;
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
 }
 
-.main-nav, body, h1, h2, h3, h4,h5, h6{
-     
-    color: white;
-}
 body{
-    background-color: #2F4F4F;
+background-color: #2F4F4F;
+color: white;
+}
+h1,h2,h3{
+    color: white;
 }
 
 background-color: #2F4F4F;
