@@ -219,7 +219,7 @@ body {
 
 body{
 background-color: #2F4F4F;
-color: white;
+color: #d3ded9;
 }
 
 
@@ -513,7 +513,8 @@ em, i {
 }
 
 h3, h4, h5 {
-    color: #333;
+ /*   color: #333;*/
+    color: white;
 }
 
 h3 {
