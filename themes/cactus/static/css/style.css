@@ -221,16 +221,14 @@ body{
 background-color: #2F4F4F;
 color: white;
 }
-h1,h2,h3{
-    color: white;
-}
+
 
 background-color: #2F4F4F;
     color: white;
 h1 {
     font-size: 20px;
     letter-spacing: -1px;
-    /*color: #222;*/
+    color: white;
     font-weight: bold;
 }
 
