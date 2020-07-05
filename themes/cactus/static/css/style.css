@@ -1465,6 +1465,7 @@ html, body {
     }
 #t1 td{
     border: none;
+    text-align: center;
 }
     
 .check {
