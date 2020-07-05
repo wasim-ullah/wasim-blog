@@ -591,7 +591,8 @@ tr>td {
 }
 
 tr:nth-child(odd)>td {
-    background: #fcfcfc;
+   /* background: #fcfcfc;*/
+    
 }
 
 thead th, th {
