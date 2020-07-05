@@ -1,12 +1,14 @@
 <div class="profile">
  
-    <section id="wrapper">
-     <div class="style-switcher">
+       <div class="style-switcher">
       	<label class="switch">
  	     <input type="checkbox" checked>
   	    <span class="slider round"></span>
       	</label>
-     </div>
+      </div>
+ 
+    <section id="wrapper">
+  
      <header id="header">
              <a href='{{ with .Site.Params.avatarLink }}{{ . }}{{ else }}{{ .Site.BaseURL }}about{{ end }}'>
                 <img id="avatar" class="2x" src="{{ .Site.BaseURL }}images/avatar.png"/></a>
