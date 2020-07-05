@@ -1,7 +1,7 @@
 // To make images retina, add a class "2x" to the img element
 // and add a <image-name>@2x.png image. Assumes jquery is loaded.
 
-
+switch_style();
 var style_cookie_name = "style" ;
 var style_cookie_duration = 30 ;
 
