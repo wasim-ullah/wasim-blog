@@ -1445,8 +1445,8 @@ html, body {
   position: absolute;
   top: 50%;
   left: 50%;
-  width: 60px;
-  height: 40px;
+  width: 40px;
+  height: 20px;
   border-radius: 100px;
   background-color: #ddd;
   margin: -20px -40px;
