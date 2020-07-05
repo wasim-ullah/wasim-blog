@@ -4,7 +4,7 @@
 switch_style();
 var style_cookie_name = "style" ;
 var style_cookie_duration = 30 ;
-
+var style_domain;
 function switch_style ( css_title )
 {
   var i, link_tag ;
@@ -12,12 +12,12 @@ function switch_style ( css_title )
     i < link_tag.length ; i++ ) {
     if ((link_tag[i].rel.indexOf( "stylesheet" ) != -1) &&
       link_tag[i].title) {
-      link_tag[i].disabled = true ;
+      link_tag[i].disabled = false ;
       if (link_tag[i].title == css_title) {
-        link_tag[i].disabled = false ;
+        link_tag[i].disabled = true ;
       }
     }
-	  var style_domain;
+	  
     set_cookie( style_cookie_name, css_title, style_cookie_duration, style_domain );
   }
 }
