@@ -262,7 +262,7 @@ h2 {
     letter-spacing: 0px;
     font-size: 15px;
    /* color: #222;*/
-    color: #e6f0ec;
+    color: white;
     font-family: 'AvenirMedium', Helvetica, Arial, sans-serif;
 }
 
@@ -270,7 +270,7 @@ h2 {
     font-size: 13px;
     font-weight: 300;
    /* color: #949494;*/
-    color:white;
+    color:#d3ded9;
     margin-top: 10px;
     font-family: 'AvenirLight', Helvetica, Arial, sans-serif;
     font-style: normal;
