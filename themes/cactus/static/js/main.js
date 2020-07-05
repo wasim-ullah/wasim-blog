@@ -17,8 +17,8 @@ function switch_style ( css_title )
         link_tag[i].disabled = false ;
       }
     }
-    set_cookie( style_cookie_name, css_title,
-      style_cookie_duration, style_domain );
+	  var style_domain;
+    set_cookie( style_cookie_name, css_title, style_cookie_duration, style_domain );
   }
 }
 function set_style_from_cookie()
