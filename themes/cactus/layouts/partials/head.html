@@ -45,8 +45,8 @@
 		{{ .Hugo.Generator }}
 		<title>{{ if .IsHome }}{{ .Title }}{{ else if eq .Title "Blogs"}}Blog{{ else }}{{ .Title }} &middot; {{ .Site.Title }}{{ end }}</title>
 		<link rel="shortcut icon" href="{{ .Site.BaseURL }}images/favicon.ico">
-		<link rel="stylesheet" href="{{ .Site.BaseURL }}css/style.css" title="light">
-		<link rel="alternate stylesheet" href="{{ .Site.BaseURL }}css/original.css" title="dark">
+		<link rel="stylesheet" href="{{ .Site.BaseURL }}css/style.css" title="dark">
+		<link rel="alternate stylesheet" href="{{ .Site.BaseURL }}css/original.css" title="light">
 		<link rel="stylesheet" href="{{ .Site.BaseURL }}css/highlight.css">
 
 
