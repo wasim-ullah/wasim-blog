@@ -15,7 +15,18 @@ function isRetina() {
  
 	return false;
 };
- 
+
+/* Button Actions */
+function buttonAction() {
+  // Get the checkbox
+  var checkBox = document.getElementById("check")
+  // If the checkbox is checked, display the output text
+  if (checkBox.checked == true){
+   changeTheme("original.css");
+  } else {
+   changeTheme("style.css");
+  }
+}
 
 /* These lines will change the themese */
 
