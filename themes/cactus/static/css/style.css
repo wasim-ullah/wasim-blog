@@ -1433,6 +1433,7 @@ div#guide_toc ul>li>ul>li:hover {
   width: 28px;
   height: 18px;
   margin-left: 10px;
+  margin-top: 10px;
 }
 
 .switch input { 
