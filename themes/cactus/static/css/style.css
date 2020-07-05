@@ -1445,8 +1445,8 @@ html, body {
 
 .toggle {
   position: absolute;
-  /* top: 50%;
-  left: 50%; */
+  top: 5%;
+  left: 50%;
   width: 40px;
   height: 20px;
   border-radius: 100px;
