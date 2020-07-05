@@ -16,6 +16,18 @@ function isRetina() {
 	return false;
 };
  
+
+/* These lines will change the themese */
+
+function changeTheme(original) {
+ if (document.styleSheets) {
+  var nStyles = document.styleSheets.length;
+  for (var i=0;i<nStyles;i++) {
+   if (i==k) document.styleSheets[i].disabled = false;
+   else      document.styleSheets[i].disabled = true;
+  }
+ }
+}
  
 function retina() {
 	
