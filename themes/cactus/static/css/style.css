@@ -212,7 +212,8 @@ html, body {
 
 body {
     font: 13px/1 'AvenirLight', Helvetica, Arial, sans-serif;
-    color: #666;
+    /* color: #666; */
+    color: red;
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
 }
