@@ -1459,9 +1459,11 @@ html, body {
   right: 60px;
 }
 #t1{
-    width: 150px;
-    border: none;
+    width: 100px;
     }
+#t1 td{
+    border: none;
+}
     
 .check {
   position: absolute;
