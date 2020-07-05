@@ -16,6 +16,10 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 body {
     line-height: 1
 }
+.toogle #DT{
+    color: white;
+    width: 200px;
+}
 .input-group{
 
     display: inline-block;
