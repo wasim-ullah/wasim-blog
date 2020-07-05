@@ -261,14 +261,16 @@ h2 {
     font-weight: 400;
     letter-spacing: 0px;
     font-size: 15px;
-    color: #222;
+   /* color: #222;*/
+    color: white;
     font-family: 'AvenirMedium', Helvetica, Arial, sans-serif;
 }
 
 .profile h2 {
     font-size: 13px;
     font-weight: 300;
-    color: #949494;
+   /* color: #949494;*/
+    color:#707070;
     margin-top: 10px;
     font-family: 'AvenirLight', Helvetica, Arial, sans-serif;
     font-style: normal;
