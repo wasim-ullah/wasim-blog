@@ -230,7 +230,7 @@ background-color: #2F4F4F;
 h1 {
     font-size: 20px;
     letter-spacing: -1px;
-    color: #222;
+    /*color: #222;*/
     font-weight: bold;
 }
 
