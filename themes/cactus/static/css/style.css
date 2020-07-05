@@ -213,12 +213,21 @@ html, body {
 body {
     font: 13px/1 'AvenirLight', Helvetica, Arial, sans-serif;
     /* color: #666; */
-    background-color: #2F4F4F;
-    color: white;
+
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
 }
 
+.main-nav, body, h1, h2, h3, h4,h5, h6{
+     
+    color: white;
+}
+body{
+    background-color: #2F4F4F;
+}
+
+background-color: #2F4F4F;
+    color: white;
 h1 {
     font-size: 20px;
     letter-spacing: -1px;
