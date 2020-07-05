@@ -1424,7 +1424,6 @@ div#guide_toc ul>li>ul>li:hover {
 
 
 /* Style switching toggle button styling */
-
  * {
  /* margin: 0;
   padding: 0;
@@ -1457,8 +1456,13 @@ html, body {
 }
 #t1{
     width: 200px;
-    border: none;
+    position: absolute;
+    right: 50px;
     }
+#t1 td{
+    border: none;
+    text-align: right;
+}
     
 .check {
   position: absolute;
@@ -1510,3 +1514,4 @@ html, body {
   box-shadow: inset 0 0 0 2px rgba(0,0,0,.05);
   border-radius: 40px;
 }
+
