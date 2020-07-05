@@ -1,11 +1,14 @@
 // To make images retina, add a class "2x" to the img element
 // and add a <image-name>@2x.png image. Assumes jquery is loaded.
 
-switch_style();
+
 var style_cookie_name = "style" ;
 var style_cookie_duration = 30 ;
-var style_domain;
-function switch_style ( dark )
+var style_domain = "http://www.wasim.co";
+
+/* Function */
+
+function switch_style (css_title)
 {
   var i, link_tag ;
   for (i = 0, link_tag = document.getElementsByTagName("link") ;
@@ -13,7 +16,7 @@ function switch_style ( dark )
     if ((link_tag[i].rel.indexOf( "stylesheet" ) != -1) &&
       link_tag[i].title) {
       link_tag[i].disabled = true ;
-      if (link_tag[i].title == css_title) {
+      if (link_tag[i].title == light) {
         link_tag[i].disabled = false ;
       }
     }
