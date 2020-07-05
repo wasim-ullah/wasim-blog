@@ -5,7 +5,7 @@ switch_style();
 var style_cookie_name = "style" ;
 var style_cookie_duration = 30 ;
 var style_domain;
-function switch_style ( css_title )
+function switch_style ( dark )
 {
   var i, link_tag ;
   for (i = 0, link_tag = document.getElementsByTagName("link") ;
