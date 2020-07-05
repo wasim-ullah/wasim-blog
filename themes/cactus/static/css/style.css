@@ -1426,48 +1426,111 @@ div#guide_toc ul>li>ul>li:hover {
 
 }
 /* Style switching toggle button styling */
-$width: 120px;
-$padding: 7px;
-$height: $width / 2 + $padding;
+@import url(https://fonts.googleapis.com/css?family=Sanchez);
 
-//boring layout stuff:
-html { box-sizing: border-box; height: 100% } *, *::before, *::after { box-sizing: inherit; }
-body {display: flex; align-items: center; justify-content: center; min-height: 100vh; background: #f5f5f5; }
+*,
+*::before,
+*::after {
+  transition: 400ms all ease-in-out 50ms;
+  box-sizing: border-box;
+  backface-visibility: hidden;
+}
 
-//toggle code begins!
-.switch-wrap {
+
+
+html,body{ text-align: center; font-family: 'Sanchez', serif;}
+
+input[type="checkbox"] {
+  display: none;
+}
+
+a{ color: rgba(43,43,43,1); text-decoration: none; padding: 10px; border-bottom: 2px solid rgba(43,43,43,1); }
+
+a:hover{ background: rgba(43,43,43,1); color: rgba(255,255,255,1); }
+
+
+/*Button is :CHECKED*/
+
+input[type="checkbox"]:checked ~ div {
+  background: rgba(73,168,68,1);
+  box-shadow: 0 0 2px rgba(73,168,68,1);
+}
+
+input[type="checkbox"]:checked ~ div label {
+  left: 110px;
+  transform: rotate(360deg);
+}
+
+
+/*shared*/
+
+div,
+label {
+  border-radius: 50px;
+}
+
+
+/*'un':checked state*/
+
+div {
+  height: 100px;
+  width: 200px;
+  background: rgba(43, 43, 43, 1);
+  position: relative;
+  top: calc(50vh - 50px);
+  left: calc(50vw - 100px);
+  
+  box-shadow: 0 0 2px rgba(43,43,43,1);
+  
+}
+
+label {
+  height: 80px;
+  width: 80px;
+  background: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 10px;
+  left: 10px;
   cursor: pointer;
-  background: #15273b;
-  padding: $padding;
-  width: $width;
-  height: $height;
-  border-radius: $height / 2;
-  input {
-    position: absolute;
-    opacity: 0;
-    width: 0;
-    height: 0;
-  }
 }
-.switch {
-  height: 100%;
-  display: grid;
-  grid-template-columns: 0fr 1fr 1fr;
-  transition: .2s;
-  //ICYMI, pseudo elements are treated as grid items
-  &::after {
-    content: '';
-    border-radius: 50%;
-    background: #ccc;
-    grid-column: 2;
-    transition: background .2s;
-  }
+
+label::before {
+  content: '';
+  height: 60px;
+  width: 5px;
+  position: absolute;
+  top: calc(50% - 30px);
+  left: calc(50% - 2.5px);
+  transform: rotate(45deg);
 }
-input:checked {
-  + .switch {
-    grid-template-columns: 1fr 1fr 0fr; 
-    &::after {
-      background-color: #52cf71;
-    }
-  }
+
+label::after {
+  content: '';
+  height: 5px;
+  width: 60px;
+  position: absolute;
+  top: calc(50% - 2.5px);
+  left: calc(50% - 30px);
+  transform: rotate(45deg);
+}
+
+label::before,
+label::after{
+  background: rgba(43,43,43,1);
+  border-radius: 5px;
+}
+
+/* pesduo class on toggle */
+
+input[type="checkbox"]:checked ~ div label::before{
+  height: 50px;
+  top: calc(55% - 25px);
+  left: calc(60% - 2.5px);
+  background: rgba(73,168,68,1);
+}
+input[type="checkbox"]:checked ~ div label::after{
+  width: 20px;
+  top: calc(95% - 25px);
+  left: calc(22.5% - 2.5px);
+  background: rgba(73,168,68,1);
 }
