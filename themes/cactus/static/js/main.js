@@ -1,12 +1,13 @@
 // To make images retina, add a class "2x" to the img element
 // and add a <image-name>@2x.png image. Assumes jquery is loaded.
 
+/*
 
 var style_cookie_name = "style" ;
 var style_cookie_duration = 30 ;
 var style_domain = "http://www.wasim.co";
 
-/* Function */
+
 
 function switch_style (css_title)
 {
@@ -56,7 +57,7 @@ function get_cookie ( cookie_name )
 		}
 	}
 	return '' ;
-}
+}*/
 //****************************************************************************************************************
  
 function isRetina() {
