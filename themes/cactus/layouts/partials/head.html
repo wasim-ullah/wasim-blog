@@ -9,7 +9,13 @@
 		{{ end }}
 		{{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
 		{{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
-
+		
+	<!-- CDN link for the pretty checkbox -->
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pretty-checkbox@3.0/dist/pretty-checkbox.min.css" /> <!-- Linked -->
+	
+	<!-- import pretty check box CSS -->
+	@import '~pretty-checkbox/src/pretty-checkbox.scss';
+		
         <!-- Start of Open Graph -->
         <meta property="og:title" content="{{ .Title }}">
         {{ if .IsHome }}
