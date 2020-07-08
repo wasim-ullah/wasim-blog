@@ -24,6 +24,46 @@ body {
     
    
 }
+/* Clickable theme change button with animation */
+
+.gWjHTB {
+    right: 50px;
+}
+
+.gWjHTB {
+    position: fixed;
+    top: 0px;
+    right: 10px;
+    margin-top: 10px;
+    padding: 10px;
+    display: flex;
+    cursor: pointer;
+    user-select: none;
+    z-index: 101;
+    transition: padding 0.6s cubic-bezier(0.2, 0.8, 0.2, 1) 0s;
+}
+
+.kdPiXS {
+    position: absolute;
+    left: 0px;
+    width: 20px;
+    height: 20px;
+    opacity: 0;
+    transition: opacity 0.6s cubic-bezier(0.2, 0.8, 0.2, 1) 0s, transform 0.6s cubic-bezier(0.2, 0.8, 0.2, 1) 0s;
+    transform: rotate(360deg);
+}
+
+.dNwwET {
+    opacity: 1;
+    transform: rotate(0deg);
+    left: 0px;
+    position: absolute;
+    height: 20px;
+    width: 20px;
+    transition: opacity 0.6s ease-out 0s, transform 0.6s cubic-bezier(0.2, 0.8, 0.2, 1) 0s;
+}
+
+
 .input-group .btn{
     diplay: inline-block;
     background-color: #000;
