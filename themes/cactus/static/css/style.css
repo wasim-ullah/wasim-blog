@@ -13,7 +13,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 body {
   margin:0;
   padding:0;
-  background:grey;
+  background:white;
   transition: background 0.4s linear;
 }
 
@@ -36,8 +36,8 @@ input[type="checkbox"] {
   box-shadow: 0 0 0 4px #353535, 0 0 0 5px #3e3e3e, inset 0 0 10px rgba(0,0,0,1);
 }
 body.dark{
-  background-color: white;
-  color: black;
+  background-color: gray;
+  color: white;
 }
 input:checked[type="checkbox"]:nth-of-type(1) {
   background: linear-gradient(0deg, #e67e22, #f39c12);
