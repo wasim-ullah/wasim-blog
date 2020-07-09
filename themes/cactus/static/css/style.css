@@ -19,8 +19,8 @@ body {
 
 .center {
   position:absolute;
-  left:50%;
-  top:50%;
+  top: 40px;
+  right: 10px;
   transform:translate(-50%, -50%);
 }
 
