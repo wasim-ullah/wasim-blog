@@ -98,7 +98,12 @@
 
 {{ partial "js.html" . }}
 
-/* REACT */
-<script src="https://unpkg.com/react@16/umd/react.development.js" crossorigin></script>
-<script src="https://unpkg.com/react-dom@16/umd/react-dom.development.js" crossorigin></script>
+
+<script>
+const checkbox = document.getElementById('checkbox'); 
+checkbox.addEventListener('change',()=>{
+  document.body.classList.toggle('dark');
+  
+});
+</script>
 </body>
