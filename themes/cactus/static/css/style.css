@@ -17,16 +17,6 @@ body {
   transition: background 0.4s linear;
 }
 
-.center {
-  position:absolute;
-  top: 60px;
-  right: 0px;
-  transform:translate(-50%, -50%);
-}
-
-
-
-
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
     display: block
 }
