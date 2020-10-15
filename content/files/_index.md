@@ -6,4 +6,11 @@ draft: false
 
 Please download my selected portfolio items from <a href="https://app.box.com/s/5ogxazr1sn9mc0ahh4xrubed7saowdgt" target="_blank">here</a>. I am happy to answer further questions through my email wasim@hey.com.
 
+Advertisements:
+
 <div class="fb-post" data-href="https://www.facebook.com/buyanyinsurancear/posts/1708900389273733" data-show-text="true" data-width=""><blockquote cite="https://www.facebook.com/buyanyinsurancear/posts/1708900389273733" class="fb-xfbml-parse-ignore">Posted by ‎<a href="https://www.facebook.com/buyanyinsurancear/">باي أني انشورنس</a>‎ on&nbsp;<a href="https://www.facebook.com/buyanyinsurancear/posts/1708900389273733">Thursday, October 15, 2020</a></blockquote></div>
+
+<div class="fb-post" data-href="https://www.facebook.com/BuyAnyInsurance/posts/1685635784951082" data-show-text="true" data-width=""><blockquote cite="https://www.facebook.com/BuyAnyInsurance/posts/1685635784951082" class="fb-xfbml-parse-ignore"><p>😲 Car Insurance &#064; AED 553 (including VAT)
+➡️ Get In Touch To Check Your Eligibility</p>Posted by <a href="https://www.facebook.com/BuyAnyInsurance/">Buy Any Insurance</a> on&nbsp;<a href="https://www.facebook.com/BuyAnyInsurance/posts/1685635784951082">Thursday, October 8, 2020</a></blockquote></div>
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Fbuyinsuranceae%2Fvideos%2F994314624318003%2F&show_text=true&width=476" width="476" height="591" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
