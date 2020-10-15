@@ -8,8 +8,6 @@ Please download my selected portfolio items from <a href="https://app.box.com/s/
 
 Advertisements:
 
-<div class="fb-post" data-href="https://www.facebook.com/buyanyinsurancear/posts/1708900389273733" data-show-text="true" data-width=""><blockquote cite="https://www.facebook.com/buyanyinsurancear/posts/1708900389273733" class="fb-xfbml-parse-ignore">Posted by ‎<a href="https://www.facebook.com/buyanyinsurancear/">باي أني انشورنس</a>‎ on&nbsp;<a href="https://www.facebook.com/buyanyinsurancear/posts/1708900389273733">Thursday, October 15, 2020</a></blockquote></div>
-
 <div class="fb-post" data-href="https://www.facebook.com/BuyAnyInsurance/posts/1685635784951082" data-show-text="true" data-width=""><blockquote cite="https://www.facebook.com/BuyAnyInsurance/posts/1685635784951082" class="fb-xfbml-parse-ignore"><p>😲 Car Insurance &#064; AED 553 (including VAT)
 ➡️ Get In Touch To Check Your Eligibility</p>Posted by <a href="https://www.facebook.com/BuyAnyInsurance/">Buy Any Insurance</a> on&nbsp;<a href="https://www.facebook.com/BuyAnyInsurance/posts/1685635784951082">Thursday, October 8, 2020</a></blockquote></div>
 
