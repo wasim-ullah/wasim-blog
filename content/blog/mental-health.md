@@ -1,6 +1,6 @@
 ---
 author: "Wasim Ullah"
-date: 2020-12-31T18:30:00
+date: 2020-12-30T18:30:00
 linktitle: Types of Mental Health Problems
 tags: [
     "opinion",
