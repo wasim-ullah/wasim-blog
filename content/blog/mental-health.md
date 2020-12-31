@@ -6,7 +6,7 @@ tags: [
     "opinion",
 ]
 title: Types of Mental Health Problems
-description: Broadly speaking, a sales funnel consists of three steps called awareness, interest, and decision. It is also known misquoted as marketing funnel.
+description: We should learn about different types of mental health problems.
 weight: 7
 images:
 - images/mh.jpg
