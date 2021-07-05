@@ -258,8 +258,17 @@ html, body {
     height: 100%;
 }
 
+/* Clickable theme change button with animation 
 body {
     font: 13px/1 'AvenirLight', Helvetica, Arial, sans-serif;
+    color: #666;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+}
+*/
+
+body {
+    font: 13px/1 'Space Grotesk', sans-serif;
     color: #666;
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
