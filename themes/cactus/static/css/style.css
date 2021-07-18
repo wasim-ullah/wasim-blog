@@ -280,14 +280,9 @@ h1 {
     color: #222;
     font-weight: bold;
 }
-/*
-h2 {
-    font: italic 19px/1.3em Georgia, serif;
-    color: #bbb;
-}*/
 
 h2 {
-    font: italic 19px/1.3em 'Space Grotesk', sans-serif;
+    font: italic 19px/1.3em Georgia, serif;
     color: #bbb;
 }
 
@@ -316,7 +311,7 @@ h2 {
     letter-spacing: 0px;
     font-size: 15px;
     color: #222;
-    font-family: 'Space Grotesk', sans-serif;
+    font-family: 'AvenirMedium', Helvetica, Arial, sans-serif;
 }
 
 .profile h2 {
@@ -324,7 +319,7 @@ h2 {
     font-weight: 300;
     color: #949494;
     margin-top: 10px;
-    font-family: 'Space Grotesk', sans-serif;
+    font-family: 'AvenirLight', Helvetica, Arial, sans-serif;
     font-style: normal;
 }
 
@@ -367,7 +362,7 @@ nav.main-nav a.cta {
       padding: 8px 8px;
       color: #949494;
       font-size: 11px;
-      font-family: 'Space Grotesk', sans-serif;
+      font-family: 'AvenirMedium', Helvetica, Arial, sans-serif;
       line-height: 1.35;
       border-radius: 3px;
   }
@@ -504,7 +499,7 @@ em, i {
 
 .description {
     float: right;
-    font: italic 14px/1.4em 'Space Grotesk', sans-serif;
+    font: italic 14px/1.4em Georgia, serif;
     color: #aaa;
 }
 
@@ -516,7 +511,7 @@ em, i {
 }
 
 .home h2 {
-    font: 300 15px/1.5 'Space Grotesk', sans-serif;
+    font: 300 15px/1.5 'AvenirMedium', Helvetica, Arial, sans-serif;
     color: #444;
 }
 
@@ -528,18 +523,18 @@ em, i {
     margin-top: 0px;
     margin-bottom: 20px;
     color: #222;
-    font: 300 20px/1.4em 'Space Grotesk', sans-serif;
+    font: 300 20px/1.4em 'AvenirMedium', Helvetica, Arial, sans-serif;
 }
 
 .post h2 {
     margin-top: 20px;
     margin-bottom: 10px;
-    font: 300 15px/1.5 'Space Grotesk', sans-serif;
+    font: 300 15px/1.5 'AvenirMedium', Helvetica, Arial, sans-serif;
     color: #111;
 }
 
 .post h2.headline {
-    font: normal 10px/1.5em 'Space Grotesk', sans-serif;
+    font: normal 10px/1.5em 'AvenirMedium', Helvetica, Arial, sans-serif;
     margin: -5px 0 0 0;
     color: #b2b9be;
     font-size: 10px;
@@ -548,7 +543,7 @@ em, i {
 }
 
 .post h2.headline .tags {
-    font: normal 10px/1.5em 'Space Grotesk', sans-serif;
+    font: normal 10px/1.5em 'AvenirLight', Helvetica, Arial, sans-serif;
     margin: -5px 0 40px 0;
     color: #b2b9be;
     font-size: 10px;
@@ -559,7 +554,7 @@ em, i {
 }
 
 #post-list h2 {
-    font: normal 13px/1.5em 'Space Grotesk', sans-serif;
+    font: normal 13px/1.5em 'AvenirLight', Helvetica, Arial, sans-serif;
     color: #aaa;
     margin-top: 2px;
 }
@@ -571,7 +566,7 @@ h3, h4, h5 {
 h3 {
     font-size: 15px;
     font-weight: 400;
-    font-family: 'Space Grotesk', sans-serif;
+    font-family: 'AvenirMedium', Helvetica, Arial, sans-serif;
 }
 
 h4 {
@@ -695,14 +690,14 @@ Post List
 #post-list a {
     color: #333;
     display: block;
-    font: bold 15px/1.7 'Space Grotesk', sans-serif;
+    font: bold 15px/1.7 'AvenirMedium', Helvetica, Arial, sans-serif;
 }
 
 #post-list .dates {
     float: right;
     position: relative;
     top: 1px;
-    font: 300 12px/1.8 'Space Grotesk', sans-serif;
+    font: 300 12px/1.8 'AvenirLight', Helvetica, Arial, sans-serif;
     color: #bbb;
 }
 
@@ -869,7 +864,7 @@ h1.archive {
 
 h2.month {
     width: 100%;
-    font: bold 13px/1 'Space Grotesk', sans-serif;
+    font: bold 13px/1 'AvenirLight', Helvetica, Arial, sans-serif;
     text-transform: uppercase;
     margin-top: 40px;
     margin-bottom: 10px;
@@ -883,7 +878,7 @@ h2.month {
 
 #archive-list a {
     display: block;
-    font: bold 17px/1.7 'Space Grotesk', sans-serif;
+    font: bold 17px/1.7 'AvenirMedium', Helvetica, Arial, sans-serif;
     color: #333;
 }
 
@@ -891,7 +886,7 @@ h2.month {
     float: right;
     position: relative;
     top: 1px;
-    font: 300 17px/1.7 'Space Grotesk', sans-serif;
+    font: 300 17px/1.7 'AvenirLight', Helvetica, Arial, sans-serif;
     color: #bbb;
 }
 
@@ -916,12 +911,12 @@ h2.month {
     margin-bottom: 0px;
 }
 #post-list.archive.readmore h3 {
-    font: 400 15px 'Space Grotesk', sans-serif;
+    font: 400 15px 'AvenirLight', Helvetica, Arial, sans-serif;
     margin-bottom: 30px;
 }
 
 #post-list.archive.readmore a {
-    font: 400 13px/1.6 'Space Grotesk', sans-serif;
+    font: 400 13px/1.6 'AvenirMedium', Helvetica, Arial, sans-serif;
     color: #949494;
 }
 
@@ -930,7 +925,7 @@ h2.month {
 }
 
 #post-list.archive.readmore .dates {
-    font: 300 10px/1.6 'Space Grotesk', sans-serif;
+    font: 300 10px/1.6 'AvenirLight', Helvetica, Arial, sans-serif;
 }
 
 #disqus_thread, #ds-thread {
@@ -1084,7 +1079,7 @@ a.symbol:hover {
   box-shadow: inset 0 0 0 1px #eee;
   border-radius: 4px;
   overflow: hidden;
-  font-family: 'Space Grotesk', sans-serif;
+  font-family: 'AvenirLight', Helvetica, Arial, sans-serif;
 }
 #TableOfContents {
   margin: 1em 0 0 0;
@@ -1109,7 +1104,7 @@ a.symbol:hover {
   padding: 0;
 }
 #TableOfContents a code{
-  font-family: 'Space Grotesk', sans-serif;
+  font-family: 'AvenirLight', Helvetica, Arial, sans-serif;
   background-color: #fff;
   font-size: 11px;
   padding: 2px 3px;
@@ -1230,13 +1225,13 @@ a.symbol:hover {
     padding: 2px 6px 0;
     border-radius: 1px;
     color: #222;
-    font: 300 15px/1.5 'Space Grotesk', sans-serif;
+    font: 300 15px/1.5 'AvenirMedium', Helvetica, Arial, sans-serif;
     text-align: center;
     letter-spacing: -.05px;
 }
 
 .home-guide-subheader {
-    font: 300 13px/1.5 'Space Grotesk', sans-serif;
+    font: 300 13px/1.5 'AvenirMedium', Helvetica, Arial, sans-serif;
     color: #949494;
     letter-spacing: -.05px;
 }
@@ -1300,7 +1295,7 @@ a.symbol:hover {
     /* margin-top: 54px; */
     float: none;
     text-shadow: -1px -1px 6px rgba(173,222,255,.25), 1px 0 0 #717171;
-    font-family: 'Space Grotesk', sans-serif;
+    font-family: 'AvenirLight',Tahoma,sans-serif;
 }
 
 .guide_container h2 {
@@ -1398,7 +1393,7 @@ a.symbol:hover {
 }
 
 .expand span.h2{
-    font: italic 19px/1.3em 'Space Grotesk', sans-serif;
+    font: italic 19px/1.3em Georgia, serif;
     color: #bbb;
 }
 .division-toggle.h2 {
