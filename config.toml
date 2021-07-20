@@ -71,7 +71,7 @@ theme = "cactus"
 	subtitle404 = "We were not expecting that."
 	
 	# Sharing options and author information in posts
-	aboutAuthor = "Marketing🇪"
+	aboutAuthor = "Marketing"
 
 iconFont = "font-awesome"
 socialIconStyle = ""
@@ -99,6 +99,7 @@ socialIconStyle = ""
 
 [social]
 linkedin-square = "https://www.linkedin.com/in/wasim-ullah/"
+twitter-square = "https://twitter.com/in/wasimxullah/"
 
 [privacy]
   [privacy.disqus]
