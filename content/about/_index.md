@@ -5,7 +5,7 @@ draft: false
 ---
 ## Work
 Download the file by clicking <a href="https://wasim.co/docs/profile.pdf">here</a>.
-
+<br><br>
 ## Skills
 
 | Skills | Portfolio |
