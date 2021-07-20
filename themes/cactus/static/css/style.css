@@ -304,6 +304,7 @@ h2 {
     height: 95px;
     border-radius: 50%;
     margin-bottom: 20px;
+    border: 5px solid #E2F7EC;
 }
 
 .profile h1 {
