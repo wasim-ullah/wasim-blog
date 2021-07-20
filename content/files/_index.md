@@ -5,3 +5,9 @@ draft: false
 ---
 
 Download the file by clicking <a href="https://wasim.co/docs/profile.pdf">here</a>.
+
+<object data="https://wasim.co/docs/profile.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://wasim.co/docs/profile.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://wasim.co/docs/profile.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
