@@ -6,7 +6,6 @@ draft: false
 ## Work
 Download the file by clicking <a href="https://wasim.co/docs/profile.pdf">here</a>.
 <br><br>
-## Skills
 
 | Skills | Portfolio |
 | ------ | ----------- |
@@ -21,15 +20,10 @@ Download the file by clicking <a href="https://wasim.co/docs/profile.pdf">here</
 | Writing    | Personal Blog, Insurance Website |
 
 ## Achievements
-Earlier in career:<br>
 <ol>
 <li>Redesigned logos, business stationery, brochures, profiles, physical branding, and websites of eight multinational companies based out of Dubai in three months,</li>
 <li>Created viral content and received more than one million views for a Facebook page in two weeks,</li>
 <li>Generated over twenty five thousand leads for enrollments across five different campuses,</li>
-</ol>
-        
-During schooling:<br>
-<ol>
 <li>Received a primary distinction in the calligraphy competition held across colleges,</li>
 <li>Merit scholarship in eighth grade,</li>
 <li>Honorary mention in the dean's list for maintaining top positions for consecutive years in annual examinations.</li>
