@@ -19,7 +19,7 @@ Download the file by clicking <a href="https://wasim.co/docs/profile.pdf">here</
 | Emails    | Medical Consultancy, Insurance Website, Personal Blog |
 | Writing    | Personal Blog, Insurance Website |
 
-## Wins
+## Wins <br>
 <ol>
 <li>Redesigned logos, business stationery, brochures, profiles, physical branding, and websites of eight multinational companies based out of Dubai in three months,</li>
 <li>Created viral content and received more than one million views for a Facebook page in two weeks,</li>
