@@ -450,6 +450,7 @@ a, #post-nav a, #post-list a {
     -ms-transition: all 0.15s ease;
     -o-transition: all 0.15s ease;
     transition: all 0.15s ease;
+    color: #a3c4d4
 }
 
 ul {
