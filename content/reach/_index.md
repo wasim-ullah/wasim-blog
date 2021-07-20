@@ -5,5 +5,5 @@ draft: false
 ---
 
 <center>
-Email: wasim[dot]ullah[at]aol[dot]com
+Email me at wasim.ullah@aol.com
 </center>
