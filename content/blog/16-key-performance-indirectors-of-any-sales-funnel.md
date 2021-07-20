@@ -1,11 +1,11 @@
 ---
 author: "Wasim Ullah"
 date: 2018-11-16T18:30:00
-linktitle: 16 KPIs Of Any Sales Funnel
+linktitle: KPIs of a basic sales funnel
 tags: [
     "sales",
 ]
-title: 16 KPIs Of Any Sales Funnel
+title: KPIs of a basic sales funnel
 description: How will you measure a sales funnel progress?
 weight: 10
 twitterCardImage: ("/images/funnel.jpg")
