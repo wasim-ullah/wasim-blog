@@ -268,7 +268,7 @@ body {
 */
 
 body {
-    font: 13px/1 'Space Grotesk', sans-serif;
+    font: 13px/1 'AvenirMedium', Helvetica, Arial, sans-serif;
     color: #666;
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
@@ -282,7 +282,7 @@ h1 {
 }
 
 h2 {
-    font: italic 19px/1.3em Georgia, serif;
+    font: italic 19px/1.3em 'AvenirMedium', Helvetica, Arial, sans-serif;
     color: #bbb;
 }
 
