@@ -68,7 +68,7 @@ theme = "cactus"
 
 	# 404 page
 	title404 = "Page 404"
-	subtitle404 = "Come again? Or else."
+	subtitle404 = "We were not expecting that."
 	
 	# Sharing options and author information in posts
 	aboutAuthor = "Marketing🇪"
