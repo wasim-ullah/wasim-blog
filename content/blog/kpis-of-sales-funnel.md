@@ -58,3 +58,6 @@ This is a sweetheart of a marketing department. Your referrals are a tasty sugar
   <li>Invites accepted</li>
   <li>Referral Rate</li>
 </ul>  
+
+## Take Aways
+Out of the above basic stages in a sales funnel, which one seems the most challenging to you? Every stage has its own unique value so it can't be underrated. The KPIs listed above are a fraction of the actual mass number of possibilities that you can customize for your business. While every business and every team within that business would have to divide and clarify their goals, two of them can't say that their KPIs are the same, although their direction should be similar. So every marketing campaign should also have distinct value points so that it can be measured and optimized to achieve its unique value which would otherwise won't make sense to run two campaigns burning money on two sides for no reason.
