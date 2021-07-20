@@ -4,14 +4,14 @@
 		<a href='{{ .Site.BaseURL }}'> <span class="arrow">←</span>{{ with .Site.Params.home }}{{ . }}{{ else }}Home{{ end }}</a>
 	{{ end }}
 	<a href='{{ .Site.BaseURL }}about'>{{ with .Site.Params.about }}{{ . }}{{ else }}About{{ end }}</a>
-	<a href='{{ .Site.BaseURL }}services'>{{ with .Site.Params.about }}{{ . }}{{ else }}Skills Set{{ end }}</a>
+	<a href='{{ .Site.BaseURL }}services'>{{ with .Site.Params.about }}{{ . }}{{ else }}Skills{{ end }}</a>
 	<a href='{{ .Site.BaseURL }}blog'>{{ with .Site.Params.about }}{{ . }}{{ else }}Blog{{ end }}</a>
 	<a href='{{ .Site.BaseURL }}reach'>{{ with .Site.Params.about }}{{ . }}{{ else }}Contact{{ end }}</a>
 	{{ range $key, $val := .Site.Params.Links }}
 		<a href="{{ $val }}">{{ $key }}</a>
 	{{ end }}
 	
-	<a class="cta" href='{{ .Site.BaseURL }}files'>{{ with .Site.Params.about }}{{ . }}{{ else }}Past Work{{ end }}</a>
+	<a class="cta" href='{{ .Site.BaseURL }}files'>{{ with .Site.Params.about }}{{ . }}{{ else }}Work{{ end }}</a>
 	
 
 </nav>
