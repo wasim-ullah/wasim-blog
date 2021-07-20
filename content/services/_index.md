@@ -4,7 +4,7 @@ date: 2018-11-08T19:41:41+04:00
 draft: false
 ---
 
-| Area | Business |
+| Skills | Portfolio |
 | ------ | ----------- |
 | Design   | Construction Company, Insurance Website, Educational Institute, Non Profit Organization, Medical Consultancy, Advertising Agency |
 | Website | Construction Company, Digital Marketing Agency, Advertising Agency, E-commerce Stores, Electrical Company, Aluminum Company, Roofing Company, Swimming Pools Company |
