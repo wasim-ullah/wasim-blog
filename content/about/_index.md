@@ -3,9 +3,22 @@ title: "About"
 date: 2018-11-08T19:41:41+04:00
 draft: false
 ---
+## Work
+Download the file by clicking <a href="https://wasim.co/docs/profile.pdf">here</a>.
 
-With extensive experience in building a strong brand presence across all the digital media platforms with a sales funnel, I craft and implement successful digital marketing strategies. That will earn any startup, small and medium-sized businesses best on their ROI.<br>
+## Skills
 
+| Skills | Portfolio |
+| ------ | ----------- |
+| Design   | Construction Company, Insurance Website, Educational Institute, Non Profit Organization, Medical Consultancy, Advertising Agency |
+| Website | Construction Company, Digital Marketing Agency, Advertising Agency, E-commerce Stores, Electrical Company, Aluminum Company, Roofing Company, Swimming Pools Company |
+| Advertising    | Non Profit Organization, Insurance Website, Educational Institute, Non Profit Organization |
+| Social    | Educational Institute, Water Filteration Company, Insurance Website, Advertising Agency, Medical Consultancy, E-commerce Store |
+| Search    | Medical Consultancy, Insurance Website, Ecommerce Store |
+| Video    | Aluminum Company, Insurance Website, Migration Consultancy, Events, Advertising Agencies |
+| Analytics    | Advertising Agency, Insurance Website, Medical Consultancy, Non Profit Organization |
+| Emails    | Medical Consultancy, Insurance Website, Personal Blog |
+| Writing    | Personal Blog, Insurance Website |
 
 ## Achievements
 Earlier in career:<br>
@@ -13,7 +26,6 @@ Earlier in career:<br>
 <li>Redesigned logos, business stationery, brochures, profiles, physical branding, and websites of eight multinational companies based out of Dubai in three months,</li>
 <li>Created viral content and received more than one million views for a Facebook page in two weeks,</li>
 <li>Generated over twenty five thousand leads for enrollments across five different campuses,</li>
-<li>Started out as social media strategist, promoted to lead the entire digital media workload.</li>
 </ol>
         
 During schooling:<br>
@@ -22,6 +34,8 @@ During schooling:<br>
 <li>Merit scholarship in eighth grade,</li>
 <li>Honorary mention in the dean's list for maintaining top positions for consecutive years in annual examinations.</li>
 </ol>
+
+<!––
 
 <br>
 ## <center>Detailed Background</center>
@@ -113,3 +127,5 @@ Worked with multiple clients to serve them across all the marketing platforms an
 ## 2019
 BuyAnyInsurance.com – Digital Marketing Manager later Marketing Director:<br>
 Wasn’t offered the job initially, later I was reached out by the company itself. Replaced its key people to offer those services to the company. Exceeded the expectations in key performance indicators in my role.
+
+––>
