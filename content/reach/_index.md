@@ -5,6 +5,5 @@ draft: false
 ---
 
 <center>
-Email: wasim@hey.com<br><br>
-LinkedIn: linkedin.com/in/wasim-ullah
+Email: wasim[dot]ullah[at]aol[dot]com
 </center>
