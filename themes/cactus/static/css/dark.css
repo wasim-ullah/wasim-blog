@@ -92,7 +92,7 @@ video {
 body {
   margin: 0;
   padding: 0;
-  background: white;
+  background: #15202b;
   transition: background 0.4s linear;
 }
 
@@ -366,7 +366,7 @@ body {
 
 body {
   font: 13px/1 "AvenirMedium", Helvetica, Arial, sans-serif;
-  color: #666;
+  color: #b3b3b3;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
 }
@@ -374,13 +374,13 @@ body {
 h1 {
   font-size: 20px;
   letter-spacing: -1px;
-  color: #222;
+  color: #ffffff;
   font-weight: bold;
 }
 
 h2 {
   font: italic 19px/1.3em "AvenirMedium", Helvetica, Arial, sans-serif;
-  color: #bbb;
+  color: #b3b3b3;
 }
 
 .profile #wrapper {
@@ -408,14 +408,14 @@ h2 {
   font-weight: 400;
   letter-spacing: 0px;
   font-size: 15px;
-  color: #222;
+  color: #ffffff;
   font-family: "AvenirMedium", Helvetica, Arial, sans-serif;
 }
 
 .profile h2 {
   font-size: 13px;
   font-weight: 300;
-  color: #949494;
+  color: #b3b3b3;
   margin-top: 10px;
   font-family: "AvenirLight", Helvetica, Arial, sans-serif;
   font-style: normal;
@@ -424,7 +424,7 @@ h2 {
 nav.main-nav {
   padding: 20px 20px 0;
   background: #fff;
-  background: rgba(255, 255, 255, 0.9);
+  background: #15202b;
   margin: 0 auto;
   text-align: right;
   z-index: 100;
@@ -434,7 +434,7 @@ nav.main-nav a {
   top: 8px;
   right: 6px;
   padding: 8px 12px;
-  color: #555555;
+  color: #b3b3b3;
   font-size: 10px;
   line-height: 1.35;
   border-radius: 3px;
@@ -451,7 +451,7 @@ nav.main-nav.test {
 
 nav.main-nav a.cta {
   background: #e2f7ec;
-  color: #000000;
+  color: #ffffff;
   margin-left: 12px;
 }
 @media (max-width: 700px) {
@@ -467,7 +467,7 @@ nav.main-nav a.cta {
     top: 8px;
     right: 6px;
     padding: 8px 8px;
-    color: #949494;
+    color: #b3b3b3;
     font-size: 11px;
     font-family: "AvenirMedium", Helvetica, Arial, sans-serif;
     line-height: 1.35;
@@ -477,7 +477,7 @@ nav.main-nav a.cta {
     top: 2px;
     right: 6px;
     padding: 8px 8px;
-    color: #949494;
+    color: #b3b3b3;
     font-size: 11px;
     font-family: "AvenirMedium", Helvetica, Arial, sans-serif;
     line-height: 1.35;
@@ -544,8 +544,8 @@ a,
 #post-list a:hover,
 #title:hover {
   text-decoration: none;
-  color: #949494;
-  color: #707070;
+  color: #b3b3b3;
+  color: #b3b3b3;
 }
 
 p a {
@@ -603,7 +603,7 @@ p {
 b,
 strong {
   font-weight: 500;
-  color: #1e2025;
+  color: #ffffff;
 }
 
 em,
@@ -623,19 +623,19 @@ i {
 .description {
   float: right;
   font: italic 14px/1.4em Georgia, serif;
-  color: #aaa;
+  color: #b3b3b3;
 }
 
 .home h1 {
   font-size: 30px;
   letter-spacing: -1px;
-  color: #222;
+  color: #ffffff;
   font-weight: bold;
 }
 
 .home h2 {
   font: 300 15px/1.5 "AvenirMedium", Helvetica, Arial, sans-serif;
-  color: #444;
+  color: #b3b3b3;
 }
 
 .post header {
@@ -645,7 +645,7 @@ i {
 .post h1 {
   margin-top: 0px;
   margin-bottom: 20px;
-  color: #222;
+  color: #ffffff;
   font: 300 20px/1.4em "AvenirMedium", Helvetica, Arial, sans-serif;
 }
 
@@ -653,13 +653,13 @@ i {
   margin-top: 20px;
   margin-bottom: 10px;
   font: 300 15px/1.5 "AvenirMedium", Helvetica, Arial, sans-serif;
-  color: #111;
+  color: #ffffff;
 }
 
 .post h2.headline {
   font: normal 10px/1.5em "AvenirMedium", Helvetica, Arial, sans-serif;
   margin: -5px 0 0 0;
-  color: #b2b9be;
+  color: #b3b3b3;
   font-size: 10px;
   letter-spacing: 1px;
   display: inline-block;
@@ -668,7 +668,7 @@ i {
 .post h2.headline .tags {
   font: normal 10px/1.5em "AvenirLight", Helvetica, Arial, sans-serif;
   margin: -5px 0 40px 0;
-  color: #b2b9be;
+  color: #b3b3b3;
   font-size: 10px;
   text-transform: uppercase;
   letter-spacing: 2px;
@@ -678,14 +678,14 @@ i {
 
 #post-list h2 {
   font: normal 13px/1.5em "AvenirLight", Helvetica, Arial, sans-serif;
-  color: #aaa;
+  color: #b3b3b3;
   margin-top: 2px;
 }
 
 h3,
 h4,
 h5 {
-  color: #333;
+  color: #ffffff;
 }
 
 h3 {
@@ -707,12 +707,12 @@ h5 {
 h6 {
   font-size: 13px;
   font-weight: bold;
-  color: #666;
+  color: #b3b3b3;
   margin-bottom: 6px;
 }
 
 p.small {
-  color: #bbb;
+  color: #b3b3b3;
   font-size: 11px;
   line-height: 1.5;
   display: block;
@@ -772,7 +772,7 @@ th {
   height: 20px;
   font-size: 13px;
   font-weight: bold;
-  color: #444;
+  color: #ffffff;
   border-bottom: 1px solid #dadadc;
   cursor: default;
   white-space: nowrap;
@@ -816,7 +816,7 @@ Post List
 }
 
 #post-list a {
-  color: #333;
+  color: #ffffff;
   display: block;
   font: bold 15px/1.7 "AvenirMedium", Helvetica, Arial, sans-serif;
 }
@@ -826,7 +826,7 @@ Post List
   position: relative;
   top: 1px;
   font: 300 12px/1.8 "AvenirLight", Helvetica, Arial, sans-serif;
-  color: #bbb;
+  color: #b3b3b3;
 }
 
 #post-list-footer {
@@ -881,18 +881,18 @@ Post List
   margin-bottom: 40px;
   padding-bottom: 40px;
   margin-top: 40px;
-  color: #444;
+  color: #ffffff;
   border-bottom: 1px solid #eee;
 }
 
 #post-meta div span {
-  color: #aaa;
+  color: #b3b3b3;
   font-weight: 500;
   display: block;
 }
 
 #post-meta div span.dark {
-  color: #1e2025;
+  color: #ffffff;
 }
 
 #post-meta div {
@@ -910,7 +910,7 @@ Post List
   font-size: 11px;
   margin-left: 1px;
   margin-top: 4px;
-  color: #d4d4d4;
+  color: #b3b3b3;
   display: inline-block;
   vertical-align: middle;
 }
@@ -1002,7 +1002,7 @@ h2.month {
 #archive-list a {
   display: block;
   font: bold 17px/1.7 "AvenirMedium", Helvetica, Arial, sans-serif;
-  color: #333;
+  color: #ffffff;
 }
 
 #archive-list .dates {
@@ -1010,12 +1010,12 @@ h2.month {
   position: relative;
   top: 1px;
   font: 300 17px/1.7 "AvenirLight", Helvetica, Arial, sans-serif;
-  color: #bbb;
+  color: #b3b3b3;
 }
 
 #archive-list li a:hover,
 #archive-list li:hover .dates {
-  color: #949494;
+  color: #b3b3b3;
 }
 
 #post-meta img.avatar {
@@ -1041,7 +1041,7 @@ h2.month {
 
 #post-list.archive.readmore a {
   font: 400 13px/1.6 "AvenirMedium", Helvetica, Arial, sans-serif;
-  color: #949494;
+  color: #b3b3b3;
 }
 
 #post-list.archive.readmore a:hover {
@@ -1136,7 +1136,7 @@ h2.month {
   display: inline-block;
   width: 60px;
   margin: 0;
-  color: #8a8a8a;
+  color: #b3b3b3;
 }
 
 @media screen and (max-width: 768px) {
@@ -1149,15 +1149,15 @@ h2.month {
 }
 
 .archive .post-link {
-  color: #8a8a8a;
+  color: #b3b3b3;
 }
 
 .archive .post-item:hover {
-  color: #949494;
+  color: #b3b3b3;
   transition: 0.3s ease-out;
 }
 .archive .post-item:hover .post-link {
-  color: #949494;
+  color: #b3b3b3;
 }
 
 .fa.fa-heart:hover {
@@ -1251,14 +1251,14 @@ a.symbol:hover {
   font-size: 1.2em;
 }
 .page-tags ul li a {
-  color: #8a8a8a;
+  color: #b3b3b3;
   font-size: 11px;
 }
 .page-tags ul li a span {
   font-size: 0.9em;
 }
 .page-tags ul li a:hover {
-  color: #949494;
+  color: #b3b3b3;
 }
 
 /** Guide style **/
@@ -1321,7 +1321,7 @@ a.symbol:hover {
   box-shadow: 0 23px 22px -16px rgba(95, 160, 190, 0.06),
     0 32px 26px 3px rgba(158, 216, 255, 0.03),
     inset 0 0 1px 0 hsla(0, 0%, 100%, 0.5);
-  color: #222;
+  color: #ffffff;
 }
 .big-page-link.home img {
   width: 60%;
@@ -1352,7 +1352,7 @@ a.symbol:hover {
   margin-left: auto;
   padding: 2px 6px 0;
   border-radius: 1px;
-  color: #222;
+  color: #ffffff;
   font: 300 15px/1.5 "AvenirMedium", Helvetica, Arial, sans-serif;
   text-align: center;
   letter-spacing: -0.05px;
@@ -1360,7 +1360,7 @@ a.symbol:hover {
 
 .home-guide-subheader {
   font: 300 13px/1.5 "AvenirMedium", Helvetica, Arial, sans-serif;
-  color: #949494;
+  color: #b3b3b3;
   letter-spacing: -0.05px;
 }
 
@@ -1475,11 +1475,11 @@ a.symbol:hover {
   -webkit-transform: translate(-50%, 0);
   -ms-transform: translate(-50%, 0);
   transform: translate(-50%, 0);
-  color: #4d4d4d;
+  color: #ffffff;
 }
 
 .toc-container {
-  color: #2e2e2e;
+  color: #ffffff;
 }
 .toc,
 .toc-container {
@@ -1492,7 +1492,7 @@ a.symbol:hover {
 }
 .toc-menu-link.w--current {
   background-color: #75fdf159;
-  color: #333;
+  color: #ffffff;
   font-size: 13.5px;
   font-weight: 400;
   letter-spacing: 0.3px;
@@ -1505,7 +1505,7 @@ a.symbol:hover {
   transition-property: all;
   -webkit-transition-duration: 35ms;
   transition-duration: 35ms;
-  color: #333;
+  color: #ffffff;
   font-size: 13.5px;
   font-weight: 200;
   letter-spacing: 0.35px;
@@ -1524,14 +1524,14 @@ a.symbol:hover {
   padding-top: 5px;
   padding-bottom: 3px;
   background-color: #75fdf1;
-  color: #182f4d;
+  color: #ffffff;
   font-size: 14px;
   letter-spacing: 0.15px;
 }
 
 .expand span.h2 {
   font: italic 19px/1.3em Georgia, serif;
-  color: #bbb;
+  color: #b3b3b3;
 }
 .division-toggle.h2 {
   height: 22px;
@@ -1581,7 +1581,7 @@ div#guide_toc li {
 div#guide_toc ul > li > ul > li:hover {
   border-bottom-style: solid;
   border-bottom-color: #a7bfc7;
-  color: #2e4550;
+  color: #ffffff;
   border-bottom: 1px solid;
 }
 

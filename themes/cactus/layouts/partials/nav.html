@@ -1,15 +1,106 @@
 <nav class="main-nav">
-	{{ $url := replace .Permalink .Site.BaseURL "" }}
-	{{ if not .IsHome }}
-		<a href='{{ .Site.BaseURL }}'> <span class="arrow">←</span>{{ with .Site.Params.home }}{{ . }}{{ else }}Home{{ end }}</a>
-	{{ end }}
-	<a href='{{ .Site.BaseURL }}blog'>{{ with .Site.Params.about }}{{ . }}{{ else }}Articles{{ end }}</a>
-	<a href='{{ .Site.BaseURL }}contact'>{{ with .Site.Params.about }}{{ . }}{{ else }}Contact{{ end }}</a>
-	{{ range $key, $val := .Site.Params.Links }}
-		<a href="{{ $val }}">{{ $key }}</a>
-	{{ end }}
-	
-	<a class="cta" href='{{ .Site.BaseURL }}about'>{{ with .Site.Params.about }}{{ . }}{{ else }}About{{ end }}</a>
-	
+  {{ $url := replace .Permalink .Site.BaseURL "" }} {{ if not .IsHome }}
+  <div style="display: flex; justify-content: flex-end; align-items: center">
+    <a href="{{ .Site.BaseURL }}">
+      <span class="arrow">←</span>{{ with .Site.Params.home }}{{ . }}{{ else
+      }}Home{{ end }}</a
+    >
+    {{ end }}
+    <a href="{{ .Site.BaseURL }}blog"
+      >{{ with .Site.Params.about }}{{ . }}{{ else }}Articles{{ end }}</a
+    >
+    <a href="{{ .Site.BaseURL }}contact"
+      >{{ with .Site.Params.about }}{{ . }}{{ else }}Contact{{ end }}</a
+    >
+    {{ range $key, $val := .Site.Params.Links }}
+    <a href="{{ $val }}">{{ $key }}</a>
+    {{ end }}
+    <a class="cta" href="{{ .Site.BaseURL }}about"
+      >{{ with .Site.Params.about }}{{ . }}{{ else }}About{{ end }}</a
+    >
 
+    <div class="toggle test" style="display: inline-block; margin-left: 12px">
+      <div class="ball dark-mode-toggle"></div>
+    </div>
+  </div>
+
+  <!-- style="display: inline-block; position: absolute; margin: -5px 12px" 
+      style="position: relative; margin: 3px -1px"
+    -->
 </nav>
+
+<style>
+  .toggle {
+    background: #ccc;
+    border-radius: 4em;
+    height: 2.5em;
+    width: 4em;
+  }
+  .ball:before,
+  .night:before {
+    align-items: center;
+    display: flex;
+    font-family: "FontAwesome";
+    height: 100%;
+    justify-content: center;
+  }
+  .ball {
+    background: #fff;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+    margin-top: 0.25em;
+    transform: translateX(25%);
+    transition: all 300ms ease;
+    border-radius: 50%;
+    height: 2em;
+    width: 2em;
+  }
+  .ball:before {
+    color: #333;
+    content: "\f185";
+  }
+  .night {
+    background: #333;
+    transform: translateX(75%);
+  }
+  .night:before {
+    color: #fff;
+    content: "\f186";
+  }
+  .black {
+    background: #111;
+  }
+</style>
+
+<script>
+  const ball = document.querySelector(".ball");
+  var darkTheme = document.getElementById("dark-mode-theme");
+
+  if (localStorage.getItem("dark-mode-storage") === "dark") {
+    ball.classList.add("night");
+  } else {
+    ball.classList.add("light");
+  }
+  function setTheme(mode) {
+    localStorage.setItem("dark-mode-storage", mode);
+    if (mode === "dark") {
+      darkTheme.disabled = false;
+    } else if (mode === "light") {
+      darkTheme.disabled = true;
+    }
+  }
+
+  ball.addEventListener("click", () => {
+    console.log("====");
+    ball.classList.toggle("night");
+    if (ball.classList.contains("night")) {
+      setTheme("dark");
+    } else {
+      setTheme("light");
+    }
+    // document.body.classList.toggle("black");
+  });
+
+  var savedTheme = localStorage.getItem("dark-mode-storage") || "light";
+  setTheme(savedTheme);
+</script>
