@@ -1,32 +1,29 @@
-<nav class="main-nav">
+<nav
+  class="main-nav"
+  style="display: flex; justify-content: flex-end; align-items: center"
+>
   {{ $url := replace .Permalink .Site.BaseURL "" }} {{ if not .IsHome }}
-  <div style="display: flex; justify-content: flex-end; align-items: center">
-    <a href="{{ .Site.BaseURL }}">
-      <span class="arrow">←</span>{{ with .Site.Params.home }}{{ . }}{{ else
-      }}Home{{ end }}</a
-    >
-    {{ end }}
-    <a href="{{ .Site.BaseURL }}blog"
-      >{{ with .Site.Params.about }}{{ . }}{{ else }}Articles{{ end }}</a
-    >
-    <a href="{{ .Site.BaseURL }}contact"
-      >{{ with .Site.Params.about }}{{ . }}{{ else }}Contact{{ end }}</a
-    >
-    {{ range $key, $val := .Site.Params.Links }}
-    <a href="{{ $val }}">{{ $key }}</a>
-    {{ end }}
-    <a class="cta" href="{{ .Site.BaseURL }}about"
-      >{{ with .Site.Params.about }}{{ . }}{{ else }}About{{ end }}</a
-    >
+  <a href="{{ .Site.BaseURL }}">
+    <span class="arrow">←</span>{{ with .Site.Params.home }}{{ . }}{{ else
+    }}Home{{ end }}</a
+  >
+  {{ end }}
+  <a href="{{ .Site.BaseURL }}blog"
+    >{{ with .Site.Params.about }}{{ . }}{{ else }}Articles{{ end }}</a
+  >
+  <a href="{{ .Site.BaseURL }}contact"
+    >{{ with .Site.Params.about }}{{ . }}{{ else }}Contact{{ end }}</a
+  >
+  {{ range $key, $val := .Site.Params.Links }}
+  <a href="{{ $val }}">{{ $key }}</a>
+  {{ end }}
+  <a class="cta" href="{{ .Site.BaseURL }}about"
+    >{{ with .Site.Params.about }}{{ . }}{{ else }}About{{ end }}</a
+  >
 
-    <div class="toggle test" style="display: inline-block; margin-left: 12px">
-      <div class="ball dark-mode-toggle"></div>
-    </div>
+  <div class="toggle test" style="display: inline-block; margin-left: 12px">
+    <div class="ball dark-mode-toggle"></div>
   </div>
-
-  <!-- style="display: inline-block; position: absolute; margin: -5px 12px" 
-      style="position: relative; margin: 3px -1px"
-    -->
 </nav>
 
 <style>
