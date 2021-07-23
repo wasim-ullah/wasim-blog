@@ -57,7 +57,29 @@ This is a sweetheart of a marketing department. Your referrals are a tasty sugar
   <li>Referral Shares</li>
   <li>Invites accepted</li>
   <li>Referral Rate</li>
-</ul>  
+</ul>
+
+## Examples
+Here is the list of 17 KPIs taken from over <a href="https://www.datapine.com/kpi-examples-and-templates/sales#sales-opportunity-score">over here</a>:
+<ol>
+    <li>Sales Growth: Is your business growing steadily?</li>
+<li>Sales Target: Are you on track regarding the sales targets?</li>
+<li>Customer Acquisition Cost: How much does a new customer cost?</li>
+<li>Average Revenue per Unit: What is your average revenue per user?</li>
+<li>Customer Lifetime Value: How much do you expect to earn per customer?</li>
+<li>Customer Churn Rate: How many customers do you lose?</li>
+<li>Average Sales Cycle Length: How do you shorten your sales cycle?</li>
+<li>Lead-to-Opportunity Ratio: How about your lead quality?</li>
+<li>Opportunity-to-Win Ratio: How many qualified leads result in closing a deal?</li>
+<li>Lead Conversion Ratio: Is your conversion ratio stable?</li>
+<li>Number of Sales Opportunities: What is your potential purchase volume?</li>
+<li>Sales Opportunity Score: Do you prioritize your sales opportunities?</li>
+<li>Average Purchase Value: Is your average purchase value sustainable?</li>
+<li>Revenue per Sales Rep: How much revenue do your sales rep bring?</li>
+<li>Profit Margin per Sales Rep: Is your sales team profitable as expected?</li>
+<li>Upsell & Cross-Sell Rates: How do you increase your revenue and ROI?</li>
+<li>Incremental Sales by Campaign: Which campaign brings you the best results?</li>
+</ol>
 
 ## Take Aways
 Out of the above basic stages in a sales funnel, which one seems the most challenging to you? Every stage has its own unique value so it can't be underrated. The KPIs listed above are a fraction of the actual mass number of possibilities that you can customize for your business. While every business and every team within that business would have to divide and clarify their goals, two of them can't say that their KPIs are the same, although their direction should be similar. So every marketing campaign should also have distinct value points so that it can be measured and optimized to achieve its unique value which would otherwise won't make sense to run two campaigns burning money on two sides for no reason.
