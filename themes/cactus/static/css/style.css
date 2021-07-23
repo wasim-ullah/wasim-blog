@@ -2185,7 +2185,7 @@ body {
     -ms-transition: all 0.15s ease;
     -o-transition: all 0.15s ease;
     transition: all 0.15s ease;
-    color: #568203;
+    color: #17bf63;
   }
 
   ul {
@@ -2789,7 +2789,7 @@ Post List
   }
 
   a.symbol {
-    color: #568203;
+    color: #17bf63;
     font-size: 2rem;
     text-decoration: none;
     margin-right: 0.3rem;
