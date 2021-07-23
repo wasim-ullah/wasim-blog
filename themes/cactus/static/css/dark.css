@@ -93,7 +93,7 @@ body {
   margin: 0;
   padding: 0;
   background: #15202b;
-  transition: background 0.4s linear;
+  /* transition: background 0.4s linear; */
 }
 
 article,
