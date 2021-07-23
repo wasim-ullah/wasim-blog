@@ -36,8 +36,7 @@
 
     {{ .Hugo.Generator }}
     <title>
-      {{ if .IsHome }}{{ .Title }}{{ else if eq .Title "Blogs"}}Blog{{ else }}{{
-      .Title }} &middot; {{ .Site.Title }}{{ end }}
+      {{ if .IsHome }}{{ .Title }}{{ else if eq .Title "Blogs"}}Blog{{ else }}{{ .Title }} &middot; {{ .Site.Title }}{{ end }}
     </title>
     <link rel="shortcut icon" href="{{ .Site.BaseURL }}images/favicon.ico" />
     <link rel="stylesheet" href="{{ .Site.BaseURL }}css/style.css" />
