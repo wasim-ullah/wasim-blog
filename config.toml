@@ -10,7 +10,7 @@ theme = "cactus"
 	description = "Wasim is a full stack marketing ninja."
 
 	author = "Wasim Ullah"
-	bio = "Marketing"
+	bio = "Marketing Ninja"
 
 	twitter = "wasimxullah"
 	facebook = "wasimxullah"
@@ -18,7 +18,7 @@ theme = "cactus"
 	enableRSS = true
 	enableToc = true
 
-	enableDisqus = false
+	enableDisqus = true
 	disqusShortname = "WasimU"
 
 	enableSummary = true
