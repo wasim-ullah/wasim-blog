@@ -60,7 +60,7 @@ This is a sweetheart of a marketing department. Your referrals are a tasty sugar
 </ul>
 
 ## Examples
-Here is the list of 17 KPIs taken from over <a href="https://www.datapine.com/kpi-examples-and-templates/sales#sales-opportunity-score">over here</a>:
+Here is the list of 17 important sales KPIs sourced from Datapine:
 <ol>
     <li>Sales Growth: Is your business growing steadily?</li>
 <li>Sales Target: Are you on track regarding the sales targets?</li>
