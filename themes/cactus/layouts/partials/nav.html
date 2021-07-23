@@ -1,5 +1,6 @@
 <nav
   class="main-nav"
+  id="ccc"
   style="display: flex; justify-content: flex-end; align-items: center"
 >
   {{ $url := replace .Permalink .Site.BaseURL "" }} {{ if not .IsHome }}
@@ -72,11 +73,6 @@
   const ball = document.querySelector(".ball");
   var darkTheme = document.getElementById("dark-mode-theme");
 
-  if (localStorage.getItem("dark-mode-storage") === "dark") {
-    ball.classList.add("night");
-  } else {
-    ball.classList.add("light");
-  }
   function setTheme(mode) {
     localStorage.setItem("dark-mode-storage", mode);
     if (mode === "dark") {
@@ -87,7 +83,7 @@
   }
 
   ball.addEventListener("click", () => {
-    console.log("====");
+    // console.log("====");
     ball.classList.toggle("night");
     if (ball.classList.contains("night")) {
       setTheme("dark");
@@ -99,4 +95,12 @@
 
   var savedTheme = localStorage.getItem("dark-mode-storage") || "light";
   setTheme(savedTheme);
+
+  const b = window
+    .getComputedStyle(document.querySelector("#ccc"))
+    .getPropertyValue("color");
+  console.log("=============================++++++++++++++++", b);
+  if (b === "rgb(179, 179, 179)") {
+    ball.classList.add("night");
+  }
 </script>
