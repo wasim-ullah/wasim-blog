@@ -13,9 +13,9 @@ twitterCardImage: ("/images/funnel.jpg")
 
 ![Sales Funnel Key Performance Indicators](/images/funnel.jpg)
 
-Have you ever found yourself trapped in between optimizing every single step of your marketing campaigns?
+Have you ever found yourself trapped in between optimizing every single step of your marketing campaigns?<br>
 As a newbie, you might thinkn of a marketing campaign as an advertisement or a post update that links to a website where you will collect the leads or sign ups. But that's not it. The story of sales funnels and its KPIs starts from the point when you want to take care of your marketing with some standardized forms of action.
-In a nutshell, a sales funnel will build your layout and KPIs will act as its components.
+In a nutshell, a sales funnel will build your layout and KPIs will act as its components.<br>
 Key Performance Indicators (KPIs) can be tracked by some of the most commonly used metrics. However, variations of these metrics depend upon your business goals.
 
 ## Awareness
