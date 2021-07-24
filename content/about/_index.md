@@ -26,7 +26,7 @@ draft: false
 <li>Merit scholarship in eighth grade,</li>
 <li>Honorary mention in the dean's list for maintaining top positions for consecutive years in annual examinations.</li>
 </ol>
-
+<br><br>
 ## Work
 Download the file by clicking <a href="https://wasim.co/docs/profile.pdf">here</a>
 <!-- insert in the document body -->
