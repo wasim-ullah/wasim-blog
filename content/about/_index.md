@@ -4,10 +4,9 @@ date: 2018-11-08T19:41:41+04:00
 draft: false
 ---
 ## Work
-
+Download the file by clicking <a href="https://wasim.co/docs/profile.pdf">here</a>
 <!-- insert in the document body -->
-<iframe src="https://wasim.co/docs/profile.pdf" width="100%" height="250px">
-Download the file by clicking <a href="https://wasim.co/docs/profile.pdf">here</a>.</iframe>
+<iframe src="https://wasim.co/docs/profile.pdf" width="100%" height="250px"></iframe>
 
 <br>
 
