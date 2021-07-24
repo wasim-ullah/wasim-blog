@@ -12,7 +12,8 @@ draft: false
         height='250px'>
 <p>Download the file by clicking <a href="https://wasim.co/docs/profile.pdf">here</a>.</p>
 </object>
-</script>
+<iframe src="https://wasim.co/docs/profile.pdf" width="100%" height="250px">
+Download the file by clicking <a href="https://wasim.co/docs/profile.pdf">here</a>.</iframe>
 <br>
 
 | Skills | Portfolio |
