@@ -4,13 +4,13 @@ date: 2018-11-08T19:41:41+04:00
 draft: false
 ---
 ## Work
-Download the file by clicking <a href="https://wasim.co/docs/profile.pdf">here</a>.
+
 <!-- insert in the document body -->
 <object data='https://wasim.co/docs/profile.pdf' 
         type='application/pdf' 
         width='100%' 
         height='200px'>
-<p>This browser does not support inline PDFs. Please download the PDF to view it: <a href="https://wasim.co/docs/profile.pdf">Download PDF</a></p>
+<p>Download the file by clicking <a href="https://wasim.co/docs/profile.pdf">here</a>.</p>
 </object>
 </script>
 <br><br>
