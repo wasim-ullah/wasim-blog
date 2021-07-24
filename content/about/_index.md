@@ -5,6 +5,7 @@ draft: false
 ---
 ## Work
 Download the file by clicking <a href="https://wasim.co/docs/profile.pdf">here</a>.
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FBSm2sVNe1aOGFAMzCa6Mjz%2FWasim-Ullah-Portfolio%3Fnode-id%3D6%253A8" allowfullscreen></iframe>
 <br><br>
 
 | Skills | Portfolio |
