@@ -6,12 +6,6 @@ draft: false
 ## Work
 
 <!-- insert in the document body -->
-<object data='https://wasim.co/docs/profile.pdf' 
-        type='application/pdf' 
-        width='100%' 
-        height='250px'>
-<p>Download the file by clicking <a href="https://wasim.co/docs/profile.pdf">here</a>.</p>
-</object>
 <iframe src="https://wasim.co/docs/profile.pdf" width="100%" height="250px">
 Download the file by clicking <a href="https://wasim.co/docs/profile.pdf">here</a>.</iframe>
 <br>
