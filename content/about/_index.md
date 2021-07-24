@@ -13,7 +13,7 @@ draft: false
 <p>Download the file by clicking <a href="https://wasim.co/docs/profile.pdf">here</a>.</p>
 </object>
 </script>
-<br><br>
+<br>
 
 | Skills | Portfolio |
 | ------ | ----------- |
