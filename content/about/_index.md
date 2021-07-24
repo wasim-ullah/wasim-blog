@@ -9,7 +9,7 @@ draft: false
 <iframe src="https://wasim.co/docs/profile.pdf" width="100%" height="250px">
 Download the file by clicking <a href="https://wasim.co/docs/profile.pdf">here</a>.</iframe>
 123
-<div id="adobe-dc-view" style="width: 800px;"></div>
+<div id="adobe-dc-view" style="width: 100%;"></div>
 <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
 <script type="text/javascript">
 	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
