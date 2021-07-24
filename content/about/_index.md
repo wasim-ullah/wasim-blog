@@ -8,18 +8,7 @@ draft: false
 <!-- insert in the document body -->
 <iframe src="https://wasim.co/docs/profile.pdf" width="100%" height="250px">
 Download the file by clicking <a href="https://wasim.co/docs/profile.pdf">here</a>.</iframe>
-123
-<div id="adobe-dc-view" style="width: 100%;"></div>
-<script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
-<script type="text/javascript">
-	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
-		var adobeDCView = new AdobeDC.View({clientId: "<YOUR_CLIENT_ID>", divId: "adobe-dc-view"});
-		adobeDCView.previewFile({
-			content:{location: {url: "https://wasim.co/docs/profile.pdf"}},
-			metaData:{fileName: "Bodea Brochure.pdf"}
-		}, {embedMode: "IN_LINE", showDownloadPDF: false, showPrintPDF: false});
-	});
-</script>
+
 <br>
 
 | Skills | Portfolio |
