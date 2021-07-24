@@ -9,7 +9,7 @@ draft: false
 <object data='https://wasim.co/docs/profile.pdf' 
         type='application/pdf' 
         width='100%' 
-        height='200px'>
+        height='250px'>
 <p>Download the file by clicking <a href="https://wasim.co/docs/profile.pdf">here</a>.</p>
 </object>
 </script>
