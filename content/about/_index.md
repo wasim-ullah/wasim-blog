@@ -9,10 +9,9 @@ Download the file by clicking <a href="https://wasim.co/docs/profile.pdf">here</
 <object data='https://wasim.co/docs/profile.pdf' 
         type='application/pdf' 
         width='100%' 
-        height='100%'>
+        height='300px'>
 <p>This browser does not support inline PDFs. Please download the PDF to view it: <a href="https://wasim.co/docs/profile.pdf">Download PDF</a></p>
 </object>
-PDFObject.embed("https://wasim.co/docs/profile.pdf");
 </script>
 <br><br>
 
