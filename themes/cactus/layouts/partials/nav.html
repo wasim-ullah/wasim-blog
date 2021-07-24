@@ -17,7 +17,7 @@
   {{ range $key, $val := .Site.Params.Links }}
   <a href="{{ $val }}">{{ $key }}</a>
   {{ end }}
-  <a class="cta" href="{{ .Site.BaseURL }}about" style="color: black"
+  <a class="cta" href="{{ .Site.BaseURL }}about" style="color: white"
     >{{ with .Site.Params.about }}{{ . }}{{ else }}About{{ end }}</a
   >
 
