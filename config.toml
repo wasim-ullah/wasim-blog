@@ -18,8 +18,8 @@ theme = "cactus"
 	enableRSS = true
 	enableToc = true
 
-	enableDisqus = true
-	disqusShortname = "WasimU"
+	enableDisqus = false
+	disqusShortname = ""
 
 	enableSummary = true
 	# Set the value to true if use description in post front matter replace content summary
