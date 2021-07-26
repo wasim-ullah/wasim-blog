@@ -729,7 +729,7 @@ blockquote {
 hr {
   display: block;
   border: none;
-  height: 0px;
+  height: 1px;
   margin: 40px auto;
   background: #eee;
 }
