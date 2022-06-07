@@ -264,7 +264,7 @@ table {
 }
 
 /* Icons */
-/* Custom added Fonts */
+
 @font-face {
   font-family: "icons";
   src: url("../fonts/icons.eot#iefix") format("embedded-opentype"),
@@ -274,6 +274,7 @@ table {
   font-weight: normal;
   font-style: normal;
 }
+/* Custom added Fonts 
 @font-face {
   font-family: "AvenirMedium";
   src: url("../fonts/icons.eot");
@@ -294,7 +295,7 @@ table {
   src: url("../fonts/Avenirltstd-light.eot");
   src: url("../fonts/Avenirltstd-light.woff");
 }
-
+*/
 [class^="icon-"]:before,
 [class*=" icon-"]:before {
   font-family: "icons";
