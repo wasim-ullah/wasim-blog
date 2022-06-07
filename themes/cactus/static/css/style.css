@@ -118,6 +118,13 @@ body {
   color: #ff6600;
   margin: auto;
 }
+
+@import url('https://rsms.me/inter/inter.css');
+html { font-family: 'Inter', sans-serif; }
+@supports (font-variation-settings: normal) {
+  html { font-family: 'Inter var', sans-serif; }
+}
+
 /* Clickable theme change button with animation */
 
 .gWjHTB {
@@ -357,7 +364,7 @@ body {
 
 /* Clickable theme change button with animation 
 body {
-    font: 13px/1 'AvenirLight', Helvetica, Arial, sans-serif;
+    font: 13px/1 'Inter', Helvetica, Arial, sans-serif;
     color: #666;
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
@@ -365,7 +372,7 @@ body {
 */
 
 body {
-  font: 13px/1 "AvenirMedium", Helvetica, Arial, sans-serif;
+  font: 13px/1 "Inter", Helvetica, Arial, sans-serif;
   color: #666;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
@@ -379,7 +386,7 @@ h1 {
 }
 
 h2 {
-  font: italic 19px/1.3em "AvenirMedium", Helvetica, Arial, sans-serif;
+  font: italic 19px/1.3em "Inter", Helvetica, Arial, sans-serif;
   color: #bbb;
 }
 
