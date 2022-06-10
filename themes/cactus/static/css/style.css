@@ -119,12 +119,6 @@ body {
   margin: auto;
 }
 
-@import url('https://rsms.me/inter/inter.css');
-html { font-family: 'Inter', sans-serif; }
-@supports (font-variation-settings: normal) {
-  html { font-family: 'Inter var', sans-serif; }
-}
-
 /* Clickable theme change button with animation */
 
 .gWjHTB {
@@ -286,6 +280,25 @@ table {
   src: url("../fonts/AvenirLTStd-Medium.woff2");
 }
 
+
+@font-face {
+  font-family: 'InterRegular';
+  font-style:  normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../fonts/Inter-Regular.woff2?v=3.19") format("woff2"),
+       url("../fonts/Inter-Regular.woff?v=3.19") format("woff");
+}
+
+@font-face {
+  font-family: 'InterExtraBold';
+  font-style:  normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url("../fonts/Inter-ExtraBold.woff2?v=3.19") format("woff2"),
+       url("../fonts/Inter-ExtraBold.woff?v=3.19") format("woff");
+}
+
 @font-face {
   font-family: "AvenirLight";
   src: url("../fonts/Avenirltstd-light.woff2");
@@ -365,7 +378,7 @@ body {
 
 /* Clickable theme change button with animation 
 body {
-    font: 13px/1 'Inter', Helvetica, Arial, sans-serif;
+    font-family: 'Inter', sans-serif;
     color: #666;
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
@@ -373,7 +386,7 @@ body {
 */
 
 body {
-  font: 13px/1 "Inter", Helvetica, Arial, sans-serif;
+  font: 13px/1 'InterRegular', sans-serif;
   color: #666;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
@@ -387,7 +400,7 @@ h1 {
 }
 
 h2 {
-  font: italic 19px/1.3em "Inter", Helvetica, Arial, sans-serif;
+  font: italic 19px/1.3em 'InterRegular', sans-serif;
   color: #bbb;
 }
 
@@ -417,7 +430,7 @@ h2 {
   letter-spacing: 0px;
   font-size: 15px;
   color: #222;
-  font-family: "AvenirMedium", Helvetica, Arial, sans-serif;
+  font-family: 'Inter', sans-serif;
 }
 
 .profile h2 {
@@ -425,7 +438,7 @@ h2 {
   font-weight: 300;
   color: #949494;
   margin-top: 10px;
-  font-family: "AvenirLight", Helvetica, Arial, sans-serif;
+  font-family: 'Inter', sans-serif;
   font-style: normal;
 }
 
